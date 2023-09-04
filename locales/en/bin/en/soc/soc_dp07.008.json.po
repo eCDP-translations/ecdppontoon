@@ -1,0 +1,132 @@
+#. extracted from translation/bin/en/soc/soc_dp07.008.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Quarter-Pounder Cheese\n"
+"■This shows the\n"
+"fully assembled\n"
+"sandwich."
+msgstr ""
+
+#: [1]
+msgid ""
+"Procedure\n"
+"■Put toasted quarter-pounder\n"
+"buns in the special box."
+msgstr ""
+
+#: [2]
+msgid ""
+"Procedure\n"
+"■Put the crown\n"
+"on its toasted\n"
+"side and the\n"
+"heel next to\n"
+"it cut-side-up."
+msgstr ""
+
+#: [3]
+msgid ""
+"Procedure\n"
+"■Hit the crown\n"
+"with a shot of\n"
+"mustard."
+msgstr ""
+
+#: [4]
+msgid ""
+"Procedure\n"
+"■Hit it with a\n"
+"15mL shot of\n"
+"ketchup."
+msgstr ""
+
+#: [5]
+msgid ""
+"Procedure\n"
+"■Put 7g/0.2oz\n"
+"of onions on\n"
+"the ketchup."
+msgstr ""
+
+#: [6]
+msgid ""
+"Procedure\n"
+"■Put 2 pickles\n"
+"on top of the\n"
+"onions so \n"
+"they do not\n"
+"overlap."
+msgstr ""
+
+#: [7]
+msgid ""
+"Procedure\n"
+"■Put one slice of\n"
+"cheese on the\n"
+"heel and one on\n"
+"the pickles."
+msgstr ""
+
+#: [8]
+msgid ""
+"Procedure\n"
+"■Put 2 1/14th\n"
+"patties on top\n"
+"of the cheese\n"
+"on the crown."
+msgstr ""
+
+#: [9]
+msgid ""
+"Procedure\n"
+"■Lift up the\n"
+"top 1/4th patty\n"
+"and put a slice\n"
+"of cheese there."
+msgstr ""
+
+#: [10]
+msgid ""
+"Procedure\n"
+"■Put the 2nd\n"
+"1/4th patty on\n"
+"the newly-\n"
+"placed cheese."
+msgstr ""
+
+#: [11]
+msgid ""
+"Procedure\n"
+"■Put the heel\n"
+"side on top\n"
+"of the crown\n"
+"side."
+msgstr ""
+
+#: [12]
+msgid ""
+"Procedure\n"
+"■Close the box from the heel\n"
+"side."
+msgstr ""
+
+#: [13]
+msgid ""
+"Procedure\n"
+"■Turn the box upside-down and\n"
+"slide it down the HLZ."
+msgstr ""

@@ -1,0 +1,1135 @@
+#. extracted from translation/overlay/ja/OVERLAY_17.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .7588
+msgctxt ".7588"
+".7588"
+".7588"
+".7588"
+".7588"
+".7588"
+msgid "安全"
+msgstr ""
+
+#: .7596
+msgctxt ".7596"
+msgid "安全"
+msgstr ""
+
+#: .7604
+msgctxt ".7604"
+msgid "安全"
+msgstr ""
+
+#: .7612
+msgctxt ".7612"
+msgid "安全"
+msgstr ""
+
+#: .7620
+msgctxt ".7620"
+msgid "安全"
+msgstr ""
+
+#: .7628
+msgctxt ".7628"
+msgid "安全"
+msgstr ""
+
+#: .7636
+msgctxt ".7636"
+msgid "安全"
+msgstr ""
+
+#: .7652
+msgctxt ".7652"
+".7652"
+".7652"
+".7652"
+".7652"
+".7652"
+msgid "新鮮さ"
+msgstr ""
+
+#: .7660
+msgctxt ".7660"
+".7660"
+".7660"
+".7660"
+".7660"
+".7660"
+msgid "温かさ"
+msgstr ""
+
+#: .7668
+msgctxt ".7668"
+msgid "新鮮さ"
+msgstr ""
+
+#: .7676
+msgctxt ".7676"
+msgid "新鮮さ"
+msgstr ""
+
+#: .7684
+msgctxt ".7684"
+msgid "温かさ"
+msgstr ""
+
+#: .7692
+msgctxt ".7692"
+msgid "温かさ"
+msgstr ""
+
+#: .7700
+msgctxt ".7700"
+msgid "新鮮さ"
+msgstr ""
+
+#: .7708
+msgctxt ".7708"
+msgid "温かさ"
+msgstr ""
+
+#: .7716
+msgctxt ".7716"
+msgid "温かさ"
+msgstr ""
+
+#: .7724
+msgctxt ".7724"
+msgid "新鮮さ"
+msgstr ""
+
+#: .7732
+msgctxt ".7732"
+msgid "新鮮さ"
+msgstr ""
+
+#: .7740
+msgctxt ".7740"
+msgid "新鮮さ"
+msgstr ""
+
+#: .7748
+msgctxt ".7748"
+msgid "温かさ"
+msgstr ""
+
+#: .7756
+msgctxt ".7756"
+msgid "温かさ"
+msgstr ""
+
+#: .7764
+msgid "エッグ"
+msgstr ""
+
+#: .8464
+msgctxt ".8464"
+".8464"
+".8464"
+msgid "１７７℃"
+msgstr ""
+
+#: .8476
+msgctxt ".8476"
+msgid "１７７℃"
+msgstr ""
+
+#: .8488
+msgctxt ".8488"
+msgid "１７７℃"
+msgstr ""
+
+#: .8500
+msgctxt ".8500"
+".8500"
+".8500"
+msgid "２１８℃"
+msgstr ""
+
+#: .8512
+msgctxt ".8512"
+msgid "２１８℃"
+msgstr ""
+
+#: .8524
+msgctxt ".8524"
+msgid "１７７℃"
+msgstr ""
+
+#: .8536
+msgid "１６８℃"
+msgstr ""
+
+#: .8548
+msgctxt ".8548"
+".8548"
+".8548"
+".8548"
+msgid "アツアツ"
+msgstr ""
+
+#: .8560
+msgctxt ".8560"
+msgid "アツアツ"
+msgstr ""
+
+#: .8572
+msgctxt ".8572"
+".8572"
+msgid "（目安）"
+msgstr ""
+
+#: .8584
+msgid "１３５℃"
+msgstr ""
+
+#: .8620
+msgctxt ".8620"
+msgid "（目安）"
+msgstr ""
+
+#: .8632
+msgctxt ".8632"
+msgid "（目安）"
+msgstr ""
+
+#: .8644
+msgctxt ".8644"
+msgid "アツアツ"
+msgstr ""
+
+#: .8656
+msgctxt ".8656"
+msgid "アツアツ"
+msgstr ""
+
+#: .8668
+msgctxt ".8668"
+msgid "２１８℃"
+msgstr ""
+
+#: .8680
+msgid "１６６℃"
+msgstr ""
+
+#: .8692
+msgid "１８２℃"
+msgstr ""
+
+#: .8704
+msgctxt ".8704"
+msgid "アツアツ"
+msgstr ""
+
+#: .8716
+msgctxt ".8716"
+msgid "２１８℃"
+msgstr ""
+
+#: .8728
+msgctxt ".8728"
+".8728"
+".8728"
+msgid "グリル温度"
+msgstr ""
+
+#: .8740
+msgctxt ".8740"
+".8740"
+".8740"
+msgid "ジューシー"
+msgstr ""
+
+#: .8752
+msgctxt ".8752"
+".8752"
+".8752"
+".8752"
+".8752"
+msgid "正しく焼成"
+msgstr ""
+
+#: .8764
+msgctxt ".8764"
+msgid "正しい調理"
+msgstr ""
+
+#: .8776
+msgctxt ".8776"
+msgid "ジューシー"
+msgstr ""
+
+#: .8788
+msgid "フルバッグ"
+msgstr ""
+
+#: .8800
+msgctxt ".8800"
+msgid "正しい調理"
+msgstr ""
+
+#: .8812
+msgctxt ".8812"
+msgid "正しく焼成"
+msgstr ""
+
+#: .8824
+msgctxt ".8824"
+msgid "正しく焼成"
+msgstr ""
+
+#: .8836
+msgctxt ".8836"
+msgid "ジューシー"
+msgstr ""
+
+#: .8848
+msgctxt ".8848"
+msgid "正しく焼成"
+msgstr ""
+
+#: .8860
+msgctxt ".8860"
+msgid "ジューシー"
+msgstr ""
+
+#: .8872
+msgctxt ".8872"
+msgid "グリル温度"
+msgstr ""
+
+#: .8884
+msgctxt ".8884"
+msgid "正しく焼成"
+msgstr ""
+
+#: .8896
+msgctxt ".8896"
+msgid "グリル温度"
+msgstr ""
+
+#: .8908
+msgctxt ".8908"
+msgid "正しく焼成"
+msgstr ""
+
+#: .8920
+msgctxt ".8920"
+msgid "グリル温度"
+msgstr ""
+
+#: .8932
+msgid "程よい塩加減"
+msgstr ""
+
+#: .8948
+msgctxt ".8948"
+".8948"
+msgid "４：１パティ"
+msgstr ""
+
+#: .8964
+msgctxt ".8964"
+".8964"
+".8964"
+msgid "プラテン温度"
+msgstr ""
+
+#: .8980
+msgctxt ".8980"
+msgid "４：１パティ"
+msgstr ""
+
+#: .8996
+msgid "スタンダード"
+msgstr ""
+
+#: .9012
+msgctxt ".9012"
+msgid "スピーディー"
+msgstr ""
+
+#: .9028
+msgid "エクステンド"
+msgstr ""
+
+#: .9044
+msgid "卵は室温か？"
+msgstr ""
+
+#: .9060
+msgctxt ".9060"
+msgid "スピーディー"
+msgstr ""
+
+#: .9076
+msgctxt ".9076"
+msgid "プラテン温度"
+msgstr ""
+
+#: .9092
+msgctxt ".9092"
+msgid "プラテン温度"
+msgstr ""
+
+#: .9108
+msgid "外はカリカリ"
+msgstr ""
+
+#: .9124
+msgid "ビッグマック"
+msgstr ""
+
+#: .9140
+msgctxt ".9140"
+msgid "４：１パティ"
+msgstr ""
+
+#: .9156
+msgctxt ".9156"
+msgid "プラテン温度"
+msgstr ""
+
+#: .9172
+msgctxt ".9172"
+".9172"
+msgid "フライヤー温度"
+msgstr ""
+
+#: .9188
+msgid "ドライブスルー"
+msgstr ""
+
+#: .9204
+msgctxt ".9204"
+".9204"
+".9204"
+".9204"
+".9204"
+".9204"
+msgid "見た目の美しさ"
+msgstr ""
+
+#: .9220
+msgctxt ".9220"
+".9220"
+".9220"
+".9220"
+".9220"
+".9220"
+msgid "プレップタイム"
+msgstr ""
+
+#: .9236
+msgctxt ".9236"
+msgid "ハッシュポテト"
+msgstr ""
+
+#: .9252
+msgctxt ".9252"
+msgid "見た目の美しさ"
+msgstr ""
+
+#: .9268
+msgctxt ".9268"
+msgid "正確な取り揃え"
+msgstr ""
+
+#: .9284
+msgctxt ".9284"
+msgid "見た目の美しさ"
+msgstr ""
+
+#: .9300
+msgctxt ".9300"
+msgid "ハッシュポテト"
+msgstr ""
+
+#: .9316
+msgctxt ".9316"
+msgid "プレップタイム"
+msgstr ""
+
+#: .9332
+msgctxt ".9332"
+msgid "正確な取り揃え"
+msgstr ""
+
+#: .9348
+msgctxt ".9348"
+msgid "お客様への礼儀"
+msgstr ""
+
+#: .9364
+msgctxt ".9364"
+msgid "プレップタイム"
+msgstr ""
+
+#: .9380
+msgid "ロット＆ロビー"
+msgstr ""
+
+#: .9396
+msgctxt ".9396"
+msgid "見た目の美しさ"
+msgstr ""
+
+#: .9412
+msgid "程よい焼きムラ"
+msgstr ""
+
+#: .9428
+msgctxt ".9428"
+msgid "プレップタイム"
+msgstr ""
+
+#: .9444
+msgctxt ".9444"
+msgid "見た目の美しさ"
+msgstr ""
+
+#: .9460
+msgid "チーズバーガー"
+msgstr ""
+
+#: .9476
+msgctxt ".9476"
+msgid "ＳＡＵＳＡＧＥ"
+msgstr ""
+
+#: .9492
+msgctxt ".9492"
+msgid "ＳＡＵＳＡＧＥ"
+msgstr ""
+
+#: .9508
+msgctxt ".9508"
+msgid "見た目の美しさ"
+msgstr ""
+
+#: .9524
+msgctxt ".9524"
+msgid "プレップタイム"
+msgstr ""
+
+#: .9540
+msgctxt ".9540"
+msgid "プレップタイム"
+msgstr ""
+
+#: .9556
+msgctxt ".9556"
+msgid "フライヤー温度"
+msgstr ""
+
+#: .9572
+msgctxt ".9572"
+msgid "フライヤー温度"
+msgstr ""
+
+#: .9588
+msgid "てりやきパティ"
+msgstr ""
+
+#: .9604
+msgid "１０：１パティ"
+msgstr ""
+
+#: .9620
+msgctxt ".9620"
+msgid "お客様への礼儀"
+msgstr ""
+
+#: .9636
+msgctxt ".9636"
+msgid "ＲＥＧ／ＭＡＣ"
+msgstr ""
+
+#: .9652
+msgctxt ".9652"
+msgid "見た目の美しさ"
+msgstr ""
+
+#: .9668
+msgctxt ".9668"
+msgid "ＲＥＧ／ＭＡＣ"
+msgstr ""
+
+#: .9684
+msgctxt ".9684"
+msgid "プレップタイム"
+msgstr ""
+
+#: .9700
+msgctxt ".9700"
+".9700"
+".9700"
+".9700"
+".9700"
+".9700"
+".9700"
+".9700"
+msgid "クッキングタイム"
+msgstr ""
+
+#: .9720
+msgctxt ".9720"
+msgid "クッキングタイム"
+msgstr ""
+
+#: .9740
+msgctxt ".9740"
+msgid "クッキングタイム"
+msgstr ""
+
+#: .9760
+msgctxt ".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .9780
+msgctxt ".9780"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .9800
+msgctxt ".9800"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .9820
+msgctxt ".9820"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .9840
+msgctxt ".9840"
+msgid "ＴＥＲＩＹＡＫＩ"
+msgstr ""
+
+#: .9860
+msgctxt ".9860"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .9880
+msgctxt ".9880"
+msgid "ＴＥＲＩＹＡＫＩ"
+msgstr ""
+
+#: .9900
+msgctxt ".9900"
+msgid "クッキングタイム"
+msgstr ""
+
+#: .9920
+msgctxt ".9920"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .9940
+msgctxt ".9940"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .9960
+msgctxt ".9960"
+msgid "クッキングタイム"
+msgstr ""
+
+#: .9980
+msgctxt ".9980"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10000
+msgctxt ".10000"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10020
+msgctxt ".10020"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10040
+msgctxt ".10040"
+msgid "クッキングタイム"
+msgstr ""
+
+#: .10060
+msgctxt ".10060"
+msgid "クッキングタイム"
+msgstr ""
+
+#: .10080
+msgctxt ".10080"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10100
+msgid "カリッとした食感"
+msgstr ""
+
+#: .10120
+msgctxt ".10120"
+msgid "クッキングタイム"
+msgstr ""
+
+#: .10140
+msgctxt ".10140"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10160
+msgctxt ".10160"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10180
+msgctxt ".10180"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10200
+msgctxt ".10200"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10220
+msgctxt ".10220"
+msgid "クッキングタイム"
+msgstr ""
+
+#: .10240
+msgctxt ".10240"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10260
+msgid "ソーセージパティ"
+msgstr ""
+
+#: .10280
+msgctxt ".10280"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10300
+msgctxt ".10300"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10320
+msgctxt ".10320"
+msgid "作業前に手を洗う"
+msgstr ""
+
+#: .10340
+msgctxt ".10340"
+msgid "フィレオフィッシュ"
+msgstr ""
+
+#: .10360
+msgid "マネージャーに確認"
+msgstr ""
+
+#: .10380
+msgid "フロントカウンター"
+msgstr ""
+
+#: .10400
+msgctxt ".10400"
+msgid "マックフライポテト"
+msgstr ""
+
+#: .10420
+msgid "ポテトのサイズと量"
+msgstr ""
+
+#: .10440
+msgctxt ".10440"
+msgid "マックフライポテト"
+msgstr ""
+
+#: .10460
+msgid "ゴールデンブラウン"
+msgstr ""
+
+#: .10480
+msgid "形がくずれていない"
+msgstr ""
+
+#: .10500
+msgctxt ".10500"
+msgid "フレンドリーな対応"
+msgstr ""
+
+#: .10520
+msgctxt ".10520"
+msgid "フレンドリーな対応"
+msgstr ""
+
+#: .10540
+msgid "エッグクッカー温度"
+msgstr ""
+
+#: .10560
+msgctxt ".10560"
+msgid "フィレオフィッシュ"
+msgstr ""
+
+#: .10580
+msgid "クォーターパウンダー"
+msgstr ""
+
+#: .10604
+msgctxt ".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10628
+msgctxt ".10628"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10652
+msgctxt ".10652"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10676
+msgctxt ".10676"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10700
+msgctxt ".10700"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10724
+msgctxt ".10724"
+msgid "アツアツでフレッシュ"
+msgstr ""
+
+#: .10748
+msgid "（フルバット使用時）"
+msgstr ""
+
+#: .10772
+msgid "フィッシュポーション"
+msgstr ""
+
+#: .10796
+msgctxt ".10796"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10820
+msgctxt ".10820"
+msgid "アツアツでフレッシュ"
+msgstr ""
+
+#: .10844
+msgctxt ".10844"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10868
+msgctxt ".10868"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10892
+msgctxt ".10892"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10916
+msgid "エッグマックマフィン"
+msgstr ""
+
+#: .10940
+msgctxt ".10940"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10964
+msgctxt ".10964"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .10988
+msgctxt ".10988"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .11012
+msgctxt ".11012"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .11036
+msgctxt ".11036"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .11060
+msgctxt ".11060"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .11084
+msgctxt ".11084"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .11108
+msgid "カナディアンベーコン"
+msgstr ""
+
+#: .11132
+msgctxt ".11132"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .11156
+msgctxt ".11156"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .11180
+msgctxt ".11180"
+msgid "お客様が期待すること"
+msgstr ""
+
+#: .11204
+msgid "アツアツ、新鮮な風味"
+msgstr ""
+
+#: .11588
+msgid ""
+"てりやき\n"
+"マックバーガー"
+msgstr ""
+
+#: .11612
+msgid ""
+"イングリッシュ\n"
+"マフィン"
+msgstr ""
+
+#: .11636
+msgctxt ".11636"
+".11636"
+".11636"
+msgid "ベーシックオーダーテイク"
+msgstr ""
+
+#: .11664
+msgid "温かく、しっとりしている"
+msgstr ""
+
+#: .11692
+msgctxt ".11692"
+msgid "ベーシックオーダーテイク"
+msgstr ""
+
+#: .11720
+msgctxt ".11720"
+msgid "ベーシックオーダーテイク"
+msgstr ""
+
+#: .11748
+msgctxt ".11748"
+msgid "ベーシックオーダーテイク"
+msgstr ""
+
+#: .11832
+msgid ""
+"ダブル\n"
+"クォーターパウンダー"
+msgstr ""
+
+#: .11860
+msgid ""
+"お客様のニーズを見つ\n"
+"けましょう"
+msgstr ""
+
+#: .11892
+msgid ""
+"外側はカリカリ、\n"
+"内側はしっとり"
+msgstr ""
+
+#: .11924
+msgid ""
+"シェルフライフは守られて\n"
+"いるか？"
+msgstr ""
+
+#: .11960
+msgctxt ".11960"
+msgid ""
+"オーダーが不明確な\n"
+"場合は復唱をする"
+msgstr ""
+
+#: .11996
+msgctxt ".11996"
+msgid ""
+"オーダーが不明確な\n"
+"場合は復唱をする"
+msgstr ""
+
+#: .12032
+msgctxt ".12032"
+msgid ""
+"常にスマイルで、アイ\n"
+"コンタクトを忘れない"
+msgstr ""
+
+#: .12076
+msgctxt ".12076"
+msgid ""
+"常にスマイルで、アイ\n"
+"コンタクトを忘れない"
+msgstr ""
+
+#: .12120
+msgctxt ".12120"
+".12120"
+".12120"
+".12120"
+".12120"
+".12120"
+msgid ""
+"原材料のホールディング\n"
+"タイムは守られているか？"
+msgstr ""
+
+#: .12168
+msgctxt ".12168"
+msgid ""
+"原材料のホールディング\n"
+"タイムは守られているか？"
+msgstr ""
+
+#: .12216
+msgctxt ".12216"
+msgid ""
+"原材料のホールディング\n"
+"タイムは守られているか？"
+msgstr ""
+
+#: .12264
+msgctxt ".12264"
+msgid ""
+"原材料のホールディング\n"
+"タイムは守られているか？"
+msgstr ""
+
+#: .12312
+msgctxt ".12312"
+msgid ""
+"原材料のホールディング\n"
+"タイムは守られているか？"
+msgstr ""
+
+#: .12360
+msgctxt ".12360"
+msgid ""
+"原材料のホールディング\n"
+"タイムは守られているか？"
+msgstr ""
+
+#: .12408
+msgctxt ".12408"
+msgid ""
+"原材料のホールディング\n"
+"タイムは守られているか？"
+msgstr ""
+
+#: .12456
+msgid ""
+"礼儀正しさと思いや\n"
+"りは、商品の価格に含\n"
+"まれています"
+msgstr ""
+
+#: .12512
+msgctxt ".12512"
+msgid ""
+"お客様の話をさえぎら\n"
+"ないように、注文を最後\n"
+"まで聞く"
+msgstr ""
+
+#: .12568
+msgctxt ".12568"
+msgid ""
+"お客様の話をさえぎら\n"
+"ないように、注文を最後\n"
+"まで聞く"
+msgstr ""
+
+#: .22072
+msgid "確認したら「CHECK □」をタッチ"
+msgstr ""
+
+#: .22104
+msgid ""
+"作業の前に注意事項を\n"
+"確認しましょう"
+msgstr ""

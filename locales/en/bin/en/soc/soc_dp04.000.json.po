@@ -1,0 +1,68 @@
+#. extracted from translation/bin/en/soc/soc_dp04.000.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Customer's Expectations\n"
+"■Piping Hot\n"
+"■Juicy\n"
+"■Correctly Baked"
+msgstr ""
+
+#: [1]
+msgid ""
+"Caution!\n"
+"■Frozen sausage patties could\n"
+"be contaminated with bacteria\n"
+"because they are not completely\n"
+"cooked."
+msgstr ""
+
+#: [2]
+msgid ""
+"Grill Temperature\n"
+"■Platen: 218°C/424°F\n"
+"■Grill: 177°C/351°F"
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking Time Settings\n"
+"■Sausage Patty: 82s"
+msgstr ""
+
+#: [4]
+msgid ""
+"Changing Settings\n"
+"■You can adjust the settings\n"
+"on the front grill panel."
+msgstr ""
+
+#: [5]
+msgid ""
+"Washed Your Hands?\n"
+"■Use McDonald's\n"
+"hand soap. Wash\n"
+"properly. Dry with\n"
+"a paper towel."
+msgstr ""
+
+#: [6]
+msgid ""
+"Stock Checking\n"
+"■Determine how much\n"
+"stock you need by\n"
+"using the UHC chart."
+msgstr ""

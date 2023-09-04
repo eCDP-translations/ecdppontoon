@@ -1,0 +1,97 @@
+#. extracted from translation/bin/en/soc/soc_dp08.000.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Customer's Expectations\n"
+"■Piping Hot\n"
+"■Fresh Flavour\n"
+"■Crispy Outside\n"
+"■Soft Inside\n"
+"■Make Correctly"
+msgstr ""
+
+#: [1]
+msgid ""
+"Frier Temperature\n"
+"■Chicken/Pies: 182°C/360°F\n"
+"■Fish: 166°C/331°F"
+msgstr ""
+
+#: [2]
+msgid ""
+"Cooking Times\n"
+"■Chicken: 3m 30s ± 5s\n"
+"■Fish/Shrimp: 3m 35s ± 5s"
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking Times\n"
+"■Apple Pie: 5m 55s ± 7s"
+msgstr ""
+
+#: [4]
+msgid ""
+"Washed Your Hands?\n"
+"■Use McDonald's\n"
+"hand soap. Wash\n"
+"properly. Dry with\n"
+"a paper towel."
+msgstr ""
+
+#: [5]
+msgid ""
+"Stock Checking\n"
+"■Determine how much\n"
+"stock you need by\n"
+"using the UHC chart."
+msgstr ""
+
+#: [6]
+msgid ""
+"Safety\n"
+"■Be careful not to get burned\n"
+"while cooking with the frier.\n"
+"■Avoid hot oil splashing on\n"
+"you or touching your skin."
+msgstr ""
+
+#: [7]
+msgid ""
+"Quality\n"
+"■Cook similar products in the\n"
+"same vat (fish with fish,\n"
+"chicken with chicken, etc.)."
+msgstr ""
+
+#: [8]
+msgid ""
+"Quality\n"
+"■Check the oil levels often."
+msgstr ""
+
+#: [9]
+msgid ""
+"Quality\n"
+"■Protect hot holding."
+msgstr ""
+
+#: [10]
+msgid ""
+"Quality\n"
+"■Be careful with handling the\n"
+"batter before cooking it."
+msgstr ""

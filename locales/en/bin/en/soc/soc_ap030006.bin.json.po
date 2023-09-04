@@ -1,0 +1,38 @@
+#. extracted from translation/bin/en/soc/soc_ap030006.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■Use the yellow Hutzler spatula\n"
+"to beat the eggs.\n"
+"■Use the egg turner when cooking\n"
+"Canadian bacon and when removing\n"
+"eggs from the pan."
+msgstr ""
+
+#: [1]
+msgid ""
+"■Put the spatula in the special\n"
+"square pot when done and clean\n"
+"it every four hours."
+msgstr ""
+
+#: [2]
+msgid ""
+"■To help prevent secondary\n"
+"contamination, press the tip\n"
+"of the spatula against a hot\n"
+"plate to sterilise it."
+msgstr ""

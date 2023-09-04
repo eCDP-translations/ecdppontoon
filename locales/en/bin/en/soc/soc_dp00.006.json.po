@@ -1,0 +1,68 @@
+#. extracted from translation/bin/en/soc/soc_dp00.006.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Making Hashbrowns\n"
+"■Put hashbrowns in\n"
+"baskets as shown\n"
+"(assuming bagging\n"
+"station is to the\n"
+"right)."
+msgstr ""
+
+#: [1]
+msgid ""
+"Making Hashbrowns\n"
+"■Put the basket in the oil and\n"
+"start the timer."
+msgstr ""
+
+#: [2]
+msgid ""
+"Making Hashbrowns\n"
+"■When timer rings,\n"
+"remove basket from\n"
+"oil. Turn off oil\n"
+"and wait for\n"
+"5-10s."
+msgstr ""
+
+#: [3]
+msgid ""
+"Making Hashbrowns\n"
+"■After draining the oil, push the\n"
+"HT timer."
+msgstr ""
+
+#: [4]
+msgid ""
+"Making Hashbrowns\n"
+"■Transfer to the bagging tray.\n"
+"Empty baskets go over the vat."
+msgstr ""
+
+#: [5]
+msgid ""
+"Making Hashbrowns\n"
+"■Package the hashbrowns however\n"
+"you need to."
+msgstr ""
+
+#: [6]
+msgid ""
+"Making Hashbrowns\n"
+"■Serve within 10m."
+msgstr ""

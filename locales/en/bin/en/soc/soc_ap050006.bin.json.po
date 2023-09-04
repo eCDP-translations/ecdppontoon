@@ -1,0 +1,46 @@
+#. extracted from translation/bin/en/soc/soc_ap050006.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■The following things will\n"
+"decrease the patty quality:\n"
+"　・When the ingredients are\n"
+"stored in the grill-side\n"
+"freezer for too long.\n"
+"　・When you leave the door\n"
+"to the grill-side freezer\n"
+"open."
+msgstr ""
+
+#: [1]
+msgid ""
+"■The following things will\n"
+"decrease the patty quality:\n"
+"　・When the temperature is\n"
+"not between -23°C/-9°F and\n"
+"-18°C/0°F"
+msgstr ""
+
+#: [2]
+msgid ""
+"■Discard any raw patties\n"
+"that have turned brown,\n"
+"bright red or white.\n"
+"■Discard patties that are\n"
+"difficult to separate or\n"
+"that have too many ice\n"
+"crystals on them."
+msgstr ""

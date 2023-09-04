@@ -1,0 +1,43 @@
+#. extracted from translation/bin/en/soc/soc_ap010103.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■The tray bin is checked every\n"
+"30m. Check it every 15m during\n"
+"peak time.\n"
+"■Wipe off any spilled food or\n"
+"drink off of the top and the\n"
+"door of the tray bin."
+msgstr ""
+
+#: [1]
+msgid ""
+"■Clean up food and drink spills\n"
+"on the tray bin.\n"
+"■Compress the trash in the tray\n"
+"bin when necessary.\n"
+"■Replace the pack liner before\n"
+"it overflows."
+msgstr ""
+
+#: [2]
+msgid ""
+"■Make sure the pack liner is\n"
+"invisible from the tray bin.\n"
+"■Change the tray bins every\n"
+"day and wipe with clean,\n"
+"sterile washcloths."
+msgstr ""

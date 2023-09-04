@@ -1,0 +1,364 @@
+#. extracted from translation/overlay/en/OVERLAY_2.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .47184
+msgctxt ".47184"
+".47184"
+".47184"
+".47184"
+".47184"
+".47184"
+msgid "Please choose"
+msgstr ""
+
+#: .46832
+msgctxt ".46832"
+".46832"
+".46832"
+".46832"
+".46832"
+".46832"
+msgid "the correct buns."
+msgstr ""
+
+#: .47440
+msgctxt ".47440"
+msgid "Please choose"
+msgstr ""
+
+#: .47104
+msgctxt ".47104"
+msgid "the correct buns."
+msgstr ""
+
+#: .47248
+msgctxt ".47248"
+msgid "Please choose"
+msgstr ""
+
+#: .46840
+msgctxt ".46840"
+msgid "the correct buns."
+msgstr ""
+
+#: .47216
+msgctxt ".47216"
+msgid "Please choose"
+msgstr ""
+
+#: .47232
+msgctxt ".47232"
+msgid "the correct buns."
+msgstr ""
+
+#: .47344
+msgctxt ".47344"
+msgid "Please choose"
+msgstr ""
+
+#: .46856
+msgctxt ".46856"
+msgid "the correct buns."
+msgstr ""
+
+#: .47328
+msgctxt ".47328"
+msgid "Please choose"
+msgstr ""
+
+#: .47280
+msgctxt ".47280"
+msgid "the correct buns."
+msgstr ""
+
+#: .47312
+msgid "Choose the"
+msgstr ""
+
+#: .46848
+msgid "correct bun."
+msgstr ""
+
+#: .47296
+msgctxt ".47296"
+msgid "Please choose"
+msgstr ""
+
+#: .47136
+msgctxt ".47136"
+msgid "the correct buns."
+msgstr ""
+
+#: .47168
+msgctxt ".47168"
+".47168"
+".47168"
+msgid "Put the buns"
+msgstr ""
+
+#: .46944
+msgctxt ".46944"
+".46944"
+".46944"
+msgid "in the toaster."
+msgstr ""
+
+#: .47152
+msgctxt ".47152"
+".47152"
+msgid "Heel in front,"
+msgstr ""
+
+#: .47556
+msgctxt ".47556"
+".47556"
+msgid "Crown in back"
+msgstr ""
+
+#: .47072
+msgctxt ".47072"
+msgid "Put the buns"
+msgstr ""
+
+#: .46976
+msgctxt ".46976"
+msgid "in the toaster."
+msgstr ""
+
+#: .47376
+msgctxt ".47376"
+msgid "Heel in front,"
+msgstr ""
+
+#: .47756
+msgctxt ".47756"
+msgid "Crown in back"
+msgstr ""
+
+#: .47424
+msgctxt ".47424"
+msgid "Put the buns"
+msgstr ""
+
+#: .46960
+msgctxt ".46960"
+msgid "in the toaster."
+msgstr ""
+
+#: .47392
+msgctxt ".47392"
+msgid "Heel in front,"
+msgstr ""
+
+#: .47716
+msgctxt ".47716"
+msgid "Crown in back"
+msgstr ""
+
+#: .47408
+msgctxt ".47408"
+msgid "Put the buns"
+msgstr ""
+
+#: .46992
+msgctxt ".46992"
+msgid "in the toaster."
+msgstr ""
+
+#: .47360
+msgid "Heel in front."
+msgstr ""
+
+#: .47736
+msgid "Crown in back."
+msgstr ""
+
+#: .47636
+msgctxt ".47636"
+".47636"
+".47636"
+msgid "Place in the"
+msgstr ""
+
+#: .46896
+msgctxt ".46896"
+".46896"
+".46896"
+msgid "correct box."
+msgstr ""
+
+#: .47200
+msgctxt ".47200"
+".47200"
+".47200"
+msgid "Crown in centre."
+msgstr ""
+
+#: .47024
+msgctxt ".47024"
+".47024"
+msgid "Heel by HLZ."
+msgstr ""
+
+#: .47656
+msgctxt ".47656"
+msgid "Place in the"
+msgstr ""
+
+#: .46932
+msgctxt ".46932"
+msgid "correct box."
+msgstr ""
+
+#: .47120
+msgctxt ".47120"
+msgid "Crown in centre."
+msgstr ""
+
+#: .47056
+msgctxt ".47056"
+msgid "Heel by HLZ."
+msgstr ""
+
+#: .47456
+msgctxt ".47456"
+msgid "Place in the"
+msgstr ""
+
+#: .46920
+msgctxt ".46920"
+msgid "correct box."
+msgstr ""
+
+#: .47088
+msgctxt ".47088"
+msgid "Crown in centre."
+msgstr ""
+
+#: .47008
+msgid "heel by HLZ."
+msgstr ""
+
+#: .47536
+msgctxt ".47536"
+msgid "Place in the"
+msgstr ""
+
+#: .46884
+msgctxt ".46884"
+msgid "correct box."
+msgstr ""
+
+#: .47264
+msgctxt ".47264"
+msgid "Crown in centre."
+msgstr ""
+
+#: .47040
+msgctxt ".47040"
+msgid "Heel by HLZ."
+msgstr ""
+
+#: .46908
+msgctxt ".46908"
+".46908"
+".46908"
+msgid "Quarter-Pounder"
+msgstr ""
+
+#: .47696
+msgctxt ".47696"
+msgid "Cheeseburger"
+msgstr ""
+
+#: .47676
+msgctxt ".47676"
+msgid "Quarter-Pounder"
+msgstr ""
+
+#: .47836
+msgctxt ".47836"
+".47836"
+".47836"
+msgid "Assembly"
+msgstr ""
+
+#: .46872
+msgctxt ".46872"
+msgid "Quarter-Pounder"
+msgstr ""
+
+#: .47516
+msgctxt ".47516"
+msgid "Cheeseburger"
+msgstr ""
+
+#: .47476
+msgctxt ".47476"
+msgid "Quarter-Pounder"
+msgstr ""
+
+#: .47776
+msgctxt ".47776"
+msgid "Assembly"
+msgstr ""
+
+#: .47496
+msgctxt ".47496"
+msgid "Assembly"
+msgstr ""
+
+#: .47596
+msgctxt ".47596"
+msgid "Drawing"
+msgstr ""
+
+#: .47856
+msgctxt ".47856"
+msgid "Double-Quarter"
+msgstr ""
+
+#: .47876
+msgctxt ".47876"
+msgid "Pounder Assembly"
+msgstr ""
+
+#: .47576
+msgctxt ".47576"
+msgid "Assembly"
+msgstr ""
+
+#: .47616
+msgctxt ".47616"
+msgid "Drawing"
+msgstr ""
+
+#: .47796
+msgctxt ".47796"
+msgid "Double-Quarter"
+msgstr ""
+
+#: .47816
+msgctxt ".47816"
+msgid "Pounder Assembly"
+msgstr ""
+
+#: .47992
+msgid "Press right on the D-pad."
+msgstr ""
+
+#: .48024
+msgid "Press left on the D-pad."
+msgstr ""

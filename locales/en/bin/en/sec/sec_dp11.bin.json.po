@@ -1,0 +1,258 @@
+#. extracted from translation/bin/en/sec/sec_dp11.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"How long should it take\n"
+"to give the customer\n"
+"their order after they\n"
+"pull up in their car?"
+msgstr ""
+
+#: [1]
+msgid "Within 3m 30s"
+msgstr ""
+
+#: [2]
+msgctxt "[2]"
+msgid "Within 7m"
+msgstr ""
+
+#: [3]
+msgid "Within 5m 30s"
+msgstr ""
+
+#: [4]
+msgctxt "[4]"
+msgid "Within 10m"
+msgstr ""
+
+#: [5]
+msgid ""
+"How long should it be\n"
+"before you greet the\n"
+"customer when they pull\n"
+"up in their car?"
+msgstr ""
+
+#: [6]
+msgid "Within 10s"
+msgstr ""
+
+#: [7]
+msgid "Within 15s"
+msgstr ""
+
+#: [8]
+msgid "Within 20s"
+msgstr ""
+
+#: [9]
+msgid "Within 30s"
+msgstr ""
+
+#: [10]
+msgid ""
+"Which of the following\n"
+"should you be sure to\n"
+"do when taking orders?"
+msgstr ""
+
+#: [11]
+msgid "Don't interrupt"
+msgstr ""
+
+#: [12]
+msgid "Don't listen to them"
+msgstr ""
+
+#: [13]
+msgid "Repeat yourself a lot"
+msgstr ""
+
+#: [14]
+msgid "Use whatever tone"
+msgstr ""
+
+#: [15]
+msgid ""
+"How much time passes from\n"
+"the time the sandwich is\n"
+"taken from the HLZ until\n"
+"it is served in a bag or\n"
+"tray?"
+msgstr ""
+
+#: [16]
+msgid "12s - 16s"
+msgstr ""
+
+#: [17]
+msgctxt "[17]"
+msgid "25s - 30s"
+msgstr ""
+
+#: [18]
+msgid "Under 60s"
+msgstr ""
+
+#: [19]
+msgid "Under 90s"
+msgstr ""
+
+#: [20]
+msgid ""
+"The holding time of the\n"
+"french fries should be\n"
+"within how many minutes\n"
+"of ordering?"
+msgstr ""
+
+#: [21]
+msgctxt "[21]"
+msgid "Within 7m"
+msgstr ""
+
+#: [22]
+msgctxt "[22]"
+msgid "Within 10m"
+msgstr ""
+
+#: [23]
+msgid "Within 15m"
+msgstr ""
+
+#: [24]
+msgid "Within 20m"
+msgstr ""
+
+#: [25]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"Use the [      ] with at\n"
+"least three takeaway\n"
+"drinks."
+msgstr ""
+
+#: [26]
+msgid "Paper Tray"
+msgstr ""
+
+#: [27]
+msgid "Tray Liner"
+msgstr ""
+
+#: [28]
+msgid "Antibacterial Wet Wipes"
+msgstr ""
+
+#: [29]
+msgid "Pack Liner"
+msgstr ""
+
+#: [30]
+msgid ""
+"How long should it take\n"
+"to complete a payment\n"
+"at the cashier booth?"
+msgstr ""
+
+#: [31]
+msgid "10s - 15s"
+msgstr ""
+
+#: [32]
+msgctxt "[32]"
+msgid "25s - 30s"
+msgstr ""
+
+#: [33]
+msgid "15s - 30s"
+msgstr ""
+
+#: [34]
+msgid "At least 45s"
+msgstr ""
+
+#: [35]
+msgid ""
+"What do you use to put\n"
+"the ice in the drink cup?"
+msgstr ""
+
+#: [36]
+msgid "Ice scoop"
+msgstr ""
+
+#: [37]
+msgid "Your hands"
+msgstr ""
+
+#: [38]
+msgid "Tongs"
+msgstr ""
+
+#: [39]
+msgid "The cup itself"
+msgstr ""
+
+#: [40]
+msgid ""
+"What should you do when\n"
+"the drink cup becomes\n"
+"soft from too much \n"
+"moisture?"
+msgstr ""
+
+#: [41]
+msgid "Don't serve it"
+msgstr ""
+
+#: [42]
+msgid "Sell takeaway"
+msgstr ""
+
+#: [43]
+msgid "Use a different cup"
+msgstr ""
+
+#: [44]
+msgid "Replace the ice"
+msgstr ""
+
+#: [45]
+msgid ""
+"How should you properly\n"
+"handle a product that \n"
+"a customer returned?"
+msgstr ""
+
+#: [46]
+msgid "Recycle: Don't resell it"
+msgstr ""
+
+#: [47]
+msgid "Reuse: You can resell it"
+msgstr ""
+
+#: [48]
+msgid "Returns aren't accepted"
+msgstr ""
+
+#: [49]
+msgid "Put it in the UHC"
+msgstr ""

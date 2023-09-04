@@ -1,0 +1,38 @@
+#. extracted from translation/bin/en/soc/soc_ap030306.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■The thawing contain/aluminium\n"
+"tray is only use for the\n"
+"griddle and must be cleaned\n"
+"before every use."
+msgstr ""
+
+#: [1]
+msgid ""
+"■For Thawing Container\n"
+"20 servings (40 pieces)\n"
+"2 columns 20 rows\n"
+"■For Aluminium Tray\n"
+"18 servings (36 pieces)\n"
+"2 columns 18 rows"
+msgstr ""
+
+#: [2]
+msgid ""
+"■The thawing containers and\n"
+"aluminium trays can get hot."
+msgstr ""

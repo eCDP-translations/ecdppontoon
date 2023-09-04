@@ -1,0 +1,293 @@
+#. extracted from translation/overlay/en/OVERLAY_28.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .16448
+msgid ""
+"You cleaned\n"
+"everything.\n"
+"Thank you!"
+msgstr ""
+
+#: .16492
+msgctxt ".16492"
+".16492"
+".16492"
+msgid ""
+"How clean &\n"
+"pretty!\n"
+"\n"
+"Let's go to\n"
+"another area."
+msgstr ""
+
+#: .16548
+msgctxt ".16548"
+".16548"
+".16548"
+".16548"
+msgid ""
+"Please select\n"
+"another location."
+msgstr ""
+
+#: .16636
+msgctxt ".16636"
+msgid ""
+"Entrance Door\n"
+"\n"
+"Be sure that\n"
+"this area is clean."
+msgstr ""
+
+#: .16696
+msgctxt ".16696"
+msgid ""
+"Tray Bin\n"
+"\n"
+"Check the tray bins\n"
+"and replace the\n"
+"trash bags if you\n"
+"need to."
+msgstr ""
+
+#: .16784
+msgid ""
+"Baby Chair\n"
+"\n"
+"Wipe the seat and\n"
+"table with a clean\n"
+"counter cloth."
+msgstr ""
+
+#: .16872
+msgid ""
+"The Floors\n"
+"\n"
+"Pick up trash you\n"
+"see and sweep up\n"
+"dust with a broom."
+msgstr ""
+
+#: .16964
+msgid ""
+"Wet Floor Sign\n"
+"\n"
+"Clean dirty floors\n"
+"with a mop.\n"
+"Put out the\n"
+"wet floor sign."
+msgstr ""
+
+#: .17064
+msgid ""
+"Table\n"
+"\n"
+"If customers left\n"
+"trays out, pick\n"
+"them up and\n"
+"wipe the table."
+msgstr ""
+
+#: .17172
+msgid ""
+"Tap areas you\n"
+"should clean.\n"
+"You will learn\n"
+"what to do there."
+msgstr ""
+
+#: .17248
+msgctxt ".17248"
+msgid ""
+"Please select\n"
+"another location."
+msgstr ""
+
+#: .17276
+msgctxt ".17276"
+msgid ""
+"Please select\n"
+"another location."
+msgstr ""
+
+#: .17304
+msgctxt ".17304"
+msgid ""
+"How clean &\n"
+"pretty!\n"
+"\n"
+"Let's go to\n"
+"another area."
+msgstr ""
+
+#: .17512
+msgid ""
+"Car Park\n"
+"\n"
+"Sweep up dirt\n"
+"with a broom."
+msgstr ""
+
+#: .17564
+msgid ""
+"Ledges\n"
+"\n"
+"Mop the ledges\n"
+"regularly."
+msgstr ""
+
+#: .17620
+msgctxt ".17620"
+msgid ""
+"Entrance Door\n"
+"\n"
+"Be sure that\n"
+"this area is clean."
+msgstr ""
+
+#: .17684
+msgid ""
+"Windows\n"
+"\n"
+"Spray McDonald's\n"
+"cleaner (12 times\n"
+"diluted) & clean."
+msgstr ""
+
+#: .17752
+msgid ""
+"Dumpster\n"
+"\n"
+"Carry trash to the\n"
+"dumpster. Don't\n"
+"drag the bag!"
+msgstr ""
+
+#: .17828
+msgctxt ".17828"
+msgid ""
+"Tray Bin\n"
+"\n"
+"Check the tray bins\n"
+"and replace the\n"
+"trash bags if you\n"
+"need to."
+msgstr ""
+
+#: .17916
+msgctxt ".17916"
+msgid ""
+"Please select\n"
+"another location."
+msgstr ""
+
+#: .17944
+msgctxt ".17944"
+msgid ""
+"How clean &\n"
+"pretty!\n"
+"\n"
+"Let's go to\n"
+"another area."
+msgstr ""
+
+#: .18200
+msgid ""
+"Tap START! to begin\n"
+"the training."
+msgstr ""
+
+#: .18312
+msgid ""
+"Urinal\n"
+"\n"
+"Wear gloves to\n"
+"clean the toilet\n"
+"bowl."
+msgstr ""
+
+#: .18368
+msgid ""
+"Trash Can\n"
+"\n"
+"Check the trash\n"
+"bag and replace\n"
+"if needed."
+msgstr ""
+
+#: .18436
+msgid ""
+"Wet Floor Sign\n"
+"\n"
+"Put out the wet\n"
+"floor sign when\n"
+"mopping."
+msgstr ""
+
+#: .18512
+msgid ""
+"Mirror & Sink\n"
+"\n"
+"Wipe up dirt and\n"
+"water splashes.\n"
+"Refill the soap."
+msgstr ""
+
+#: .18592
+msgid ""
+"Toilet Paper\n"
+"\n"
+"Check the toilet\n"
+"paper and refill\n"
+"if needed."
+msgstr ""
+
+#: .18676
+msgid ""
+"Toilet Bowl\n"
+"\n"
+"Spray restroom\n"
+"cleaner, scrub with\n"
+"brush and rinse."
+msgstr ""
+
+#: .18772
+msgctxt ".18772"
+msgid ""
+"Please select\n"
+"another location."
+msgstr ""
+
+#: .18800
+msgctxt ".18800"
+msgid ""
+"How clean &\n"
+"pretty!\n"
+"\n"
+"Let's go to\n"
+"another area."
+msgstr ""
+
+#: .19036
+msgid "6 locations / "
+msgstr ""
+
+#: .19052
+msgid " cleaned"
+msgstr ""
+
+#: .19064
+msgid "Lot & Lobby"
+msgstr ""

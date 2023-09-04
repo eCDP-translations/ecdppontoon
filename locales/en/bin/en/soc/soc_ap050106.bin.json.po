@@ -1,0 +1,42 @@
+#. extracted from translation/bin/en/soc/soc_ap050106.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■Make sure the seasoning is not\n"
+"below the refill line in the\n"
+"dispenser.\n"
+"■If the amount is below the\n"
+"refill line, it may use double\n"
+"the amount it should."
+msgstr ""
+
+#: [1]
+msgid ""
+"■In the front two rows, tilt\n"
+"the dispenser so that the 1/10th\n"
+"patties are level with the hole\n"
+"surface. In the back, tilt the\n"
+"dispenser and sprinkle the\n"
+"seasoning."
+msgstr ""
+
+#: [2]
+msgid ""
+"■If you move the patties in\n"
+"the back (even a little), then\n"
+"the seasoning will be uneven\n"
+"across all of the patties."
+msgstr ""

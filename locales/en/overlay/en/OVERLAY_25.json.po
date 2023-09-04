@@ -1,0 +1,114 @@
+#. extracted from translation/overlay/en/OVERLAY_25.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .17948
+msgid "Put in basket."
+msgstr ""
+
+#: .17932
+msgid "Put on guard."
+msgstr ""
+
+#: .17836
+msgid "Don't put on"
+msgstr ""
+
+#: .17868
+msgid "top of vat."
+msgstr ""
+
+#: .17788
+msgid "Put in vat."
+msgstr ""
+
+#: .17820
+msgid "Press switch."
+msgstr ""
+
+#: .17968
+msgid "Don't splash"
+msgstr ""
+
+#: .17804
+msgid "the oil!"
+msgstr ""
+
+#: .17988
+msgid "When timer beeps,"
+msgstr ""
+
+#: .17756
+msgid "remove them."
+msgstr ""
+
+#: .17740
+msgid "Turn off oil"
+msgstr ""
+
+#: .18028
+msgid "for 5-10s."
+msgstr ""
+
+#: .17772
+msgid "Transfer to tray."
+msgstr ""
+
+#: .17852
+msgid "Use tongs to"
+msgstr ""
+
+#: .18008
+msgid "line up on tray."
+msgstr ""
+
+#: .17916
+msgid "Press timer and"
+msgstr ""
+
+#: .17728
+msgid "store it."
+msgstr ""
+
+#: .17884
+msgid "The holding"
+msgstr ""
+
+#: .17900
+msgid "time is 30m."
+msgstr ""
+
+#: .18144
+msgid "Press [早送り] (Fast Forward)."
+msgstr ""
+
+#: .18172
+msgid "Press left on the D-pad."
+msgstr ""
+
+#: .18204
+msgid "Press right on the D-pad."
+msgstr ""
+
+#: .18236
+msgid "Slide the basket to the right."
+msgstr ""
+
+#: .18272
+msgid "Slide the basket to the left."
+msgstr ""
+
+#: .18348
+msgid "Touch and hold basket for 5-10s."
+msgstr ""

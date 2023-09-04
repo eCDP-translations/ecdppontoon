@@ -1,0 +1,372 @@
+#. extracted from translation/overlay/ja/OVERLAY_2.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .46832
+msgctxt ".46832"
+".46832"
+".46832"
+msgid "選ぶ"
+msgstr ""
+
+#: .46840
+msgctxt ".46840"
+msgid "選ぶ"
+msgstr ""
+
+#: .46848
+msgctxt ".46848"
+msgid "選ぶ"
+msgstr ""
+
+#: .46856
+msgctxt ".46856"
+msgid "選ぶ"
+msgstr ""
+
+#: .46872
+msgctxt ".46872"
+msgid "クォーター"
+msgstr ""
+
+#: .46884
+msgctxt ".46884"
+".46884"
+".46884"
+msgid "上に並べる"
+msgstr ""
+
+#: .46896
+msgctxt ".46896"
+msgid "上に並べる"
+msgstr ""
+
+#: .46908
+msgctxt ".46908"
+msgid "クォーター"
+msgstr ""
+
+#: .46920
+msgctxt ".46920"
+msgid "上に並べる"
+msgstr ""
+
+#: .46932
+msgctxt ".46932"
+msgid "上に並べる"
+msgstr ""
+
+#: .46944
+msgctxt ".46944"
+".46944"
+".46944"
+msgid "ターに入れる"
+msgstr ""
+
+#: .46960
+msgctxt ".46960"
+msgid "ターに入れる"
+msgstr ""
+
+#: .46976
+msgctxt ".46976"
+msgid "ターに入れる"
+msgstr ""
+
+#: .46992
+msgctxt ".46992"
+msgid "ターに入れる"
+msgstr ""
+
+#: .47008
+msgctxt ".47008"
+".47008"
+".47008"
+msgid "HLZ側にヒール"
+msgstr ""
+
+#: .47024
+msgctxt ".47024"
+msgid "HLZ側にヒール"
+msgstr ""
+
+#: .47040
+msgctxt ".47040"
+msgid "HLZ側にヒール"
+msgstr ""
+
+#: .47056
+msgctxt ".47056"
+msgid "HLZ側にヒール"
+msgstr ""
+
+#: .47072
+msgctxt ".47072"
+".47072"
+".47072"
+msgid "バンズをトース"
+msgstr ""
+
+#: .47088
+msgctxt ".47088"
+".47088"
+".47088"
+msgid "中央にクラウン"
+msgstr ""
+
+#: .47104
+msgctxt ".47104"
+".47104"
+".47104"
+msgid "選んでください"
+msgstr ""
+
+#: .47120
+msgctxt ".47120"
+msgid "中央にクラウン"
+msgstr ""
+
+#: .47136
+msgctxt ".47136"
+msgid "選んでください"
+msgstr ""
+
+#: .47152
+msgctxt ".47152"
+".47152"
+".47152"
+msgid "ヒールを手前に"
+msgstr ""
+
+#: .47168
+msgctxt ".47168"
+msgid "バンズをトース"
+msgstr ""
+
+#: .47184
+msgctxt ".47184"
+".47184"
+".47184"
+".47184"
+".47184"
+".47184"
+".47184"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .47200
+msgctxt ".47200"
+msgid "中央にクラウン"
+msgstr ""
+
+#: .47216
+msgctxt ".47216"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .47232
+msgctxt ".47232"
+msgid "選んでください"
+msgstr ""
+
+#: .47248
+msgctxt ".47248"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .47264
+msgctxt ".47264"
+msgid "中央にクラウン"
+msgstr ""
+
+#: .47280
+msgctxt ".47280"
+msgid "選んでください"
+msgstr ""
+
+#: .47296
+msgctxt ".47296"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .47312
+msgctxt ".47312"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .47328
+msgctxt ".47328"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .47344
+msgctxt ".47344"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .47360
+msgctxt ".47360"
+msgid "ヒールを手前に"
+msgstr ""
+
+#: .47376
+msgctxt ".47376"
+msgid "ヒールを手前に"
+msgstr ""
+
+#: .47392
+msgctxt ".47392"
+msgid "ヒールを手前に"
+msgstr ""
+
+#: .47408
+msgctxt ".47408"
+msgid "バンズをトース"
+msgstr ""
+
+#: .47424
+msgctxt ".47424"
+msgid "バンズをトース"
+msgstr ""
+
+#: .47440
+msgctxt ".47440"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .47456
+msgctxt ".47456"
+".47456"
+".47456"
+msgid "正しいボックスの"
+msgstr ""
+
+#: .47476
+msgctxt ".47476"
+msgid "クォ−ターパウン"
+msgstr ""
+
+#: .47496
+msgctxt ".47496"
+msgid "ダブルクォーター"
+msgstr ""
+
+#: .47516
+msgctxt ".47516"
+".47516"
+".47516"
+msgid "パウンダーチーズ"
+msgstr ""
+
+#: .47536
+msgctxt ".47536"
+msgid "正しいボックスの"
+msgstr ""
+
+#: .47556
+msgctxt ".47556"
+".47556"
+".47556"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .47576
+msgctxt ".47576"
+msgid "ダブルクォーター"
+msgstr ""
+
+#: .47596
+msgctxt ".47596"
+msgid "パウンダーチーズ"
+msgstr ""
+
+#: .47616
+msgctxt ".47616"
+msgid "パウンダーチーズ"
+msgstr ""
+
+#: .47636
+msgctxt ".47636"
+msgid "正しいボックスの"
+msgstr ""
+
+#: .47656
+msgctxt ".47656"
+msgid "正しいボックスの"
+msgstr ""
+
+#: .47676
+msgctxt ".47676"
+msgid "クォ−ターパウン"
+msgstr ""
+
+#: .47696
+msgctxt ".47696"
+msgid "パウンダーチーズ"
+msgstr ""
+
+#: .47716
+msgctxt ".47716"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .47736
+msgctxt ".47736"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .47756
+msgctxt ".47756"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .47776
+msgctxt ".47776"
+".47776"
+".47776"
+msgid "ダーのアッセンブル"
+msgstr ""
+
+#: .47796
+msgctxt ".47796"
+msgid "Ｗクォ−ターパウン"
+msgstr ""
+
+#: .47816
+msgctxt ".47816"
+msgid "ダーのアッセンブル"
+msgstr ""
+
+#: .47836
+msgctxt ".47836"
+msgid "ダーのアッセンブル"
+msgstr ""
+
+#: .47856
+msgctxt ".47856"
+msgid "Ｗクォ−ターパウン"
+msgstr ""
+
+#: .47876
+msgctxt ".47876"
+msgid "ダーのアッセンブル"
+msgstr ""
+
+#: .47992
+msgid "十字ボタンの右を押して下さい"
+msgstr ""
+
+#: .48024
+msgid "十字ボタンの左を押して下さい"
+msgstr ""

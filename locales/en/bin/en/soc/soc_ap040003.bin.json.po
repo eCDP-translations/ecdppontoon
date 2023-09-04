@@ -1,0 +1,31 @@
+#. extracted from translation/bin/en/soc/soc_ap040003.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■To set the cooking time, refer\n"
+"to the food safety checklist and\n"
+"use the previous day's time as\n"
+"a guide."
+msgstr ""
+
+#: [1]
+msgid ""
+"■Consult your manager before you\n"
+"change any time settings. They\n"
+"should be checking cooking\n"
+"temperatures and adjusting the\n"
+"settings accordingly."
+msgstr ""

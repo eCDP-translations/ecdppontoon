@@ -1,0 +1,127 @@
+#. extracted from translation/bin/en/soc/soc_dp00.007.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Safety\n"
+"■This station has\n"
+"hot oil. Use your\n"
+"gloves and be\n"
+"very careful."
+msgstr ""
+
+#: [1]
+msgid ""
+"The Six Enemies of Oil\n"
+"1. Carbon Build-Up   2. Air\n"
+"3. Salt   4. Heat   5. Cleaner\n"
+"6. Water"
+msgstr ""
+
+#: [2]
+msgid ""
+"Oil Care\n"
+"■Practice how to skim the oil\n"
+"and how to replenish it to\n"
+"the levels needed."
+msgstr ""
+
+#: [3]
+msgid ""
+"Oil Care\n"
+"■When oil levels drop below the\n"
+"replenishment line, add more.\n"
+"■Always keep the oil level at\n"
+"the replenishment line."
+msgstr ""
+
+#: [4]
+msgid ""
+"Caution!\n"
+"■When refilling the oil, slide it\n"
+"over the edge of the vat so it \n"
+"doesn't splash and burn you."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cleanliness\n"
+"■Do you know why it's important\n"
+"to keep the frying station clean?"
+msgstr ""
+
+#: [6]
+msgid ""
+"Cleanliness\n"
+"■Use a dry wipe to clean mirrors,\n"
+"glass panels, and ribbons."
+msgstr ""
+
+#: [7]
+msgid ""
+"Cleanliness\n"
+"■Use a dry wipe to clean spilled\n"
+"salt or oil from the bagging\n"
+"trays and fry ribbons."
+msgstr ""
+
+#: [8]
+msgid ""
+"Floor Cleaning\n"
+"■If a potato falls on the floor,\n"
+"pick it up with a pair of tongs."
+msgstr ""
+
+#: [9]
+msgid ""
+"Floor Cleaning\n"
+"■Sweep the floor. Remove your\n"
+"apron when cleaning and wash\n"
+"your hands afterwards."
+msgstr ""
+
+#: [10]
+msgid ""
+"Material Checklist\n"
+"■Skimmer\n"
+"■Dry Wiper\n"
+"■Replenishment Oil\n"
+"■Hashbrown Tongs\n"
+"■Hashbrown Bags"
+msgstr ""
+
+#: [11]
+msgid ""
+"Material Checklist\n"
+"■Bagging Scoop\n"
+"■Salt\n"
+"■Salt Tin\n"
+"■Fry Bags & Boxes"
+msgstr ""
+
+#: [12]
+msgid ""
+"Material Checklist\n"
+"■What is the \n"
+"first-in, first-\n"
+"out rule?"
+msgstr ""
+
+#: [13]
+msgid ""
+"Caution!\n"
+"■Be careful when handling the\n"
+"oil cans!"
+msgstr ""

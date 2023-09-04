@@ -1,0 +1,350 @@
+#. extracted from translation/overlay/ja/OVERLAY_24.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .22848
+msgctxt ".22848"
+".22848"
+msgid "ます"
+msgstr ""
+
+#: .22856
+msgctxt ".22856"
+msgid "ます"
+msgstr ""
+
+#: .22864
+msgctxt ".22864"
+msgid "ます"
+msgstr ""
+
+#: .22924
+msgctxt ".22924"
+".22924"
+msgid "保管する"
+msgstr ""
+
+#: .22936
+msgctxt ".22936"
+msgid "保管する"
+msgstr ""
+
+#: .22948
+msgctxt ".22948"
+msgid "保管する"
+msgstr ""
+
+#: .22960
+msgctxt ".22960"
+".22960"
+msgid "スイッチを"
+msgstr ""
+
+#: .22972
+msgctxt ".22972"
+msgid "スイッチを"
+msgstr ""
+
+#: .22984
+msgctxt ".22984"
+msgid "スイッチを"
+msgstr ""
+
+#: .22996
+msgid "奥へとふる"
+msgstr ""
+
+#: .23008
+msgctxt ".23008"
+".23008"
+".23008"
+msgid "リムーブする"
+msgstr ""
+
+#: .23024
+msgctxt ".23024"
+msgid "を、ふります"
+msgstr ""
+
+#: .23040
+msgctxt ".23040"
+msgid "リムーブする"
+msgstr ""
+
+#: .23056
+msgctxt ".23056"
+msgid "リムーブする"
+msgstr ""
+
+#: .23072
+msgctxt ".23072"
+".23072"
+msgid "押して下さい"
+msgstr ""
+
+#: .23088
+msgctxt ".23088"
+".23088"
+msgid "パティを並べ"
+msgstr ""
+
+#: .23104
+msgctxt ".23104"
+msgid "を、ふります"
+msgstr ""
+
+#: .23120
+msgctxt ".23120"
+msgid "リムーブする"
+msgstr ""
+
+#: .23136
+msgctxt ".23136"
+msgid "パティを並べ"
+msgstr ""
+
+#: .23152
+msgctxt ".23152"
+msgid "押して下さい"
+msgstr ""
+
+#: .23168
+msgctxt ".23168"
+msgid "パティを並べ"
+msgstr ""
+
+#: .23184
+msgid "グの量を確認"
+msgstr ""
+
+#: .23200
+msgctxt ".23200"
+msgid "押して下さい"
+msgstr ""
+
+#: .23216
+msgctxt ".23216"
+".23216"
+msgid "４枚まで重ねて"
+msgstr ""
+
+#: .23232
+msgctxt ".23232"
+msgid "パーで手を拭く"
+msgstr ""
+
+#: .23248
+msgctxt ".23248"
+msgid "４枚まで重ねて"
+msgstr ""
+
+#: .23264
+msgctxt ".23264"
+".23264"
+msgid "タイマーを押し"
+msgstr ""
+
+#: .23280
+msgctxt ".23280"
+msgid "４枚まで重ねて"
+msgstr ""
+
+#: .23296
+msgctxt ".23296"
+".23296"
+".23296"
+msgid "リムーブします"
+msgstr ""
+
+#: .23312
+msgid "タイムは１５分"
+msgstr ""
+
+#: .23328
+msgctxt ".23328"
+msgid "リムーブします"
+msgstr ""
+
+#: .23344
+msgctxt ".23344"
+msgid "タイマーを押し"
+msgstr ""
+
+#: .23360
+msgctxt ".23360"
+msgid "トレーを用意し"
+msgstr ""
+
+#: .23376
+msgctxt ".23376"
+".23376"
+msgid "ホールディング"
+msgstr ""
+
+#: .23392
+msgid "右手前から順に"
+msgstr ""
+
+#: .23408
+msgid "３枚まで重ねて"
+msgstr ""
+
+#: .23424
+msgctxt ".23424"
+msgid "リムーブします"
+msgstr ""
+
+#: .23440
+msgctxt ".23440"
+msgid "ホールディング"
+msgstr ""
+
+#: .23456
+msgctxt ".23456"
+msgid "タイムは６０分"
+msgstr ""
+
+#: .23472
+msgctxt ".23472"
+msgid "タイムは６０分"
+msgstr ""
+
+#: .23488
+msgctxt ".23488"
+msgid "二次汚染を防ぐ"
+msgstr ""
+
+#: .23504
+msgctxt ".23504"
+msgid "パーで手を拭く"
+msgstr ""
+
+#: .23520
+msgctxt ".23520"
+msgid "トレーを用意し"
+msgstr ""
+
+#: .23536
+msgctxt ".23536"
+msgid "リムーブします"
+msgstr ""
+
+#: .23552
+msgctxt ".23552"
+msgid "二次汚染を防ぐ"
+msgstr ""
+
+#: .23568
+msgctxt ".23568"
+msgid "タイマーを押し"
+msgstr ""
+
+#: .23584
+msgctxt ".23584"
+msgid "ホールディング"
+msgstr ""
+
+#: .23600
+msgctxt ".23600"
+msgid "手順を確認します"
+msgstr ""
+
+#: .23620
+msgctxt ".23620"
+msgid "抗菌ウェットワイ"
+msgstr ""
+
+#: .23640
+msgid "グリルシーズニン"
+msgstr ""
+
+#: .23660
+msgctxt ".23660"
+".23660"
+msgid "プラテンを上げる"
+msgstr ""
+
+#: .23680
+msgctxt ".23680"
+msgid "プラテンを上げる"
+msgstr ""
+
+#: .23700
+msgctxt ".23700"
+".23700"
+msgid "手前から奥へ並べ"
+msgstr ""
+
+#: .23720
+msgctxt ".23720"
+".23720"
+msgid "プラテンを下ろす"
+msgstr ""
+
+#: .23740
+msgctxt ".23740"
+msgid "手前から奥へ並べ"
+msgstr ""
+
+#: .23760
+msgctxt ".23760"
+msgid "プラテンを下ろす"
+msgstr ""
+
+#: .23780
+msgctxt ".23780"
+msgid "プラテンを上げる"
+msgstr ""
+
+#: .23800
+msgctxt ".23800"
+msgid "手前から奥へ並べ"
+msgstr ""
+
+#: .23820
+msgctxt ".23820"
+msgid "手順を確認します"
+msgstr ""
+
+#: .23840
+msgctxt ".23840"
+msgid "プラテンを下ろす"
+msgstr ""
+
+#: .23860
+msgctxt ".23860"
+msgid "抗菌ウェットワイ"
+msgstr ""
+
+#: .23880
+msgctxt ".23880"
+msgid "グリルシーズニング"
+msgstr ""
+
+#: .23900
+msgctxt ".23900"
+msgid "グリルシーズニング"
+msgstr ""
+
+#: .23920
+msgid "十字ボタンの右を押して下さい"
+msgstr ""
+
+#: .23952
+msgid "バスケットを左にドラッグして下さい"
+msgstr ""
+
+#: .23988
+msgid "バスケットを右にドラッグして下さい"
+msgstr ""

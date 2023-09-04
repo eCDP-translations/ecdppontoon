@@ -1,0 +1,53 @@
+#. extracted from translation/bin/en/soc/soc_ap010104.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■Sweep before mopping. Don't\n"
+"leave any corners unchecked\n"
+"or anything unswept.\n"
+"■Clean partially during peak time\n"
+"and stay 1.5m/5ft away from the\n"
+"customers while doing so."
+msgstr ""
+
+#: [1]
+msgid ""
+"■Fill a clean mop bucket with\n"
+"the McDonald's floor cleaner\n"
+"and hot water.\n"
+"■Mop the floors 15m before\n"
+"peak time to allow the floors\n"
+"to dry first."
+msgstr ""
+
+#: [2]
+msgid ""
+"■Mop each section. Clean each\n"
+"3m x 3m/10ft x 10ft section\n"
+"in a figure-eight pattern.\n"
+"■Place the \"wet-floor\" signs\n"
+"around mopped areas until\n"
+"they are fully dry."
+msgstr ""
+
+#: [3]
+msgid ""
+"■Use separate mops for the\n"
+"lobby and the kitchen. This\n"
+"prevents grease from the\n"
+"grilling area from getting\n"
+"into the lobby."
+msgstr ""

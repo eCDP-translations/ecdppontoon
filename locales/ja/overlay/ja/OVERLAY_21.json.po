@@ -1,0 +1,126 @@
+#. extracted from translation/overlay/ja/OVERLAY_21.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .21536
+msgid "する"
+msgstr ""
+
+#: .21544
+msgid "黄身を"
+msgstr ""
+
+#: .21552
+msgid "卵を割る"
+msgstr ""
+
+#: .21564
+msgid "保管する"
+msgstr ""
+
+#: .21576
+msgid "ぬるま湯を"
+msgstr ""
+
+#: .21588
+msgid "黄身を割る"
+msgstr ""
+
+#: .21600
+msgid "準備します"
+msgstr ""
+
+#: .21612
+msgid "手を拭きます"
+msgstr ""
+
+#: .21628
+msgid "リムーブする"
+msgstr ""
+
+#: .21644
+msgid "リングを上げて"
+msgstr ""
+
+#: .21660
+msgid "パーで手を拭く"
+msgstr ""
+
+#: .21676
+msgid "ＵＨＣに入れ、"
+msgstr ""
+
+#: .21692
+msgid "カラを入れない"
+msgstr ""
+
+#: .21708
+msgid "ツイストします"
+msgstr ""
+
+#: .21724
+msgid "湯を入れながら"
+msgstr ""
+
+#: .21740
+msgid "スイッチを押す"
+msgstr ""
+
+#: .21756
+msgid "ＵＨＣトレーを"
+msgstr ""
+
+#: .21772
+msgid "スプレーします"
+msgstr ""
+
+#: .21788
+msgid "タイマーを押し"
+msgstr ""
+
+#: .21804
+msgid "２〜３ショット"
+msgstr ""
+
+#: .21820
+msgid "流れませんか？"
+msgstr ""
+
+#: .21836
+msgid "抗菌ウェットワイ"
+msgstr ""
+
+#: .21856
+msgid "使っていますか？"
+msgstr ""
+
+#: .21876
+msgid "トレーを準備する"
+msgstr ""
+
+#: .21896
+msgid "オイルをスプレー"
+msgstr ""
+
+#: .21916
+msgid "タイマーを押します"
+msgstr ""
+
+#: .21936
+msgid "黄身は火が通って、"
+msgstr ""
+
+#: .21956
+msgid "ようにしてください"
+msgstr ""

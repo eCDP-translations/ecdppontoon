@@ -1,0 +1,43 @@
+#. extracted from translation/bin/en/soc/soc_ap080600.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Preventing Burns\n"
+"■Wear special gloves, an apron,\n"
+"and a face shield when handling\n"
+"the hot oil.\n"
+"■Do not put your hands in the\n"
+"oil or drop objects forcefully."
+msgstr ""
+
+#: [1]
+msgid ""
+"Preventing Fires\n"
+"■Be sure that there is oil in\n"
+"the vat before turning on the\n"
+"frier.\n"
+"■Calibrate the frier and check\n"
+"the high limit switch."
+msgstr ""
+
+#: [2]
+msgid ""
+"Preventing Fires\n"
+"■Make sure the exhaust fan is\n"
+"on before operating frier.\n"
+"■Clean the grease pan of the\n"
+"frier duct regularly."
+msgstr ""

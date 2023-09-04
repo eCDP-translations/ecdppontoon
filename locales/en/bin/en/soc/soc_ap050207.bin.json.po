@@ -1,0 +1,59 @@
+#. extracted from translation/bin/en/soc/soc_ap050207.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■1/10th patties are removed as\n"
+"soon as the cooking cycle is\n"
+"finished. Overcooking results\n"
+"in the patties drying out and\n"
+"losing flavour."
+msgstr ""
+
+#: [1]
+msgid ""
+"■Use the meat spatula and the\n"
+"grey Hutzler spatula for 1/10th\n"
+"patties. Remove one at a time\n"
+"and stack four on top of one\n"
+"another."
+msgstr ""
+
+#: [2]
+msgid ""
+"■Do not cut meat juice.\n"
+"■Use a wet wipe to get rid of\n"
+"meat juice on the spatula\n"
+"before using it again."
+msgstr ""
+
+#: [3]
+msgid ""
+"■Be sure to remove 1/10th\n"
+"patties within the time slated\n"
+"for their removal. The removal\n"
+"time starts when the platen\n"
+"opens and ends when the last\n"
+"patty moves to the UHC tray."
+msgstr ""
+
+#: [4]
+msgid ""
+"■The maximum removal time is\n"
+"18s.\n"
+"■The maximum number of patties\n"
+"that can go on the UHC tray\n"
+"is 16 (4 columns, 4 rows)."
+msgstr ""

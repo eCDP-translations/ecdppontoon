@@ -1,0 +1,247 @@
+#. extracted from translation/bin/en/sec/sec_dp04.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"Using [      ], wash your\n"
+"hands at least once an hour."
+msgstr ""
+
+#: [1]
+msgid "McDonald's Hand Wipes"
+msgstr ""
+
+#: [2]
+msgid "Disinfected Safe"
+msgstr ""
+
+#: [3]
+msgid "McDonald's Detergent"
+msgstr ""
+
+#: [4]
+msgid "Broom & Dustpan"
+msgstr ""
+
+#: [5]
+msgid ""
+"What angle should you twist\n"
+"the yellow Hutzler spatula\n"
+"in order to uniformly flatten\n"
+"the egg yolks?"
+msgstr ""
+
+#: [6]
+msgid "１８０°"
+msgstr ""
+
+#: [7]
+msgid "９０°"
+msgstr ""
+
+#: [8]
+msgid "２７０°"
+msgstr ""
+
+#: [9]
+msgid "３６０°"
+msgstr ""
+
+#: [10]
+msgid ""
+"At what temperature are the\n"
+"eggs fully cooked?"
+msgstr ""
+
+#: [11]
+msgid "132°C-138°C/270°F-280°F"
+msgstr ""
+
+#: [12]
+msgid "130°C-140°C/266°F-284°F"
+msgstr ""
+
+#: [13]
+msgid "135°C-145°C/275°F-293°F"
+msgstr ""
+
+#: [14]
+msgid "At least 140°C/284°F"
+msgstr ""
+
+#: [15]
+msgid ""
+"When spraying the rings of\n"
+"the egg cooker, how far\n"
+"apart should you spray?"
+msgstr ""
+
+#: [16]
+msgid "10 cm/4 in"
+msgstr ""
+
+#: [17]
+msgid "5 cm/2 in"
+msgstr ""
+
+#: [18]
+msgid "15 cm/6 in"
+msgstr ""
+
+#: [19]
+msgid "20 cm/8 in"
+msgstr ""
+
+#: [20]
+msgid ""
+"Which of these do the\n"
+"customers NOT expect their\n"
+"English muffins to be?"
+msgstr ""
+
+#: [21]
+msgid "Salted just right"
+msgstr ""
+
+#: [22]
+msgid "A little bit uneven"
+msgstr ""
+
+#: [23]
+msgid "Crunchy in texture"
+msgstr ""
+
+#: [24]
+msgid "Correctly baked"
+msgstr ""
+
+#: [25]
+msgid ""
+"What is the highest number\n"
+"of English muffins you can\n"
+"put on the UHC tray?"
+msgstr ""
+
+#: [26]
+msgid "５"
+msgstr ""
+
+#: [27]
+msgid "６"
+msgstr ""
+
+#: [28]
+msgid "８"
+msgstr ""
+
+#: [29]
+msgid "９"
+msgstr ""
+
+#: [30]
+msgid ""
+"What part of the English\n"
+"muffin do you spray the\n"
+"oil on?"
+msgstr ""
+
+#: [31]
+msgid "The heel"
+msgstr ""
+
+#: [32]
+msgid "The crown"
+msgstr ""
+
+#: [33]
+msgid "The crown or heel"
+msgstr ""
+
+#: [34]
+msgid "Anywhere"
+msgstr ""
+
+#: [35]
+msgid ""
+"When assembling griddle\n"
+"cakes, how many pieces\n"
+"can you put on the Q-ing\n"
+"tray at once?"
+msgstr ""
+
+#: [36]
+msgid "４ pieces"
+msgstr ""
+
+#: [37]
+msgid "２ pieces"
+msgstr ""
+
+#: [38]
+msgid "３ pieces"
+msgstr ""
+
+#: [39]
+msgid "６ pieces"
+msgstr ""
+
+#: [40]
+msgid ""
+"How long do the griddle\n"
+"cakes need to cool off?"
+msgstr ""
+
+#: [41]
+msgid "８m"
+msgstr ""
+
+#: [42]
+msgid "７m"
+msgstr ""
+
+#: [43]
+msgid "１０m"
+msgstr ""
+
+#: [44]
+msgid "５m"
+msgstr ""
+
+#: [45]
+msgid ""
+"When cooking the English\n"
+"muffins, which side should\n"
+"line up with the spatula\n"
+"handle?"
+msgstr ""
+
+#: [46]
+msgid "Crown"
+msgstr ""
+
+#: [47]
+msgid "Heel"
+msgstr ""
+
+#: [48]
+msgid "Either side"
+msgstr ""
+
+#: [49]
+msgid "Club"
+msgstr ""

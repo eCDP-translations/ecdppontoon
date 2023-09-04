@@ -1,0 +1,68 @@
+#. extracted from translation/bin/en/soc/soc_dp04.003.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Cooking\n"
+"■Egg Cooker \n"
+"135°C/275°F (4s)\n"
+"■Grill\n"
+"177°C/351°F (3s)"
+msgstr ""
+
+#: [1]
+msgid ""
+"Cooking\n"
+"■Prepare a UHC tray\n"
+"with a clean liner."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cooking\n"
+"■Take the Canadian bacon out\n"
+"of the refrigerator.                                            "
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking\n"
+"■Arrange the bacon\n"
+"on the cold area\n"
+"of the egg cooker\n"
+"or grill."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cooking\n"
+"■Flip the Canadian\n"
+"bacon."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cooking\n"
+"■Remove the Canadian bacon\n"
+"three pieces at a time."
+msgstr ""
+
+#: [6]
+msgid ""
+"Cooking\n"
+"■Put in the UHC\n"
+"and press the\n"
+"timer."
+msgstr ""

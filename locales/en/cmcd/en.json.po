@@ -1,0 +1,1912 @@
+#. extracted from translation/cmcd/en.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .1066528
+msgid "Hmmm, sorry. Let's drink"
+msgstr ""
+
+#: .1066578
+msgid "a McShake and try again."
+msgstr ""
+
+#: .1066678
+msgid "Tsk-tsk... Let's eat some"
+msgstr ""
+
+#: .1066728
+msgid "french fries and try again."
+msgstr ""
+
+#: .1066828
+msgctxt ".1066828"
+msgid "So close!"
+msgstr ""
+
+#: .1066878
+msgid "Eat a double cheeseburger"
+msgstr ""
+
+#: .1066928
+msgid "and power up!"
+msgstr ""
+
+#: .1066978
+msgid "You did it!"
+msgstr ""
+
+#: .1067028
+msgid "Let's celebrate your 100pts"
+msgstr ""
+
+#: .1067078
+msgid "with a Big Mac!"
+msgstr ""
+
+#: .1067128
+msgid "Holy cow! Let's refresh"
+msgstr ""
+
+#: .1067178
+msgid "ourselves with a cold soda."
+msgstr ""
+
+#: .1067278
+msgid "Not there yet... Let's eat"
+msgstr ""
+
+#: .1067328
+msgid "an apple pie and try again!"
+msgstr ""
+
+#: .1067428
+msgctxt ".1067428"
+msgid "So close!"
+msgstr ""
+
+#: .1067478
+msgid "Eat some chicken McNuggets"
+msgstr ""
+
+#: .1067528
+msgid "and get revenge next time!"
+msgstr ""
+
+#: .1067578
+msgid "Perfect!"
+msgstr ""
+
+#: .1067628
+msgid "Today let's celebrate with"
+msgstr ""
+
+#: .1067678
+msgid "a quarter-pounder & cheese!"
+msgstr ""
+
+#: .1071592
+msgid "Safety"
+msgstr ""
+
+#: .1071614
+msgid "Government Orders"
+msgstr ""
+
+#: .1071636
+msgid "Recruitment"
+msgstr ""
+
+#: .1071658
+msgid "Business Survey"
+msgstr ""
+
+#: .1071680
+msgctxt ".1071680"
+msgid "Cooking Method"
+msgstr ""
+
+#: .1071702
+msgid "Time"
+msgstr ""
+
+#: .1071724
+msgid "Fingers & Wrists"
+msgstr ""
+
+#: .1071746
+msgid "Horseflies"
+msgstr ""
+
+#: .1071768
+msgid "Communication"
+msgstr ""
+
+#: .1071790
+msgid "More in Summer"
+msgstr ""
+
+#: .1071812
+msgid "Fresh Fish"
+msgstr ""
+
+#: .1071834
+msgid "Short Incubation"
+msgstr ""
+
+#: .1071856
+msgid "Unheated Food"
+msgstr ""
+
+#: .1071878
+msgctxt ".1071878"
+".1071878"
+msgid "Every Day"
+msgstr ""
+
+#: .1071900
+msgid "Mosquitos & Flies"
+msgstr ""
+
+#: .1071922
+msgid "Keep Facility Clean"
+msgstr ""
+
+#: .1071944
+msgid "Keep Food Cool"
+msgstr ""
+
+#: .1071966
+msgid "6 months"
+msgstr ""
+
+#: .1071988
+msgid "Hydration"
+msgstr ""
+
+#: .1072010
+msgid "Cram The Materials"
+msgstr ""
+
+#: .1072032
+msgid "UV Sterilisation"
+msgstr ""
+
+#: .1072054
+msgid "It Can't Grow There"
+msgstr ""
+
+#: .1072076
+msgid "Once Every Hour"
+msgstr ""
+
+#: .1072098
+msgid "10°C/50°F"
+msgstr ""
+
+#: .1072120
+msgid "Grill Cleaner"
+msgstr ""
+
+#: .1072142
+msgid "At Least 1,000,000"
+msgstr ""
+
+#: .1072164
+msgid "Caused By Bacteria"
+msgstr ""
+
+#: .1072186
+msgid "Don't Wash Hands"
+msgstr ""
+
+#: .1072208
+msgid "3,000"
+msgstr ""
+
+#: .1072230
+msgid "Twice"
+msgstr ""
+
+#: .1072252
+msgid "Sterilisation"
+msgstr ""
+
+#: .1072274
+msgid "Killing All Microbes"
+msgstr ""
+
+#: .1072296
+msgid "Dry→Wash→Sterilise"
+msgstr ""
+
+#: .1072318
+msgid "69-72°C/156-162°F"
+msgstr ""
+
+#: .1072340
+msgid "Clean 1-a-month"
+msgstr ""
+
+#: .1072362
+msgid "Every Month"
+msgstr ""
+
+#: .1072384
+msgid "14 oz Cup"
+msgstr ""
+
+#: .1072406
+msgid "Four Types"
+msgstr ""
+
+#: .1072428
+msgid "Shelf Life"
+msgstr ""
+
+#: .1072450
+msgid "An Automatic Faucet"
+msgstr ""
+
+#: .1072472
+msgid "Hygenic"
+msgstr ""
+
+#: .1072494
+msgid "Wash & Disinfect"
+msgstr ""
+
+#: .1072516
+msgid "Temperature"
+msgstr ""
+
+#: .1072538
+msgid "PL Method"
+msgstr ""
+
+#: .1072560
+msgctxt ".1072560"
+msgid "Expiration Date"
+msgstr ""
+
+#: .1072582
+msgid "House Dust"
+msgstr ""
+
+#: .1072604
+msgid "Soba"
+msgstr ""
+
+#: .1072626
+msgid "Salmonella"
+msgstr ""
+
+#: .1072648
+msgid "90m at 90°C/194°F"
+msgstr ""
+
+#: .1072670
+msgid "0-4°C/32-39°F"
+msgstr ""
+
+#: .1072692
+msgid "Hygiene"
+msgstr ""
+
+#: .1072718
+msgid "Local Bylaws"
+msgstr ""
+
+#: .1072744
+msgid "Hygiene Training"
+msgstr ""
+
+#: .1072770
+msgid "Looks At The Food"
+msgstr ""
+
+#: .1072796
+msgid "Liability Law"
+msgstr ""
+
+#: .1072822
+msgid "Method"
+msgstr ""
+
+#: .1072848
+msgid "Thumb"
+msgstr ""
+
+#: .1072874
+msgid "House Flies"
+msgstr ""
+
+#: .1072900
+msgid "Illnesses"
+msgstr ""
+
+#: .1072926
+msgid "None In Winter"
+msgstr ""
+
+#: .1072952
+msgid "Meat & Eggs"
+msgstr ""
+
+#: .1072978
+msgid "Undercooked Chicken"
+msgstr ""
+
+#: .1073004
+msgid "Unwashed Hands"
+msgstr ""
+
+#: .1073030
+msgctxt ".1073030"
+msgid "Once A Week"
+msgstr ""
+
+#: .1073056
+msgid "Bacteria/Viruses"
+msgstr ""
+
+#: .1073082
+msgid "Clean Hands & Tools"
+msgstr ""
+
+#: .1073108
+msgid "Remove Moisture"
+msgstr ""
+
+#: .1073134
+msgid "3 Months"
+msgstr ""
+
+#: .1073160
+msgid "High Temperatures"
+msgstr ""
+
+#: .1073186
+msgid "Keep it 70% Full"
+msgstr ""
+
+#: .1073212
+msgid "High Temperature"
+msgstr ""
+
+#: .1073238
+msgid "It Can Grow There"
+msgstr ""
+
+#: .1073264
+msgid "Once Every 30m"
+msgstr ""
+
+#: .1073290
+msgid "8°C/46°F"
+msgstr ""
+
+#: .1073316
+msgid "McDonald's Hand Soap"
+msgstr ""
+
+#: .1073342
+msgid "At least 1,000"
+msgstr ""
+
+#: .1073368
+msgid "Bacteria Irrelevant"
+msgstr ""
+
+#: .1073394
+msgid "Wash Hands Afterward"
+msgstr ""
+
+#: .1073420
+msgid "300"
+msgstr ""
+
+#: .1073446
+msgid "Undiluted"
+msgstr ""
+
+#: .1073472
+msgid "Avoiding Human Error"
+msgstr ""
+
+#: .1073498
+msgid "Killing Bad Microbes"
+msgstr ""
+
+#: .1073524
+msgid "Wash→Dry→Sterilise"
+msgstr ""
+
+#: .1073550
+msgid "69-74°C/156-165°F"
+msgstr ""
+
+#: .1073576
+msgid "Clean Once A Week"
+msgstr ""
+
+#: .1073602
+msgctxt ".1073602"
+msgid "Every Day"
+msgstr ""
+
+#: .1073628
+msgid "18 oz Cup"
+msgstr ""
+
+#: .1073654
+msgid "Three Types"
+msgstr ""
+
+#: .1073680
+msgctxt ".1073680"
+msgid "Expiration Date"
+msgstr ""
+
+#: .1073706
+msgid "A Shared Sink"
+msgstr ""
+
+#: .1073732
+msgid "Microbial"
+msgstr ""
+
+#: .1073758
+msgid "Beef Patty Temp."
+msgstr ""
+
+#: .1073784
+msgid "Oxygen"
+msgstr ""
+
+#: .1073810
+msgid "JAS Method"
+msgstr ""
+
+#: .1073836
+msgid "Best-By Date"
+msgstr ""
+
+#: .1073862
+msgid "Food Allergy"
+msgstr ""
+
+#: .1073888
+msgid "Soy"
+msgstr ""
+
+#: .1073914
+msgid "V. Parahaemolyticus"
+msgstr ""
+
+#: .1073940
+msgid "80m at 80°C/176°F"
+msgstr ""
+
+#: .1073966
+msgid "1-4°C/34-39°F"
+msgstr ""
+
+#: .1073992
+msgid "Food Poisoning"
+msgstr ""
+
+#: .1074018
+msgid "The Constitution"
+msgstr ""
+
+#: .1074044
+msgid "Management Policy"
+msgstr ""
+
+#: .1074070
+msgid "Performance Survey"
+msgstr ""
+
+#: .1074096
+msgid "Food Safety Basic Law"
+msgstr ""
+
+#: .1074122
+msgid "Water Temperature"
+msgstr ""
+
+#: .1074148
+msgid "Middle/Little Finger"
+msgstr ""
+
+#: .1074174
+msgid "Stink Bugs"
+msgstr ""
+
+#: .1074200
+msgid "Moderate Exercise"
+msgstr ""
+
+#: .1074226
+msgid "Norovirus in Winter"
+msgstr ""
+
+#: .1074252
+msgid "Vegetables/Fruits"
+msgstr ""
+
+#: .1074278
+msgid "Paralysed Nerves"
+msgstr ""
+
+#: .1074304
+msgid "Staph Isn't Harmful"
+msgstr ""
+
+#: .1074330
+msgid "Once A Month"
+msgstr ""
+
+#: .1074356
+msgid "Mites & Parasites"
+msgstr ""
+
+#: .1074382
+msgid "Good Grooming"
+msgstr ""
+
+#: .1074408
+msgid "Kill Bacteria"
+msgstr ""
+
+#: .1074434
+msgid "12 Months"
+msgstr ""
+
+#: .1074460
+msgid "Humidity"
+msgstr ""
+
+#: .1074486
+msgid "Turn Off At Night"
+msgstr ""
+
+#: .1074512
+msgid "Radiation"
+msgstr ""
+
+#: .1074538
+msgid "It Isn't There"
+msgstr ""
+
+#: .1074564
+msgid "Once Every 2 Hours"
+msgstr ""
+
+#: .1074590
+msgid "15°C/59°F"
+msgstr ""
+
+#: .1074616
+msgid "Calander"
+msgstr ""
+
+#: .1074642
+msgid "At Least 10"
+msgstr ""
+
+#: .1074668
+msgid "Depends On Bacteria"
+msgstr ""
+
+#: .1074694
+msgid "Do Whatever You Want"
+msgstr ""
+
+#: .1074720
+msgid "30,000"
+msgstr ""
+
+#: .1074746
+msgid "Five Times"
+msgstr ""
+
+#: .1074772
+msgid "Effective Tools"
+msgstr ""
+
+#: .1074798
+msgid "Reducing Microbes"
+msgstr ""
+
+#: .1074824
+msgid "Wash→Sterilise→Dry"
+msgstr ""
+
+#: .1074850
+msgid "68-74°C/154-165°F"
+msgstr ""
+
+#: .1074876
+msgid "Don't Clean In Store"
+msgstr ""
+
+#: .1074902
+msgid "Every Six Months"
+msgstr ""
+
+#: .1074928
+msgid "10 Oz Cup"
+msgstr ""
+
+#: .1074954
+msgid "Five Types"
+msgstr ""
+
+#: .1074980
+msgid "Quality Deadline"
+msgstr ""
+
+#: .1075006
+msgid "Only In Kitchen"
+msgstr ""
+
+#: .1075032
+msgid "Mental"
+msgstr ""
+
+#: .1075058
+msgid "Storing Raw Food"
+msgstr ""
+
+#: .1075084
+msgid "Nutrients"
+msgstr ""
+
+#: .1075110
+msgctxt ".1075110"
+msgid "Cooking Method"
+msgstr ""
+
+#: .1075136
+msgid "Sell-By Date"
+msgstr ""
+
+#: .1075162
+msgid "Metal Allergy"
+msgstr ""
+
+#: .1075188
+msgid "Dairy"
+msgstr ""
+
+#: .1075214
+msgid "Bacillus Cereus"
+msgstr ""
+
+#: .1075240
+msgid "120m at 80°C/176°F"
+msgstr ""
+
+#: .1075266
+msgid "1-5°C/34-41°F"
+msgstr ""
+
+#: .1075292
+msgid "Store-Bought Cheese"
+msgstr ""
+
+#: .1075324
+msgid "Float Egg On Water"
+msgstr ""
+
+#: .1075356
+msgid "Every Three Days"
+msgstr ""
+
+#: .1075388
+msgctxt ".1075388"
+msgid "Double Cheeseburger"
+msgstr ""
+
+#: .1075420
+msgid "80%"
+msgstr ""
+
+#: .1075452
+msgid "Idaho/Minnesota"
+msgstr ""
+
+#: .1075484
+msgid "USA"
+msgstr ""
+
+#: .1075516
+msgid "USA/Canada"
+msgstr ""
+
+#: .1075548
+msgid "Removed Manually"
+msgstr ""
+
+#: .1075580
+msgid "Improves Circulation"
+msgstr ""
+
+#: .1075612
+msgid "Morning & Afternoon"
+msgstr ""
+
+#: .1075644
+msgctxt ".1075644"
+msgid "Use Odd/Even Days"
+msgstr ""
+
+#: .1075676
+msgid "Academics"
+msgstr ""
+
+#: .1075708
+msgid "Big Mac University"
+msgstr ""
+
+#: .1075740
+msgid "Present For You"
+msgstr ""
+
+#: .1075772
+msgid "Bake Them"
+msgstr ""
+
+#: .1075804
+msgid "Two Burgers"
+msgstr ""
+
+#: .1075836
+msgid "Mac"
+msgstr ""
+
+#: .1075868
+msgid "Osaka"
+msgstr ""
+
+#: .1075900
+msgid "Three Days"
+msgstr ""
+
+#: .1075932
+msgid "Shinjuku, Tokyo"
+msgstr ""
+
+#: .1075964
+msgctxt ".1075964"
+msgid "Double Cheeseburger"
+msgstr ""
+
+#: .1075996
+msgid "American Pickles Are"
+msgstr ""
+
+#: .1076028
+msgid "Nose"
+msgstr ""
+
+#: .1076060
+msgid "Shake Temperature"
+msgstr ""
+
+#: .1076092
+msgid "Bathroom"
+msgstr ""
+
+#: .1076124
+msgctxt ".1076124"
+msgid "About 30s"
+msgstr ""
+
+#: .1076156
+msgid "Six Cases"
+msgstr ""
+
+#: .1076188
+msgid "Beef Patties"
+msgstr ""
+
+#: .1076220
+msgctxt ".1076220"
+msgid "About 30s"
+msgstr ""
+
+#: .1076252
+msgid "It's Cheaper"
+msgstr ""
+
+#: .1076284
+msgid "To Not Waste Spatulas"
+msgstr ""
+
+#: .1076316
+msgid "Omiya City, Saitama"
+msgstr ""
+
+#: .1076348
+msgid "Make The Order"
+msgstr ""
+
+#: .1076380
+msgid "Refrigerator"
+msgstr ""
+
+#: .1076412
+msgid "Patty"
+msgstr ""
+
+#: .1076444
+msgctxt ".1076444"
+msgid "Japan"
+msgstr ""
+
+#: .1076476
+msgid "Sea of Okhotsk"
+msgstr ""
+
+#: .1076508
+msgid "Mystery Circle"
+msgstr ""
+
+#: .1076540
+msgctxt ".1076540"
+msgid "Three"
+msgstr ""
+
+#: .1076572
+msgid "One"
+msgstr ""
+
+#: .1076604
+msgid "Hot Cake (300 cal)"
+msgstr ""
+
+#: .1076636
+msgid "Iron"
+msgstr ""
+
+#: .1076668
+msgid "Vitamin C"
+msgstr ""
+
+#: .1076700
+msgctxt ".1076700"
+msgid "America"
+msgstr ""
+
+#: .1076732
+msgid "In 1965"
+msgstr ""
+
+#: .1076764
+msgid "2 Patty 0 Cheese"
+msgstr ""
+
+#: .1076796
+msgid "Guests"
+msgstr ""
+
+#: .1076828
+msgid "Lucky Meal"
+msgstr ""
+
+#: .1076860
+msgid "Drive-In"
+msgstr ""
+
+#: .1076892
+msgid "McDonald's Orignal Cheese"
+msgstr ""
+
+#: .1076924
+msgid "Shine Light On It"
+msgstr ""
+
+#: .1076956
+msgctxt ".1076956"
+msgid "Every Day"
+msgstr ""
+
+#: .1076988
+msgid "Big Mac"
+msgstr ""
+
+#: .1077020
+msgid "100%"
+msgstr ""
+
+#: .1077052
+msgid "Washington/Oregon"
+msgstr ""
+
+#: .1077084
+msgid "Domestic (Japan)"
+msgstr ""
+
+#: .1077116
+msgid "Australia/NZ"
+msgstr ""
+
+#: .1077148
+msgid "With Tweezers"
+msgstr ""
+
+#: .1077180
+msgid "Makes Hands Smooth"
+msgstr ""
+
+#: .1077212
+msgctxt ".1077212"
+msgid "Use Odd/Even Days"
+msgstr ""
+
+#: .1077244
+msgid "Use Different Areas"
+msgstr ""
+
+#: .1077276
+msgid "Skills"
+msgstr ""
+
+#: .1077308
+msgid "Hamburger University"
+msgstr ""
+
+#: .1077340
+msgid "Made For You"
+msgstr ""
+
+#: .1077372
+msgid "Steam Them"
+msgstr ""
+
+#: .1077404
+msgid "Four Burgers"
+msgstr ""
+
+#: .1077436
+msgid "Donald"
+msgstr ""
+
+#: .1077468
+msgid "Tokyo"
+msgstr ""
+
+#: .1077500
+msgid "39 Hours"
+msgstr ""
+
+#: .1077532
+msgid "Enoshima, Kanagawa"
+msgstr ""
+
+#: .1077564
+msgid "Teriyaki Burger"
+msgstr ""
+
+#: .1077596
+msgid "Yes, That's True"
+msgstr ""
+
+#: .1077628
+msgid "Ears"
+msgstr ""
+
+#: .1077660
+msgid "Potato Size"
+msgstr ""
+
+#: .1077692
+msgid "Shake Machine"
+msgstr ""
+
+#: .1077724
+msgid "Under 15s"
+msgstr ""
+
+#: .1077756
+msgid "Nine Cases"
+msgstr ""
+
+#: .1077788
+msgid "Vegetables"
+msgstr ""
+
+#: .1077820
+msgid "About 8s"
+msgstr ""
+
+#: .1077852
+msgid "For Cleaner Elbows"
+msgstr ""
+
+#: .1077884
+msgid "For Food Safety"
+msgstr ""
+
+#: .1077916
+msgid "Suginami, Tokyo"
+msgstr ""
+
+#: .1077948
+msgid "Greet Them"
+msgstr ""
+
+#: .1077980
+msgid "Freezer"
+msgstr ""
+
+#: .1078012
+msgid "Cheese"
+msgstr ""
+
+#: .1078044
+msgctxt ".1078044"
+msgid "America"
+msgstr ""
+
+#: .1078076
+msgid "Bering Sea"
+msgstr ""
+
+#: .1078108
+msgid "Mystery Shopper"
+msgstr ""
+
+#: .1078140
+msgctxt ".1078140"
+msgid "Two"
+msgstr ""
+
+#: .1078172
+msgctxt ".1078172"
+msgid "Two"
+msgstr ""
+
+#: .1078204
+msgid "Hamburger (250 cal)"
+msgstr ""
+
+#: .1078236
+msgid "Calcium"
+msgstr ""
+
+#: .1078268
+msgctxt ".1078268"
+msgid "Vitamin A"
+msgstr ""
+
+#: .1078300
+msgid "Same Size"
+msgstr ""
+
+#: .1078332
+msgid "In 1971"
+msgstr ""
+
+#: .1078364
+msgid "2 Patties, 2 Cheese"
+msgstr ""
+
+#: .1078396
+msgid "Crew"
+msgstr ""
+
+#: .1078428
+msgid "Happy Meal"
+msgstr ""
+
+#: .1078460
+msgid "Drive-Thru"
+msgstr ""
+
+#: .1078492
+msgid "Ranch-Made Cheese"
+msgstr ""
+
+#: .1078526
+msgid "Pour Hot Water On It"
+msgstr ""
+
+#: .1078560
+msgctxt ".1078560"
+msgid "Once A Week"
+msgstr ""
+
+#: .1078594
+msgid "Filet-O-Fish"
+msgstr ""
+
+#: .1078628
+msgid "It Varies"
+msgstr ""
+
+#: .1078662
+msgid "Hokkaido/Miyazaki"
+msgstr ""
+
+#: .1078696
+msgid "China"
+msgstr ""
+
+#: .1078730
+msgid "Matsuzaka/Iwate"
+msgstr ""
+
+#: .1078764
+msgid "They're Dissolved"
+msgstr ""
+
+#: .1078798
+msgid "Makes Skin Brighter"
+msgstr ""
+
+#: .1078832
+msgid "As You Feel Like It"
+msgstr ""
+
+#: .1078866
+msgid "Use Different Colours"
+msgstr ""
+
+#: .1078900
+msgid "Athletics"
+msgstr ""
+
+#: .1078934
+msgid "Donald University"
+msgstr ""
+
+#: .1078968
+msgid "Make A Chance"
+msgstr ""
+
+#: .1079002
+msgid "Fry Them"
+msgstr ""
+
+#: .1079036
+msgid "Six Burgers"
+msgstr ""
+
+#: .1079070
+msgid "McDonald's"
+msgstr ""
+
+#: .1079104
+msgid "Fukuoka"
+msgstr ""
+
+#: .1079138
+msgid "One Week"
+msgstr ""
+
+#: .1079172
+msgid "Nagoya, Aichi"
+msgstr ""
+
+#: .1079206
+msgid "Egg McMuffin"
+msgstr ""
+
+#: .1079240
+msgid "None Are Standard"
+msgstr ""
+
+#: .1079274
+msgid "Tail"
+msgstr ""
+
+#: .1079308
+msgid "Bun Softness"
+msgstr ""
+
+#: .1079342
+msgid "Uniforms"
+msgstr ""
+
+#: .1079376
+msgctxt ".1079376"
+msgid "About 1m"
+msgstr ""
+
+#: .1079410
+msgid "Until They Fall"
+msgstr ""
+
+#: .1079444
+msgid "Potatoes"
+msgstr ""
+
+#: .1079478
+msgctxt ".1079478"
+msgid "About 1m"
+msgstr ""
+
+#: .1079512
+msgid "Heat Sensitivity"
+msgstr ""
+
+#: .1079546
+msgid "It's Cool To Have Two"
+msgstr ""
+
+#: .1079580
+msgid "Yokohama, Kanagawa"
+msgstr ""
+
+#: .1079614
+msgid "Clean The Area"
+msgstr ""
+
+#: .1079648
+msgid "Store at Room Temp."
+msgstr ""
+
+#: .1079682
+msgid "Doesn't Matter"
+msgstr ""
+
+#: .1079716
+msgid "England"
+msgstr ""
+
+#: .1079750
+msgid "Indian Ocean"
+msgstr ""
+
+#: .1079784
+msgid "Mystery Tour"
+msgstr ""
+
+#: .1079818
+msgid "Four"
+msgstr ""
+
+#: .1079852
+msgctxt ".1079852"
+msgid "Three"
+msgstr ""
+
+#: .1079886
+msgid "Soft-Serve (150 cal)"
+msgstr ""
+
+#: .1079920
+msgctxt ".1079920"
+msgid "Vitamin A"
+msgstr ""
+
+#: .1079954
+msgid "Lipids"
+msgstr ""
+
+#: .1079988
+msgctxt ".1079988"
+msgid "Japan"
+msgstr ""
+
+#: .1080022
+msgid "in 1976"
+msgstr ""
+
+#: .1080056
+msgid "0 Patty, 2 Cheese"
+msgstr ""
+
+#: .1080090
+msgid "Staff"
+msgstr ""
+
+#: .1080124
+msgid "Kids Meal"
+msgstr ""
+
+#: .1080158
+msgid "Takeaway"
+msgstr ""
+
+#: .1080192
+msgid ""
+"What kind of cheese does\n"
+"McDonald's use?"
+msgstr ""
+
+#: .1080278
+msgid ""
+"How does the McDonald's\n"
+"factory check egg quality?"
+msgstr ""
+
+#: .1080364
+msgid ""
+"How often are grill settings\n"
+"checked to ensure proper pattycooking temperature?"
+msgstr ""
+
+#: .1080450
+msgid "Which sandwich has lettuce in it?"
+msgstr ""
+
+#: .1080536
+msgid ""
+"What percentage beef is used\n"
+"in the patties?"
+msgstr ""
+
+#: .1080622
+msgid "Where are Japanese french fry potatoes mainly grown?"
+msgstr ""
+
+#: .1080708
+msgid "Where does the lettuce used inJapanese McDonald's come from?"
+msgstr ""
+
+#: .1080794
+msgid ""
+"Where do McDonald's beef\n"
+"patties come from?"
+msgstr ""
+
+#: .1080880
+msgid "How are the small bones in thewhitefish used in Filet-O-Fish removed?"
+msgstr ""
+
+#: .1080966
+msgid ""
+"What other\n"
+"effect doesthe hand\n"
+"soap have?"
+msgstr ""
+
+#: .1081052
+msgid ""
+"How do you\n"
+"replace thenail brush\n"
+"used to\n"
+"wash hands?"
+msgstr ""
+
+#: .1081138
+msgid ""
+"What is thehygenic wayto use the\n"
+"McDonald's\n"
+"mop?"
+msgstr ""
+
+#: .1081224
+msgid ""
+"McDonald's holds a\n"
+"contest.\n"
+"What is it about?"
+msgstr ""
+
+#: .1081310
+msgid ""
+"McDonald's\n"
+"has a\n"
+"training\n"
+"school.\n"
+"What is itsname?"
+msgstr ""
+
+#: .1081396
+msgid ""
+"What is the manufacturing\n"
+"system for providing freshly-\n"
+"made burgers called?"
+msgstr ""
+
+#: .1081482
+msgid ""
+"How do you cook Filet-O-Fish\n"
+"buns?"
+msgstr ""
+
+#: .1081568
+msgid ""
+"How many\n"
+"burgers\n"
+"tall are\n"
+"Ronald\n"
+"McDonald's\n"
+"legs?"
+msgstr ""
+
+#: .1081654
+msgid ""
+"I'm Ronald McDonald.\n"
+"What do\n"
+"people in\n"
+"Japan call\n"
+"me?"
+msgstr ""
+
+#: .1081740
+msgid ""
+"Where in Japan was the first\n"
+"McDonald's?"
+msgstr ""
+
+#: .1081826
+msgid "How long did it take to build the first McDonald's in Japan?"
+msgstr ""
+
+#: .1081912
+msgid "Where in Japan was the 5,000thMcDonald's store built?"
+msgstr ""
+
+#: .1081998
+msgid ""
+"Which sandwich has sesame on\n"
+"the bun?"
+msgstr ""
+
+#: .1082084
+msgid ""
+"Is it true that the world\n"
+"standard for McDonald's\n"
+"pickles are the Japanese ones?"
+msgstr ""
+
+#: .1082170
+msgid ""
+"Where on\n"
+"the cow is\n"
+"the tag\n"
+"with the\n"
+"breeding\n"
+"history\n"
+"attached?"
+msgstr ""
+
+#: .1082256
+msgid ""
+"What does\n"
+"this scale\n"
+"measure at McDonald's?"
+msgstr ""
+
+#: .1082342
+msgid ""
+"What do the brushes\n"
+"pictured\n"
+"clean?"
+msgstr ""
+
+#: .1082428
+msgid "How long does it take to bake McDonald's buns?"
+msgstr ""
+
+#: .1082514
+msgid ""
+"How high can you stack beef\n"
+"patties in the freezer?"
+msgstr ""
+
+#: .1082600
+msgid ""
+"Which ingredient do you bring\n"
+"in first when delivering the\n"
+"ingredients?"
+msgstr ""
+
+#: .1082686
+msgid ""
+"How long do you steam the\n"
+"Filet-O-Fish buns for?"
+msgstr ""
+
+#: .1082772
+msgid ""
+"Why do the McDonald's crew\n"
+"wear short-sleeved shirts all year round?"
+msgstr ""
+
+#: .1082858
+msgid ""
+"Why are\n"
+"there two\n"
+"types of\n"
+"spatulas\n"
+"for cookingeggs?"
+msgstr ""
+
+#: .1082944
+msgid "Where was the first McDonald'sDrive-Thru in Japan?"
+msgstr ""
+
+#: .1083030
+msgid ""
+"What is the first step in\n"
+"customer service?"
+msgstr ""
+
+#: .1083116
+msgid ""
+"Where are the beef patties\n"
+"stored?"
+msgstr ""
+
+#: .1083202
+msgid ""
+"In a cheeseburger, does the\n"
+"cheese or the patty go on top?"
+msgstr ""
+
+#: .1083288
+msgid "Where was the first McDonald'sstore ever located?"
+msgstr ""
+
+#: .1083374
+msgid "Where in Japan are the Filet-O-Fish fish caught?"
+msgstr ""
+
+#: .1083460
+msgid ""
+"What is the mysterious\n"
+"investigator of McDonald's\n"
+"stores called?"
+msgstr ""
+
+#: .1083546
+msgid "How many beef patties are in aBig Mac?"
+msgstr ""
+
+#: .1083632
+msgid ""
+"How many pickles are in a\n"
+"double cheeseburger?"
+msgstr ""
+
+#: .1083718
+msgid ""
+"Which of these has the same\n"
+"number of calories as a 150g\n"
+"bowl of rice?"
+msgstr ""
+
+#: .1083804
+msgid "Which of the following is mostabundant in milk?"
+msgstr ""
+
+#: .1083890
+msgid "Which of the following is mostabundant in tomatoes?"
+msgstr ""
+
+#: .1083976
+msgid "Which are bigger, Japanese or American hamburgers?"
+msgstr ""
+
+#: .1084062
+msgid ""
+"When was the first Japanese\n"
+"McDonald's opened?"
+msgstr ""
+
+#: .1084148
+msgid "Which of these is true about adouble cheeseburger?"
+msgstr ""
+
+#: .1084234
+msgid ""
+"What are part-time McDonald's\n"
+"workers called?"
+msgstr ""
+
+#: .1084320
+msgid "What are the special meals for children called?"
+msgstr ""
+
+#: .1084406
+msgid "Where at McDonald's do you buyfood from your car?"
+msgstr ""
+
+#: .1084492
+msgid ""
+"What are precautions taken\n"
+"when handling food called?"
+msgstr ""
+
+#: .1084616
+msgid ""
+"Which of these is what\n"
+"requires appointing a food\n"
+"sanitation office?"
+msgstr ""
+
+#: .1084740
+msgid ""
+"What does the Food Safety\n"
+"Officer do?"
+msgstr ""
+
+#: .1084864
+msgid "What does the Food Sanitation Inspector do?"
+msgstr ""
+
+#: .1084988
+msgid "What is the PL Method?"
+msgstr ""
+
+#: .1085112
+msgid ""
+"What is the most important\n"
+"aspect of effective hand-\n"
+"washing?"
+msgstr ""
+
+#: .1085236
+msgid "Which part are you most likelyto forget when washing hands?"
+msgstr ""
+
+#: .1085360
+msgid "Which of these is a pest whichcarries diseases?"
+msgstr ""
+
+#: .1085484
+msgid ""
+"Which of these is a health\n"
+"checkpoint when entering the\n"
+"store?"
+msgstr ""
+
+#: .1085608
+msgid ""
+"Which of these is false\n"
+"regarding food poisoning\n"
+"outbreaks?"
+msgstr ""
+
+#: .1085732
+msgid ""
+"Which food is most likely to\n"
+"contain salmonella?"
+msgstr ""
+
+#: .1085856
+msgid ""
+"Which of these causes\n"
+"Campylobacter poisoning?"
+msgstr ""
+
+#: .1085980
+msgid ""
+"Which of these causes\n"
+"Staphylococcus Aureus\n"
+"food poisoning?"
+msgstr ""
+
+#: .1086104
+msgid ""
+"How often is the digital\n"
+"thermometer calibrated to\n"
+"0°C/32°F?"
+msgstr ""
+
+#: .1086228
+msgid "Which of these is most likely to cause food poisoning?"
+msgstr ""
+
+#: .1086352
+msgid ""
+"Which of these is the most\n"
+"important in preventing\n"
+"foodborne illness?"
+msgstr ""
+
+#: .1086476
+msgid ""
+"Which of these is not one of\n"
+"the three prevention\n"
+"principles?"
+msgstr ""
+
+#: .1086600
+msgid ""
+"How long do you keep the\n"
+"'Health & Handwashing Record' sheet?"
+msgstr ""
+
+#: .1086724
+msgid ""
+"What does it take to kill\n"
+"germs?"
+msgstr ""
+
+#: .1086848
+msgid ""
+"Which of these is the correct way to store things in the\n"
+"fridge?"
+msgstr ""
+
+#: .1086972
+msgid "How do you sterilise milk?"
+msgstr ""
+
+#: .1087096
+msgid "Do frozen foods carry harmful bacteria?"
+msgstr ""
+
+#: .1087220
+msgid ""
+"How often should I check the\n"
+"ice cubes in the freezer?"
+msgstr ""
+
+#: .1087344
+msgid ""
+"At what temperature does\n"
+"bacteria start to stop\n"
+"growing?"
+msgstr ""
+
+#: .1087468
+msgid ""
+"Which of these must you have\n"
+"in hand-washing areas?"
+msgstr ""
+
+#: .1087592
+msgid "How much bacteria does it taketo spoil food?"
+msgstr ""
+
+#: .1087716
+msgid ""
+"Which of these is false about\n"
+"food spoilage?"
+msgstr ""
+
+#: .1087840
+msgid "What is the correct way to usethe broom & dustpan?"
+msgstr ""
+
+#: .1087964
+msgid ""
+"How many microbes-per-gramme\n"
+"is safe for meat-based\n"
+"McDonald's sandwiches?"
+msgstr ""
+
+#: .1088088
+msgid ""
+"How many times is the\n"
+"McDonald's hand soap diluted?"
+msgstr ""
+
+#: .1088212
+msgid "What is most important for theeffectiveness of cleaning?"
+msgstr ""
+
+#: .1088336
+msgid ""
+"Which of these is\n"
+"sterilisation?"
+msgstr ""
+
+#: .1088460
+msgid ""
+"Which of these is the alcohol\n"
+"disinfection method?"
+msgstr ""
+
+#: .1088584
+msgid ""
+"Which of these is the correct\n"
+"temperature for beef patties?"
+msgstr ""
+
+#: .1088708
+msgid ""
+"Which of these is true about\n"
+"grease trap cleaning?"
+msgstr ""
+
+#: .1088832
+msgid ""
+"How often should you perform\n"
+"residual chlorine testing on\n"
+"the tap water?"
+msgstr ""
+
+#: .1088956
+msgid ""
+"When washing your hands, we\n"
+"fill the cup to 80% full. Whatsize cup are we using?"
+msgstr ""
+
+#: .1089080
+msgid ""
+"How many soda nozzle brushes\n"
+"do you use?"
+msgstr ""
+
+#: .1089204
+msgid ""
+"Which of these is the right\n"
+"term for when food goes bad?"
+msgstr ""
+
+#: .1089328
+msgid ""
+"Which of these should a hand\n"
+"washing area not have or be?"
+msgstr ""
+
+#: .1089452
+msgid ""
+"What is the scientific basis\n"
+"for predicting hazard analysis(HA)?"
+msgstr ""
+
+#: .1089576
+msgid "Which of these is the CriticalControl Point (CCP) for makinghamburgers?"
+msgstr ""
+
+#: .1089700
+msgid ""
+"Which of these is not a\n"
+"condition for growing\n"
+"bacteria?"
+msgstr ""
+
+#: .1089824
+msgid ""
+"What is the law regarding\n"
+"proper labeling of agricultureand fishing products?"
+msgstr ""
+
+#: .1089948
+msgid ""
+"What is the term for how long\n"
+"food stays in the best qualitywhen stored properly?"
+msgstr ""
+
+#: .1090072
+msgid ""
+"What do you call symptoms suchas hives caused by protein\n"
+"content?"
+msgstr ""
+
+#: .1090196
+msgid ""
+"Which of these is not one of\n"
+"the seven allergens?"
+msgstr ""
+
+#: .1090320
+msgid ""
+"What type of food poisoning\n"
+"comes from seafood?"
+msgstr ""
+
+#: .1090444
+msgid ""
+"Which of these is not a valid\n"
+"setting for a McDonald's\n"
+"disinfection bin?"
+msgstr ""
+
+#: .1090568
+msgid ""
+"What is the standard\n"
+"temperature of the fridge at\n"
+"McDonald's?"
+msgstr ""

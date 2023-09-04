@@ -1,0 +1,110 @@
+#. extracted from translation/bin/en/soc/soc_tp07.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid "Getting Ready"
+msgstr ""
+
+#: [1]
+msgid "①Hot Holding"
+msgstr ""
+
+#: [2]
+msgid "②Toasted & Steamed Buns"
+msgstr ""
+
+#: [3]
+msgid "③Hamburgers/Cheeseburgers"
+msgstr ""
+
+#: [4]
+msgid "④Teriyaki Burger"
+msgstr ""
+
+#: [5]
+msgid "⑤Big Mac"
+msgstr ""
+
+#: [6]
+msgid "⑥Filet-O-Fish"
+msgstr ""
+
+#: [7]
+msgid "⑦Quarter-Pounder"
+msgstr ""
+
+#: [8]
+msgid "⑧Double Quarter-Pounder"
+msgstr ""
+
+#: [9]
+msgid "⑨Assembly Drawings"
+msgstr ""
+
+#: [10]
+msgid "⑩Maintenance"
+msgstr ""
+
+#: [11]
+msgid "13 Pages"
+msgstr ""
+
+#: [12]
+msgctxt "[12]"
+"[12]"
+msgid "10 Pages"
+msgstr ""
+
+#: [13]
+msgctxt "[13]"
+msgid "12 Pages"
+msgstr ""
+
+#: [14]
+msgctxt "[14]"
+msgid "10 Pages"
+msgstr ""
+
+#: [15]
+msgctxt "[15]"
+msgid "7 Pages"
+msgstr ""
+
+#: [16]
+msgctxt "[16]"
+msgid "10 Pages"
+msgstr ""
+
+#: [17]
+msgctxt "[17]"
+msgid "7 Pages"
+msgstr ""
+
+#: [18]
+msgctxt "[18]"
+msgid "12 Pages"
+msgstr ""
+
+#: [19]
+msgid "14 Pages"
+msgstr ""
+
+#: [20]
+msgid "4 Pages"
+msgstr ""
+
+#: [21]
+msgid "2 Pages"
+msgstr ""

@@ -1,0 +1,165 @@
+#. extracted from translation/bin/en/soc/soc_dp00.003.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"If using Arch Fry Dispenser...\n"
+"■From the near\n"
+"side of the fry\n"
+"dispenser, take\n"
+"out the basket."
+msgstr ""
+
+#: [1]
+msgid ""
+"If using the fry rack...\n"
+"■Take out the\n"
+"basket on the\n"
+"near side of the\n"
+"frier from the\n"
+"bottom."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cooking French Fries\n"
+"■If the bagging\n"
+"station is on the\n"
+"right, put in the\n"
+"baskets in the\n"
+"order shown."
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking French Fries\n"
+"■Put the basket\n"
+"in the vat and\n"
+"set the timer."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cooking French Fries\n"
+"■When the timer\n"
+"rings (after\n"
+"30s), lift the\n"
+"basket and\n"
+"shake 3-4 times."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cooking French Fries\n"
+"■When timer rings\n"
+"turn it off. Take\n"
+"the basket from\n"
+"oil and turn off\n"
+"oil for 5-10s."
+msgstr ""
+
+#: [6]
+msgid ""
+"Cooking French Fries\n"
+"■After the oil has drained\n"
+"fully, set the HT-Timer."
+msgstr ""
+
+#: [7]
+msgid ""
+"Cooking French Fries\n"
+"■Now transfer the\n"
+"potatoes to the\n"
+"bagging tray. "
+msgstr ""
+
+#: [8]
+msgid ""
+"Cooking French Fries\n"
+"■Put baskets\n"
+"back on top of\n"
+"vat and let oil\n"
+"drop down."
+msgstr ""
+
+#: [9]
+msgid ""
+"Cooking French Fries\n"
+"■Sprinkle salt\n"
+"immediately\n"
+"and mix it all\n"
+"together."
+msgstr ""
+
+#: [10]
+msgid ""
+"Cooking French Fries\n"
+"■In one hand, hold the bagging\n"
+"scoop. In the other hand,\n"
+"hold the fry bag or box."
+msgstr ""
+
+#: [11]
+msgid ""
+"Cooking French Fries\n"
+"■Put the narrow end of the\n"
+"scoop into the bag. Hold\n"
+"the sides of the fry box\n"
+"and push the bottom to\n"
+"open it."
+msgstr ""
+
+#: [12]
+msgid ""
+"(For Fry Bags)\n"
+"■Hold the scoop\n"
+"and bag with one\n"
+"hand.                                               "
+msgstr ""
+
+#: [13]
+msgid ""
+"(For Fry Bags)\n"
+"■Tilt the scoop\n"
+"from side to side\n"
+"to align the fries\n"
+"vertically and\n"
+"put them into\n"
+"the bag."
+msgstr ""
+
+#: [14]
+msgid ""
+"(For Fry Boxes)\n"
+"■Hold the scoop\n"
+"and box in\n"
+"separate hands.\n"
+"Be careful not\n"
+"to crush the\n"
+"box."
+msgstr ""
+
+#: [15]
+msgid ""
+"Cooking French Fries\n"
+"■Put the bagged fries\n"
+"onto the fry rack."
+msgstr ""
+
+#: [16]
+msgid ""
+"Cooking French Fries\n"
+"■Serve within 7 minutes."
+msgstr ""

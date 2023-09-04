@@ -1,0 +1,88 @@
+#. extracted from translation/overlay/ja/OVERLAY_23.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .12128
+msgctxt ".12128"
+msgid "する"
+msgstr ""
+
+#: .12136
+msgctxt ".12136"
+msgid "する"
+msgstr ""
+
+#: .12144
+msgid "並べる"
+msgstr ""
+
+#: .12160
+msgid "４秒後に"
+msgstr ""
+
+#: .12172
+msgid "保管する"
+msgstr ""
+
+#: .12184
+msgid "準備します"
+msgstr ""
+
+#: .12196
+msgid "ターンします"
+msgstr ""
+
+#: .12212
+msgid "ホールディング"
+msgstr ""
+
+#: .12228
+msgid "４秒後にターン"
+msgstr ""
+
+#: .12244
+msgid "ＵＨＣトレーを"
+msgstr ""
+
+#: .12260
+msgid "タイムは３０分"
+msgstr ""
+
+#: .12276
+msgid "並べてください"
+msgstr ""
+
+#: .12292
+msgid "タイマーを押し"
+msgstr ""
+
+#: .12308
+msgid "並べたときと同じ"
+msgstr ""
+
+#: .12328
+msgid "トレーを準備する"
+msgstr ""
+
+#: .12348
+msgid "コールドゾーンに"
+msgstr ""
+
+#: .12368
+msgid "４秒後にリムーブ"
+msgstr ""
+
+#: .12388
+msgid "順にリムーブします"
+msgstr ""

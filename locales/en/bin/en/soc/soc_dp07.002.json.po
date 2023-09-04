@@ -1,0 +1,114 @@
+#. extracted from translation/bin/en/soc/soc_dp07.002.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"What Customers Want\n"
+"■Piping Hot\n"
+"■Evenly Toasted\n"
+"■Not Squished"
+msgstr ""
+
+#: [1]
+msgid ""
+"Prep\n"
+"■Check the device settings.\n"
+"■Prepare a Bun Trash Box."
+msgstr ""
+
+#: [2]
+msgid ""
+"Washed Your Hands?\n"
+"■Use McDonald's\n"
+"hand soap. Wash\n"
+"properly. Dry with\n"
+"a paper towel."
+msgstr ""
+
+#: [3]
+msgid ""
+"Toasting Buns: ①\n"
+"■Choose correct\n"
+"buns, put them in\n"
+"toaster and take\n"
+"out wrapper and\n"
+"box."
+msgstr ""
+
+#: [4]
+msgid ""
+"Toasting Buns: ②\n"
+"■Grilled orders get\n"
+"a grill sticker\n"
+"too."
+msgstr ""
+
+#: [5]
+msgid ""
+"Toasting Buns: ③\n"
+"■When done, put\n"
+"the buns on the\n"
+"plastic wrapper\n"
+"or in the box."
+msgstr ""
+
+#: [6]
+msgid ""
+"Toasting Buns: ④\n"
+"■If the assembler dressed the\n"
+"previous order, the initiator\n"
+"starts dressing the sandwich."
+msgstr ""
+
+#: [7]
+msgid ""
+"Toasting Buns: ⑤\n"
+"■Bump the order when the\n"
+"assembler picks up the sandwich."
+msgstr ""
+
+#: [8]
+msgid ""
+"Steamed Buns: ①\n"
+"■Choose correct\n"
+"buns and put 1-2\n"
+"on the steamer\n"
+"tray."
+msgstr ""
+
+#: [9]
+msgid ""
+"Steamed Buns: ②\n"
+"■Put the steamer tray into the\n"
+"steamer and press start button.\n"
+"■Take out wrapper or box.\n"
+"■When the timer rings, pull out\n"
+"the steamer tray and remove buns."
+msgstr ""
+
+#: [10]
+msgid ""
+"Steamed Buns: ③\n"
+"■If the assembler dressed the\n"
+"previous order, the initiator\n"
+"starts dressing the sandwich."
+msgstr ""
+
+#: [11]
+msgid ""
+"Steamed Buns: ④\n"
+"■Bump the order when the\n"
+"assembler picks up the sandwich."
+msgstr ""

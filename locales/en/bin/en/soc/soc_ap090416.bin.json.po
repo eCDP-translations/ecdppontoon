@@ -1,0 +1,39 @@
+#. extracted from translation/bin/en/soc/soc_ap090416.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■Don't put hashbrowns or french\n"
+"fries together with cold drinks\n"
+"or shakes."
+msgstr ""
+
+#: [1]
+msgid ""
+"■When placing weight cards, be\n"
+"careful to not directly touch\n"
+"the potatoes. Check the weight\n"
+"cards regularly and use only\n"
+"clean ones."
+msgstr ""
+
+#: [2]
+msgid ""
+"■Don't forget to pack the\n"
+"condiments first.\n"
+"■Don't forget to hand over the\n"
+"premiums when there are\n"
+"promotions."
+msgstr ""

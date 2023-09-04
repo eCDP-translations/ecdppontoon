@@ -1,0 +1,49 @@
+#. extracted from translation/bin/en/soc/soc_dp09.002.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Within 20-25s\n"
+"■It should take you under\n"
+"20-25s for you to complete\n"
+"taking the customer's order."
+msgstr ""
+
+#: [1]
+msgid ""
+"Order Taker & Cashier\n"
+"1. Don't interrupt the\n"
+"customer while they are\n"
+"speaking."
+msgstr ""
+
+#: [2]
+msgid ""
+"Order Taker & Cashier\n"
+"2. Make sure the order is\n"
+"correct."
+msgstr ""
+
+#: [3]
+msgid ""
+"Order Taker & Cashier\n"
+"3. Make suggestions."
+msgstr ""
+
+#: [4]
+msgid ""
+"Order Taker & Cashier\n"
+"4. Confirm the order again."
+msgstr ""

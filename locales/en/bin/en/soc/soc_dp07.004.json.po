@@ -1,0 +1,72 @@
+#. extracted from translation/bin/en/soc/soc_dp07.004.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Teriyaki Burger\n"
+"■This shows a\n"
+"correctly made\n"
+"teriyaki\n"
+"burger."
+msgstr ""
+
+#: [1]
+msgid ""
+"Procedure\n"
+"■Put toasted quarter-pounder\n"
+"buns in a bag-like wrapper."
+msgstr ""
+
+#: [2]
+msgid ""
+"Procedure\n"
+"■Hit the crown\n"
+"with a shot of\n"
+"sweet lemon\n"
+"sauce."
+msgstr ""
+
+#: [3]
+msgid ""
+"Procedure\n"
+"■Put a slice\n"
+"of lettuce on\n"
+"top."
+msgstr ""
+
+#: [4]
+msgid ""
+"Procedure\n"
+"■Now put the\n"
+"marinated\n"
+"teriyaki \n"
+"patty on it."
+msgstr ""
+
+#: [5]
+msgid ""
+"Procedure\n"
+"■Put the heel\n"
+"on top of the\n"
+"completed\n"
+"burger."
+msgstr ""
+
+#: [6]
+msgid ""
+"Procedure\n"
+"■Wrap the final product up\n"
+"and slide it down the HLZ."
+msgstr ""

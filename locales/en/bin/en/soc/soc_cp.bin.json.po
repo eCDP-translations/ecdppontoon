@@ -1,0 +1,58 @@
+#. extracted from translation/bin/en/soc/soc_cp.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid "Fries & Hashbrowns"
+msgstr ""
+
+#: [1]
+msgid "Lot ＆ Lobby"
+msgstr ""
+
+#: [2]
+msgid "Food Safety"
+msgstr ""
+
+#: [3]
+msgid "Breakfast Stock"
+msgstr ""
+
+#: [4]
+msgid "Breakfast Meat"
+msgstr ""
+
+#: [5]
+msgid "Grill Products"
+msgstr ""
+
+#: [6]
+msgid "Assembly （BF）"
+msgstr ""
+
+#: [7]
+msgid "Assembly （Day）"
+msgstr ""
+
+#: [8]
+msgid "Fried Products"
+msgstr ""
+
+#: [9]
+msgid "Front Counter"
+msgstr ""
+
+#: [10]
+msgid "Drive-Thru"
+msgstr ""

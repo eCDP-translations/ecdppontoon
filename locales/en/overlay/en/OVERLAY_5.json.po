@@ -1,0 +1,706 @@
+#. extracted from translation/overlay/en/OVERLAY_5.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .80816
+msgctxt ".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+".80816"
+msgid "Choose the"
+msgstr ""
+
+#: .79616
+msgctxt ".79616"
+".79616"
+".79616"
+".79616"
+".79616"
+".79616"
+".79616"
+".79616"
+".79616"
+msgid "correct buns."
+msgstr ""
+
+#: .80768
+msgctxt ".80768"
+msgid "Choose the"
+msgstr ""
+
+#: .80880
+msgctxt ".80880"
+msgid "correct buns."
+msgstr ""
+
+#: .80448
+msgctxt ".80448"
+msgid "Choose the"
+msgstr ""
+
+#: .79632
+msgctxt ".79632"
+msgid "correct buns."
+msgstr ""
+
+#: .80400
+msgctxt ".80400"
+msgid "Choose the"
+msgstr ""
+
+#: .80416
+msgctxt ".80416"
+msgid "correct buns."
+msgstr ""
+
+#: .80832
+msgctxt ".80832"
+msgid "Choose the"
+msgstr ""
+
+#: .79608
+msgctxt ".79608"
+msgid "correct buns."
+msgstr ""
+
+#: .81492
+msgctxt ".81492"
+msgid "Choose the"
+msgstr ""
+
+#: .80752
+msgctxt ".80752"
+".80752"
+".80752"
+msgid "regular buns."
+msgstr ""
+
+#: .80704
+msgctxt ".80704"
+msgid "Choose the"
+msgstr ""
+
+#: .79648
+msgctxt ".79648"
+msgid "correct buns."
+msgstr ""
+
+#: .81432
+msgctxt ".81432"
+msgid "Choose the"
+msgstr ""
+
+#: .80688
+msgctxt ".80688"
+msgid "regular buns."
+msgstr ""
+
+#: .80240
+msgctxt ".80240"
+msgid "Choose the"
+msgstr ""
+
+#: .79592
+msgctxt ".79592"
+msgid "correct buns."
+msgstr ""
+
+#: .81452
+msgctxt ".81452"
+msgid "Choose the"
+msgstr ""
+
+#: .80736
+msgctxt ".80736"
+msgid "regular buns."
+msgstr ""
+
+#: .80544
+msgctxt ".80544"
+msgid "Choose the"
+msgstr ""
+
+#: .79640
+msgctxt ".79640"
+msgid "correct buns."
+msgstr ""
+
+#: .81232
+msgctxt ".81232"
+msgid "Choose the"
+msgstr ""
+
+#: .80432
+msgctxt ".80432"
+msgid "regular buns."
+msgstr ""
+
+#: .80464
+msgctxt ".80464"
+msgid "Choose the"
+msgstr ""
+
+#: .79600
+msgctxt ".79600"
+msgid "correct buns."
+msgstr ""
+
+#: .81292
+msgctxt ".81292"
+msgid "Choose the"
+msgstr ""
+
+#: .81332
+msgctxt ".81332"
+msgid "Big Mac Buns."
+msgstr ""
+
+#: .80640
+msgctxt ".80640"
+msgid "Choose the"
+msgstr ""
+
+#: .79624
+msgctxt ".79624"
+msgid "correct buns."
+msgstr ""
+
+#: .81352
+msgctxt ".81352"
+msgid "Choose the"
+msgstr ""
+
+#: .81372
+msgctxt ".81372"
+msgid "Big Mac Buns."
+msgstr ""
+
+#: .80912
+msgctxt ".80912"
+".80912"
+".80912"
+".80912"
+".80912"
+".80912"
+".80912"
+msgid "Put the buns"
+msgstr ""
+
+#: .80064
+msgctxt ".80064"
+".80064"
+".80064"
+".80064"
+".80064"
+msgid "in the toaster."
+msgstr ""
+
+#: .80864
+msgctxt ".80864"
+".80864"
+".80864"
+msgid "Heel in front."
+msgstr ""
+
+#: .81192
+msgctxt ".81192"
+".81192"
+".81192"
+".81192"
+".81192"
+msgid "Crown in back."
+msgstr ""
+
+#: .80896
+msgctxt ".80896"
+msgid "Put the buns"
+msgstr ""
+
+#: .80032
+msgctxt ".80032"
+msgid "in the toaster."
+msgstr ""
+
+#: .80848
+msgctxt ".80848"
+msgid "Heel in front."
+msgstr ""
+
+#: .81172
+msgctxt ".81172"
+msgid "Crown in back."
+msgstr ""
+
+#: .80528
+msgctxt ".80528"
+msgid "Put the buns"
+msgstr ""
+
+#: .79920
+msgctxt ".79920"
+msgid "in the toaster."
+msgstr ""
+
+#: .80944
+msgctxt ".80944"
+msgid "Heel in front."
+msgstr ""
+
+#: .81052
+msgctxt ".81052"
+msgid "Crown in back."
+msgstr ""
+
+#: .80512
+msgctxt ".80512"
+msgid "Put the buns"
+msgstr ""
+
+#: .79904
+msgctxt ".79904"
+msgid "in the toaster."
+msgstr ""
+
+#: .81536
+msgctxt ".81536"
+msgid "Heel & Club in front."
+msgstr ""
+
+#: .81032
+msgctxt ".81032"
+msgid "Crown in back."
+msgstr ""
+
+#: .80288
+msgctxt ".80288"
+msgid "Put the buns"
+msgstr ""
+
+#: .80144
+msgctxt ".80144"
+msgid "in the toaster."
+msgstr ""
+
+#: .80272
+msgctxt ".80272"
+msgid "Heel in front."
+msgstr ""
+
+#: .80992
+msgctxt ".80992"
+msgid "Crown in back."
+msgstr ""
+
+#: .80656
+msgctxt ".80656"
+msgid "Put the buns"
+msgstr ""
+
+#: .79984
+msgctxt ".79984"
+msgid "in the toaster."
+msgstr ""
+
+#: .81560
+msgctxt ".81560"
+msgid "Heel & Club in front."
+msgstr ""
+
+#: .81112
+msgctxt ".81112"
+msgid "Crown in back."
+msgstr ""
+
+#: .80976
+msgctxt ".80976"
+msgid "Put the buns"
+msgstr ""
+
+#: .79968
+msgctxt ".79968"
+msgid "in the steamer."
+msgstr ""
+
+#: .80096
+msgctxt ".80096"
+msgid "Turn the cut"
+msgstr ""
+
+#: .79712
+msgctxt ".79712"
+msgid "side downward."
+msgstr ""
+
+#: .80224
+msgctxt ".80224"
+msgid "Put the buns"
+msgstr ""
+
+#: .80016
+msgctxt ".80016"
+msgid "in the steamer."
+msgstr ""
+
+#: .80112
+msgctxt ".80112"
+msgid "Turn the cut"
+msgstr ""
+
+#: .79700
+msgctxt ".79700"
+msgid "side downward."
+msgstr ""
+
+#: .80304
+msgctxt ".80304"
+".80304"
+".80304"
+".80304"
+".80304"
+".80304"
+".80304"
+msgid "Put in the"
+msgstr ""
+
+#: .79748
+msgctxt ".79748"
+".79748"
+".79748"
+".79748"
+".79748"
+msgid "correct wrapper."
+msgstr ""
+
+#: .80960
+msgctxt ".80960"
+msgid "Crown in front."
+msgstr ""
+
+#: .79784
+msgctxt ".79784"
+msgid "Heel in back."
+msgstr ""
+
+#: .80608
+msgctxt ".80608"
+msgid "Put in the"
+msgstr ""
+
+#: .79880
+msgctxt ".79880"
+msgid "correct wrapper."
+msgstr ""
+
+#: .80592
+msgctxt ".80592"
+msgid "Crown in front."
+msgstr ""
+
+#: .79844
+msgctxt ".79844"
+msgid "Heel in back."
+msgstr ""
+
+#: .80928
+msgctxt ".80928"
+msgid "Put in the"
+msgstr ""
+
+#: .79856
+msgctxt ".79856"
+msgid "correct wrapper."
+msgstr ""
+
+#: .80336
+msgctxt ".80336"
+".80336"
+".80336"
+msgid "Crown in centre."
+msgstr ""
+
+#: .80176
+msgctxt ".80176"
+".80176"
+".80176"
+msgid "Heel by HLZ."
+msgstr ""
+
+#: .80384
+msgctxt ".80384"
+msgid "Put in the"
+msgstr ""
+
+#: .79820
+msgctxt ".79820"
+msgid "correct wrapper."
+msgstr ""
+
+#: .80256
+msgctxt ".80256"
+msgid "Crown in centre."
+msgstr ""
+
+#: .80160
+msgctxt ".80160"
+msgid "Heel by HLZ."
+msgstr ""
+
+#: .80368
+msgctxt ".80368"
+msgid "Put in the"
+msgstr ""
+
+#: .79892
+msgctxt ".79892"
+msgid "correct wrapper."
+msgstr ""
+
+#: .80784
+msgctxt ".80784"
+msgid "Crown in centre."
+msgstr ""
+
+#: .80208
+msgctxt ".80208"
+msgid "Heel by HLZ."
+msgstr ""
+
+#: .80624
+msgctxt ".80624"
+msgid "Put in the"
+msgstr ""
+
+#: .79796
+msgctxt ".79796"
+msgid "correct wrapper."
+msgstr ""
+
+#: .80480
+msgctxt ".80480"
+msgid "Crown in centre."
+msgstr ""
+
+#: .80192
+msgctxt ".80192"
+msgid "Heel by HLZ."
+msgstr ""
+
+#: .81092
+msgctxt ".81092"
+msgid "Put in the"
+msgstr ""
+
+#: .79868
+msgctxt ".79868"
+msgid "correct box."
+msgstr ""
+
+#: .81072
+msgctxt ".81072"
+msgid "Put it in with"
+msgstr ""
+
+#: .79772
+msgctxt ".79772"
+msgid "toasted side up."
+msgstr ""
+
+#: .81152
+msgctxt ".81152"
+msgid "Put in the"
+msgstr ""
+
+#: .79760
+msgctxt ".79760"
+msgid "correct box."
+msgstr ""
+
+#: .81132
+msgctxt ".81132"
+msgid "Put it in with"
+msgstr ""
+
+#: .79808
+msgctxt ".79808"
+msgid "toasted side up."
+msgstr ""
+
+#: .80320
+msgctxt ".80320"
+".80320"
+".80320"
+msgid "Cheesburger"
+msgstr ""
+
+#: .81212
+msgctxt ".81212"
+msgid "Cheesburger"
+msgstr ""
+
+#: .80000
+msgctxt ".80000"
+".80000"
+".80000"
+".80000"
+".80000"
+".80000"
+".80000"
+msgid "Assembly"
+msgstr ""
+
+#: .80560
+msgctxt ".80560"
+msgid "Cheesburger"
+msgstr ""
+
+#: .81012
+msgctxt ".81012"
+msgid "Cheesburger"
+msgstr ""
+
+#: .80128
+msgctxt ".80128"
+msgid "Assembly"
+msgstr ""
+
+#: .79676
+msgctxt ".79676"
+msgid "Teriyaki"
+msgstr ""
+
+#: .80352
+msgctxt ".80352"
+msgid "Burger"
+msgstr ""
+
+#: .81252
+msgctxt ".81252"
+msgid "Teriyaki Burger"
+msgstr ""
+
+#: .81272
+msgctxt ".81272"
+msgid "Assembly"
+msgstr ""
+
+#: .79688
+msgctxt ".79688"
+msgid "Teriyaki"
+msgstr ""
+
+#: .80672
+msgctxt ".80672"
+msgid "Burger"
+msgstr ""
+
+#: .81392
+msgctxt ".81392"
+msgid "Teriyaki Burger"
+msgstr ""
+
+#: .81412
+msgctxt ".81412"
+msgid "Assembly"
+msgstr ""
+
+#: .79724
+msgctxt ".79724"
+msgid "Filet-O"
+msgstr ""
+
+#: .79832
+msgctxt ".79832"
+msgid "Fish"
+msgstr ""
+
+#: .81312
+msgctxt ".81312"
+msgid "Filet-O-Fish"
+msgstr ""
+
+#: .80496
+msgctxt ".80496"
+msgid "Assembly"
+msgstr ""
+
+#: .79664
+msgctxt ".79664"
+msgid "Filet-O"
+msgstr ""
+
+#: .79736
+msgctxt ".79736"
+msgid "Fish"
+msgstr ""
+
+#: .81472
+msgctxt ".81472"
+msgid "Filet-O-Fish"
+msgstr ""
+
+#: .80800
+msgctxt ".80800"
+msgid "Assembly"
+msgstr ""
+
+#: .79936
+msgctxt ".79936"
+".79936"
+".79936"
+msgid "Big Mac"
+msgstr ""
+
+#: .80576
+msgctxt ".80576"
+msgid "Big Mac"
+msgstr ""
+
+#: .80080
+msgctxt ".80080"
+msgid "Assembly"
+msgstr ""
+
+#: .79952
+msgctxt ".79952"
+msgid "Big Mac"
+msgstr ""
+
+#: .80720
+msgctxt ".80720"
+msgid "Big Mac"
+msgstr ""
+
+#: .80048
+msgctxt ".80048"
+msgid "Assembly"
+msgstr ""
+
+#: .81752
+msgid "Press right on the D-pad."
+msgstr ""
+
+#: .81784
+msgid "Press left on the D-pad."
+msgstr ""

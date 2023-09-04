@@ -1,0 +1,136 @@
+#. extracted from translation/bin/en/soc/soc_dp02.004.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Hand Washing\n"
+"■Wash your hands\n"
+"with McDonald's\n"
+"soap before you\n"
+"start working."
+msgstr ""
+
+#: [1]
+msgid ""
+"Hand Washing\n"
+"■If harmful bacteria or viruses\n"
+"are attached to your hands, the\n"
+"contamination will transfer to\n"
+"surfaces such as tables that\n"
+"you touch with your hands."
+msgstr ""
+
+#: [2]
+msgid ""
+"Hand Washing\n"
+"■Wash your hands at least once\n"
+"an hour."
+msgstr ""
+
+#: [3]
+msgid ""
+"Correct Hand-Washing Method\n"
+"1. Wear a visor/cap & apron\n"
+"2. Use clean clothes\n"
+"3. Wash up to your elbows"
+msgstr ""
+
+#: [4]
+msgid ""
+"Correct Hand-Washing Method\n"
+"4. Use a moderate amount of\n"
+"soap\n"
+"5. Scrub your hands\n"
+"6. Rinse them\n"
+"7. Dry with a paper towel"
+msgstr ""
+
+#: [5]
+msgid ""
+"Hand Washing Step ①\n"
+"■Rub your palms\n"
+"together."
+msgstr ""
+
+#: [6]
+msgid ""
+"Hand Washing Step ②\n"
+"■Interlace your\n"
+"fingers and rub\n"
+"between the\n"
+"fingers of both\n"
+"hands."
+msgstr ""
+
+#: [7]
+msgid ""
+"Hand Washing Step ③\n"
+"■Rub the back of\n"
+"one hand with the\n"
+"palm of the other."
+msgstr ""
+
+#: [8]
+msgid ""
+"Hand Washing Step ④\n"
+"■Rub the backs of\n"
+"your fingers with\n"
+"your palms."
+msgstr ""
+
+#: [9]
+msgid ""
+"Hand Washing Step ⑤\n"
+"■Wash your thumb\n"
+"with the other\n"
+"hand and rub from\n"
+"the base."
+msgstr ""
+
+#: [10]
+msgid ""
+"Hand Washing Step ⑥\n"
+"■Be sure to scrub\n"
+"under your finger-\n"
+"nails."
+msgstr ""
+
+#: [11]
+msgid ""
+"Hand Washing Step ⑦\n"
+"■Carefully wash\n"
+"from your wrist\n"
+"to your elbow."
+msgstr ""
+
+#: [12]
+msgid ""
+"When Do I Wash My Hands?\n"
+"■At least once an hour\n"
+"■After using the restroom and\n"
+"after cleaning\n"
+"■Before starting work\n"
+"■Before touching food"
+msgstr ""
+
+#: [13]
+msgid ""
+"When Do I Wash My Hands?\n"
+"■After a break\n"
+"■After touching garbage\n"
+"■After picking something off\n"
+"of the floor\n"
+"■After touching your face"
+msgstr ""

@@ -1,0 +1,49 @@
+#. extracted from translation/bin/en/soc/soc_ap070100.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■Food rotation follows the \n"
+"\"first-in, first-out\" rule.\n"
+"(New food is stored behind older\n"
+"food)."
+msgstr ""
+
+#: [1]
+msgid ""
+"■When taking out raw food, check\n"
+"the shelf life and use the ones\n"
+"with the oldest non-expired date\n"
+"first."
+msgstr ""
+
+#: [2]
+msgid ""
+"■Arranging raw food incorrectly\n"
+"can cause older food to expire\n"
+"before it can be used, wasting\n"
+"it unnecessarily and affecting\n"
+"store costs."
+msgstr ""
+
+#: [3]
+msgid ""
+"■Check the quality of raw food\n"
+"items and discard any that do\n"
+"not meet quality standards.\n"
+"■Each store has rules for\n"
+"storing raw food. Therefore,\n"
+"consult with your manager first."
+msgstr ""

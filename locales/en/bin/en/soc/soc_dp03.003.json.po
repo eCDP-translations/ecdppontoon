@@ -1,0 +1,124 @@
+#. extracted from translation/bin/en/soc/soc_dp03.003.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Customer's Expectation\n"
+"■Mildly Uneven\n"
+"■The outside is\n"
+"elastic and the\n"
+"inside is soft."
+msgstr ""
+
+#: [1]
+msgid ""
+"Cooking\n"
+"■Start pre-Q-ing the griddle\n"
+"cakes while they are frozen."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cooking\n"
+"■Take out the amount of cakes\n"
+"that you need from the\n"
+"freezer."
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking\n"
+"■Put a Q-ing bun liner on the\n"
+"large Q-ing container and line\n"
+"up the griddle cake."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cooking\n"
+"■Put the large Q-ing container\n"
+"into the Q-ing oven."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cooking\n"
+"■When the buzzer rings, open the\n"
+"door and remove the griddle cakes\n"
+"from the Q-ing container with the\n"
+"tongs."
+msgstr ""
+
+#: [6]
+msgid ""
+"Cooking\n"
+"■Transfer them to the de-\n"
+"compression container/aluminium\n"
+"tray.\n"
+"■Use tongs to move the cakes\n"
+"and do not cover them."
+msgstr ""
+
+#: [7]
+msgid ""
+"Cooking\n"
+"■Fold the UHC liner in half and\n"
+"write the holding time on it.\n"
+"Then, put it on the container\n"
+"with the griddle cakes."
+msgstr ""
+
+#: [8]
+msgid ""
+"Cooking\n"
+"■After you write down the holding\n"
+"time, store it on the top shelf\n"
+"of the bunker or the under-shelf\n"
+"of the UHC to cool."
+msgstr ""
+
+#: [9]
+msgid ""
+"Cooking\n"
+"■After the cooling time is done,\n"
+"put the cakes into a square pot\n"
+"with a grid-iron using the\n"
+"tongs and don't cover them."
+msgstr ""
+
+#: [10]
+msgid ""
+"Important Point\n"
+"■Move the UHC liner with the\n"
+"holding time on it to the\n"
+"square pot with the cakes."
+msgstr ""
+
+#: [11]
+msgid ""
+"Important Point\n"
+"■If the UHC liner breaks, make a\n"
+"new holding time liner."
+msgstr ""
+
+#: [12]
+msgid ""
+"Important Point\n"
+"■It's no good to work directly\n"
+"from the thawing container/\n"
+"aluminium tray.\n"
+"■Keep track of the holding time\n"
+"written in the container/tray."
+msgstr ""

@@ -1,0 +1,692 @@
+#. extracted from translation/overlay/ja/OVERLAY_5.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .79592
+msgctxt ".79592"
+".79592"
+".79592"
+".79592"
+".79592"
+".79592"
+".79592"
+msgid "選ぶ"
+msgstr ""
+
+#: .79600
+msgctxt ".79600"
+msgid "選ぶ"
+msgstr ""
+
+#: .79608
+msgctxt ".79608"
+msgid "選ぶ"
+msgstr ""
+
+#: .79616
+msgctxt ".79616"
+msgid "選ぶ"
+msgstr ""
+
+#: .79624
+msgctxt ".79624"
+msgid "選ぶ"
+msgstr ""
+
+#: .79632
+msgctxt ".79632"
+msgid "選ぶ"
+msgstr ""
+
+#: .79640
+msgctxt ".79640"
+msgid "選ぶ"
+msgstr ""
+
+#: .79648
+msgctxt ".79648"
+msgid "選ぶ"
+msgstr ""
+
+#: .79664
+msgctxt ".79664"
+msgid "フィレオ"
+msgstr ""
+
+#: .79676
+msgctxt ".79676"
+msgid "てりやき"
+msgstr ""
+
+#: .79688
+msgctxt ".79688"
+msgid "てりやき"
+msgstr ""
+
+#: .79700
+msgctxt ".79700"
+msgid "向けます"
+msgstr ""
+
+#: .79712
+msgctxt ".79712"
+msgid "向けます"
+msgstr ""
+
+#: .79724
+msgctxt ".79724"
+msgid "フィレオ"
+msgstr ""
+
+#: .79736
+msgctxt ".79736"
+msgid "フィッシュ"
+msgstr ""
+
+#: .79748
+msgctxt ".79748"
+".79748"
+".79748"
+".79748"
+".79748"
+".79748"
+".79748"
+msgid "上に並べる"
+msgstr ""
+
+#: .79760
+msgctxt ".79760"
+msgid "上に並べる"
+msgstr ""
+
+#: .79772
+msgctxt ".79772"
+msgid "上にします"
+msgstr ""
+
+#: .79784
+msgctxt ".79784"
+msgid "奥にヒール"
+msgstr ""
+
+#: .79796
+msgctxt ".79796"
+msgid "上に並べる"
+msgstr ""
+
+#: .79808
+msgctxt ".79808"
+msgid "上にします"
+msgstr ""
+
+#: .79820
+msgctxt ".79820"
+msgid "上に並べる"
+msgstr ""
+
+#: .79832
+msgctxt ".79832"
+msgid "フィッシュ"
+msgstr ""
+
+#: .79844
+msgctxt ".79844"
+msgid "奥にヒール"
+msgstr ""
+
+#: .79856
+msgctxt ".79856"
+msgid "上に並べる"
+msgstr ""
+
+#: .79868
+msgctxt ".79868"
+msgid "上に並べる"
+msgstr ""
+
+#: .79880
+msgctxt ".79880"
+msgid "上に並べる"
+msgstr ""
+
+#: .79892
+msgctxt ".79892"
+msgid "上に並べる"
+msgstr ""
+
+#: .79904
+msgctxt ".79904"
+".79904"
+".79904"
+".79904"
+".79904"
+msgid "ターに入れる"
+msgstr ""
+
+#: .79920
+msgctxt ".79920"
+msgid "ターに入れる"
+msgstr ""
+
+#: .79936
+msgctxt ".79936"
+msgid "ビッグマック"
+msgstr ""
+
+#: .79952
+msgctxt ".79952"
+msgid "ビッグマック"
+msgstr ""
+
+#: .79968
+msgctxt ".79968"
+msgid "マーに入れる"
+msgstr ""
+
+#: .79984
+msgctxt ".79984"
+msgid "ターに入れる"
+msgstr ""
+
+#: .80000
+msgctxt ".80000"
+".80000"
+".80000"
+msgid "アッセンブル"
+msgstr ""
+
+#: .80016
+msgctxt ".80016"
+msgid "マーに入れる"
+msgstr ""
+
+#: .80032
+msgctxt ".80032"
+msgid "ターに入れる"
+msgstr ""
+
+#: .80048
+msgctxt ".80048"
+msgid "アッセンブル"
+msgstr ""
+
+#: .80064
+msgctxt ".80064"
+msgid "ターに入れる"
+msgstr ""
+
+#: .80080
+msgctxt ".80080"
+msgid "アッセンブル"
+msgstr ""
+
+#: .80096
+msgctxt ".80096"
+msgid "切り口を下に"
+msgstr ""
+
+#: .80112
+msgctxt ".80112"
+msgid "切り口を下に"
+msgstr ""
+
+#: .80128
+msgctxt ".80128"
+msgid "アッセンブル"
+msgstr ""
+
+#: .80144
+msgctxt ".80144"
+msgid "ターに入れる"
+msgstr ""
+
+#: .80160
+msgctxt ".80160"
+".80160"
+".80160"
+msgid "HLZ側にヒール"
+msgstr ""
+
+#: .80176
+msgctxt ".80176"
+msgid "HLZ側にヒール"
+msgstr ""
+
+#: .80192
+msgctxt ".80192"
+msgid "HLZ側にヒール"
+msgstr ""
+
+#: .80208
+msgctxt ".80208"
+msgid "HLZ側にヒール"
+msgstr ""
+
+#: .80224
+msgctxt ".80224"
+msgid "バンズをスチー"
+msgstr ""
+
+#: .80240
+msgctxt ".80240"
+".80240"
+".80240"
+".80240"
+".80240"
+".80240"
+".80240"
+".80240"
+".80240"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80256
+msgctxt ".80256"
+".80256"
+".80256"
+msgid "中央にクラウン"
+msgstr ""
+
+#: .80272
+msgctxt ".80272"
+".80272"
+".80272"
+msgid "ヒールを手前に"
+msgstr ""
+
+#: .80288
+msgctxt ".80288"
+".80288"
+".80288"
+".80288"
+".80288"
+msgid "バンズをトース"
+msgstr ""
+
+#: .80304
+msgctxt ".80304"
+".80304"
+".80304"
+".80304"
+".80304"
+msgid "正しいラップの"
+msgstr ""
+
+#: .80320
+msgctxt ".80320"
+msgid "チーズバーガー"
+msgstr ""
+
+#: .80336
+msgctxt ".80336"
+msgid "中央にクラウン"
+msgstr ""
+
+#: .80352
+msgctxt ".80352"
+msgid "マックバーガー"
+msgstr ""
+
+#: .80368
+msgctxt ".80368"
+msgid "正しいラップの"
+msgstr ""
+
+#: .80384
+msgctxt ".80384"
+msgid "正しいラップの"
+msgstr ""
+
+#: .80400
+msgctxt ".80400"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80416
+msgctxt ".80416"
+".80416"
+".80416"
+".80416"
+".80416"
+msgid "選んでください"
+msgstr ""
+
+#: .80432
+msgctxt ".80432"
+msgid "選んでください"
+msgstr ""
+
+#: .80448
+msgctxt ".80448"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80464
+msgctxt ".80464"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80480
+msgctxt ".80480"
+msgid "中央にクラウン"
+msgstr ""
+
+#: .80496
+msgctxt ".80496"
+msgid "のアッセンブル"
+msgstr ""
+
+#: .80512
+msgctxt ".80512"
+msgid "バンズをトース"
+msgstr ""
+
+#: .80528
+msgctxt ".80528"
+msgid "バンズをトース"
+msgstr ""
+
+#: .80544
+msgctxt ".80544"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80560
+msgctxt ".80560"
+msgid "チーズバーガー"
+msgstr ""
+
+#: .80576
+msgctxt ".80576"
+msgid "ビッグマックの"
+msgstr ""
+
+#: .80592
+msgctxt ".80592"
+msgid "手前にクラウン"
+msgstr ""
+
+#: .80608
+msgctxt ".80608"
+msgid "正しいラップの"
+msgstr ""
+
+#: .80624
+msgctxt ".80624"
+msgid "正しいラップの"
+msgstr ""
+
+#: .80640
+msgctxt ".80640"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80656
+msgctxt ".80656"
+msgid "バンズをトース"
+msgstr ""
+
+#: .80672
+msgctxt ".80672"
+msgid "マックバーガー"
+msgstr ""
+
+#: .80688
+msgctxt ".80688"
+msgid "選んでください"
+msgstr ""
+
+#: .80704
+msgctxt ".80704"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80720
+msgctxt ".80720"
+msgid "ビッグマックの"
+msgstr ""
+
+#: .80736
+msgctxt ".80736"
+msgid "選んでください"
+msgstr ""
+
+#: .80752
+msgctxt ".80752"
+msgid "選んでください"
+msgstr ""
+
+#: .80768
+msgctxt ".80768"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80784
+msgctxt ".80784"
+msgid "中央にクラウン"
+msgstr ""
+
+#: .80800
+msgctxt ".80800"
+msgid "のアッセンブル"
+msgstr ""
+
+#: .80816
+msgctxt ".80816"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80832
+msgctxt ".80832"
+msgid "正しいバンズを"
+msgstr ""
+
+#: .80848
+msgctxt ".80848"
+msgid "ヒールを手前に"
+msgstr ""
+
+#: .80864
+msgctxt ".80864"
+msgid "ヒールを手前に"
+msgstr ""
+
+#: .80880
+msgctxt ".80880"
+msgid "選んでください"
+msgstr ""
+
+#: .80896
+msgctxt ".80896"
+msgid "バンズをトース"
+msgstr ""
+
+#: .80912
+msgctxt ".80912"
+msgid "バンズをトース"
+msgstr ""
+
+#: .80928
+msgctxt ".80928"
+msgid "正しいラップの"
+msgstr ""
+
+#: .80944
+msgctxt ".80944"
+msgid "ヒールを手前に"
+msgstr ""
+
+#: .80960
+msgctxt ".80960"
+msgid "手前にクラウン"
+msgstr ""
+
+#: .80976
+msgctxt ".80976"
+msgid "バンズをスチー"
+msgstr ""
+
+#: .80992
+msgctxt ".80992"
+".80992"
+".80992"
+".80992"
+".80992"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .81012
+msgctxt ".81012"
+msgid "チーズバーガーの"
+msgstr ""
+
+#: .81032
+msgctxt ".81032"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .81052
+msgctxt ".81052"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .81072
+msgctxt ".81072"
+msgid "トーストした側を"
+msgstr ""
+
+#: .81092
+msgctxt ".81092"
+msgid "正しいボックスの"
+msgstr ""
+
+#: .81112
+msgctxt ".81112"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .81132
+msgctxt ".81132"
+msgid "トーストした側を"
+msgstr ""
+
+#: .81152
+msgctxt ".81152"
+msgid "正しいボックスの"
+msgstr ""
+
+#: .81172
+msgctxt ".81172"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .81192
+msgctxt ".81192"
+msgid "クラウンを後ろに"
+msgstr ""
+
+#: .81212
+msgctxt ".81212"
+msgid "チーズバーガーの"
+msgstr ""
+
+#: .81232
+msgctxt ".81232"
+".81232"
+".81232"
+msgid "レギュラーバンズを"
+msgstr ""
+
+#: .81252
+msgctxt ".81252"
+msgid "てりやきマックバー"
+msgstr ""
+
+#: .81272
+msgctxt ".81272"
+msgid "ガーのアッセンブル"
+msgstr ""
+
+#: .81292
+msgctxt ".81292"
+msgid "ビッグマックバンズ"
+msgstr ""
+
+#: .81312
+msgctxt ".81312"
+msgid "フィレオフィッシュ"
+msgstr ""
+
+#: .81332
+msgctxt ".81332"
+msgid "を、選んでください"
+msgstr ""
+
+#: .81352
+msgctxt ".81352"
+msgid "ビッグマックバンズ"
+msgstr ""
+
+#: .81372
+msgctxt ".81372"
+msgid "を、選んでください"
+msgstr ""
+
+#: .81392
+msgctxt ".81392"
+msgid "てりやきマックバー"
+msgstr ""
+
+#: .81412
+msgctxt ".81412"
+msgid "ガーのアッセンブル"
+msgstr ""
+
+#: .81432
+msgctxt ".81432"
+msgid "レギュラーバンズを"
+msgstr ""
+
+#: .81452
+msgctxt ".81452"
+msgid "レギュラーバンズを"
+msgstr ""
+
+#: .81472
+msgctxt ".81472"
+msgid "フィレオフィッシュ"
+msgstr ""
+
+#: .81492
+msgctxt ".81492"
+msgid "レギュラーバンズを"
+msgstr ""
+
+#: .81536
+msgctxt ".81536"
+msgid "ヒールとクラブは手前"
+msgstr ""
+
+#: .81560
+msgctxt ".81560"
+msgid "ヒールとクラブは手前"
+msgstr ""
+
+#: .81752
+msgid "十字ボタンの右を押して下さい"
+msgstr ""
+
+#: .81784
+msgid "十字ボタンの左を押して下さい"
+msgstr ""

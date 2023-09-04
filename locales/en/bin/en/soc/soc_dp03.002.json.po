@@ -1,0 +1,90 @@
+#. extracted from translation/bin/en/soc/soc_dp03.002.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Customer's Expectations\n"
+"■Mildly Uneven\n"
+"■Crispy Texture\n"
+"■Correctly Baked"
+msgstr ""
+
+#: [1]
+msgid ""
+"Muffin Toaster Settings\n"
+"■Cooking Time for 5 Pieces\n"
+"(Check Them Visually)\n"
+"■HEMT-12: 50s-55s\n"
+"■MT12: 85s-90s"
+msgstr ""
+
+#: [2]
+msgid ""
+"Cooking\n"
+"■Peel the halves\n"
+"of the muffin\n"
+"apart."
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking\n"
+"■Arrange on the big spatula."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cooking\n"
+"■Put the big\n"
+"spatula into the\n"
+"toaster."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cooking\n"
+"■Prepare a UHC tray\n"
+"with a clean liner."
+msgstr ""
+
+#: [6]
+msgid ""
+"Cooking\n"
+"■Remove the muffins from the\n"
+"toaster."
+msgstr ""
+
+#: [7]
+msgid ""
+"Cooking\n"
+"■Spray the cooking\n"
+"oil onto the\n"
+"English muffins."
+msgstr ""
+
+#: [8]
+msgid ""
+"Cooking\n"
+"■Store the\n"
+"muffins in the\n"
+"UHC trays."
+msgstr ""
+
+#: [9]
+msgid ""
+"Cooking\n"
+"■Put it in the UHC and press\n"
+"the timer."
+msgstr ""

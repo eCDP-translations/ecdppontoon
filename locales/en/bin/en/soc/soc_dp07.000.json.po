@@ -1,0 +1,133 @@
+#. extracted from translation/bin/en/soc/soc_dp07.000.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Everyone Works Together\n"
+"■Everyone's performance all has\n"
+"a big impact on the customer's\n"
+"satisfaction."
+msgstr ""
+
+#: [1]
+msgid ""
+"The Customer's Expectations\n"
+"(Sandwich)\n"
+"■Warm\n"
+"■Fresh\n"
+"■Good-Looking\n"
+"■Safe"
+msgstr ""
+
+#: [2]
+msgid ""
+"35-50s Prep Time\n"
+"■From the time the order is\n"
+"displayed on the KVS, it should\n"
+"take 35-50s to complete the\n"
+"sandwich and put it into the\n"
+"HLZ."
+msgstr ""
+
+#: [3]
+msgid ""
+"Role of Each Position\n"
+"■Don't leave your\n"
+"post.\n"
+"■The initiator's\n"
+"role is to\n"
+"support the KVS."
+msgstr ""
+
+#: [4]
+msgid ""
+"The Assembler's Job\n"
+"■The assembler puts the product\n"
+"together and makes hot, fresh\n"
+"sandwiches."
+msgstr ""
+
+#: [5]
+msgid ""
+"Communication\n"
+"■Communication starts when\n"
+"the order first appears on\n"
+"the KVS."
+msgstr ""
+
+#: [6]
+msgid ""
+"Communication\n"
+"■Special orders\n"
+"(grill orders)\n"
+"are also shown\n"
+"on the KVS."
+msgstr ""
+
+#: [7]
+msgid ""
+"The Customer's Expectations\n"
+"(Regular Menu)\n"
+"■Fresh Ingredients\n"
+"■Correct Assembly"
+msgstr ""
+
+#: [8]
+msgid ""
+"Washed Your Hands?\n"
+"■Use McDonald's\n"
+"hand soap. Wash\n"
+"properly. Dry with\n"
+"a paper towel."
+msgstr ""
+
+#: [9]
+msgid ""
+"Getting Ready\n"
+"■Prepare the\n"
+"antibacterial wet\n"
+"wipes.\n"
+"■Ask the manager\n"
+"for the procedures\n"
+"on food safety."
+msgstr ""
+
+#: [10]
+msgid ""
+"Holding Time\n"
+"■Are you keeping\n"
+"track of the food\n"
+"products' holding\n"
+"times?"
+msgstr ""
+
+#: [11]
+msgid ""
+"Use Special Tongs or Spatulas\n"
+"■It is necessary to use tongs\n"
+"and spatulas properly to\n"
+"prevent cross-contamination\n"
+"from raw 1/10th patties and\n"
+"eggs."
+msgstr ""
+
+#: [12]
+msgid ""
+"Caution!\n"
+"■The yellow Hutzler spatula is\n"
+"only used to twist egg yolks.\n"
+"It is not to be used during\n"
+"assembly."
+msgstr ""

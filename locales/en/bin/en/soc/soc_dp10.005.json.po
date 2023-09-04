@@ -1,0 +1,54 @@
+#. extracted from translation/bin/en/soc/soc_dp10.005.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Within 10-15s\n"
+"■From the time the customer\n"
+"pulls up to the cashing\n"
+"booth to the time you take\n"
+"their payment, it should\n"
+"take under 10-15s."
+msgstr ""
+
+#: [1]
+msgid ""
+"Cashier\n"
+"1. Tell the customer the\n"
+"total price of the order."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cashier\n"
+"2. Say back the\n"
+"amount of money\n"
+"they gave you."
+msgstr ""
+
+#: [3]
+msgid ""
+"Cashier\n"
+"3. Tell the customer how\n"
+"much change you will give\n"
+"them back."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cashier\n"
+"4. Say \"thank you\" to the\n"
+"customer afterwards."
+msgstr ""

@@ -1,0 +1,54 @@
+#. extracted from translation/bin/en/soc/soc_dp02.002.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Food Storage Temperature\n"
+"■Bacteria breed in raw foods that\n"
+"are not stored at the proper\n"
+"temperature and in foods that\n"
+"have been thrown out."
+msgstr ""
+
+#: [1]
+msgid ""
+"Heat Kills Bacteria\n"
+"■Eggs: 74°C/165°F\n"
+"■1/10th Patty: 69°C/156°F"
+msgstr ""
+
+#: [2]
+msgid ""
+"Heat Kills Bacteria\n"
+"■Storing raw ingredients, such\n"
+"as meat, eggs or vegetables,\n"
+"at temperatures in the danger\n"
+"zone (4-60°C/39-140°F) can\n"
+"cause rapid bacterial growth."
+msgstr ""
+
+#: [3]
+msgid ""
+"Refrigeration Slows Growth\n"
+"■Keep refrigerated items\n"
+"below 4°C/39°F."
+msgstr ""
+
+#: [4]
+msgid ""
+"Bacteria Don't Grow If Frozen\n"
+"■Keep frozen items at or\n"
+"below -18°C/0°F."
+msgstr ""

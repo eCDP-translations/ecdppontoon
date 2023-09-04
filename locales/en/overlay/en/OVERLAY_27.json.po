@@ -1,0 +1,124 @@
+#. extracted from translation/overlay/en/OVERLAY_27.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .19820
+msgid ""
+"Tap START! to begin\n"
+"the training."
+msgstr ""
+
+#: .19960
+msgctxt ".19960"
+".19960"
+msgid "Let's say hello."
+msgstr ""
+
+#: .19976
+msgctxt ".19976"
+".19976"
+msgid "Take the order."
+msgstr ""
+
+#: .20016
+msgctxt ".20016"
+".20016"
+msgid "Hand over the order."
+msgstr ""
+
+#: .20040
+msgctxt ".20040"
+".20040"
+msgid "Get the order ready."
+msgstr ""
+
+#: .20064
+msgctxt ".20064"
+".20064"
+msgid "Let's take the payment."
+msgstr ""
+
+#: .20088
+msgctxt ".20088"
+".20088"
+msgid "Let's say thanks."
+msgstr ""
+
+#: .20196
+msgctxt ".20196"
+msgid "Let's say hello."
+msgstr ""
+
+#: .20212
+msgctxt ".20212"
+msgid "Take the order."
+msgstr ""
+
+#: .20252
+msgctxt ".20252"
+msgid "Hand over the order."
+msgstr ""
+
+#: .20276
+msgctxt ".20276"
+msgid "Get the order ready."
+msgstr ""
+
+#: .20300
+msgctxt ".20300"
+msgid "Let's take the payment."
+msgstr ""
+
+#: .20324
+msgctxt ".20324"
+msgid "Let's say thanks."
+msgstr ""
+
+#: .20448
+msgctxt ".20448"
+msgid "Let's say hello."
+msgstr ""
+
+#: .20464
+msgctxt ".20464"
+msgid "Take the order."
+msgstr ""
+
+#: .20504
+msgctxt ".20504"
+msgid "Hand over the order."
+msgstr ""
+
+#: .20528
+msgctxt ".20528"
+msgid "Get the order ready."
+msgstr ""
+
+#: .20552
+msgctxt ".20552"
+msgid "Let's take the payment."
+msgstr ""
+
+#: .20576
+msgctxt ".20576"
+msgid "Let's say thanks."
+msgstr ""
+
+#: .20900
+msgid "Target time: "
+msgstr ""
+
+#: .20916
+msgid "Drive-Thru"
+msgstr ""

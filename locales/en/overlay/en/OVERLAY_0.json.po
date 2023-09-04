@@ -1,0 +1,668 @@
+#. extracted from translation/overlay/en/OVERLAY_0.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .34844
+msgid "０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ"
+msgstr ""
+
+#: .36704
+msgctxt ".36704"
+".36704"
+msgid "ア"
+msgstr ""
+
+#: .36712
+msgctxt ".36712"
+msgid "゛"
+msgstr ""
+
+#: .36720
+msgctxt ".36720"
+msgid "。"
+msgstr ""
+
+#: .36728
+msgctxt ".36728"
+msgid "、"
+msgstr ""
+
+#: .36736
+msgctxt ".36736"
+msgid "ぁ"
+msgstr ""
+
+#: .36744
+msgctxt ".36744"
+".36744"
+msgid "あ"
+msgstr ""
+
+#: .36752
+msgctxt ".36752"
+msgid "゛"
+msgstr ""
+
+#: .36760
+msgctxt ".36760"
+msgid "。"
+msgstr ""
+
+#: .36768
+msgctxt ".36768"
+msgid "、"
+msgstr ""
+
+#: .36776
+msgctxt ".36776"
+msgid "ぁ"
+msgstr ""
+
+#: .36784
+msgctxt ".36784"
+msgid "あ"
+msgstr ""
+
+#: .36792
+msgctxt ".36792"
+msgid "あ"
+msgstr ""
+
+#: .36800
+msgctxt ".36800"
+msgid "ア"
+msgstr ""
+
+#: .36808
+msgctxt ".36808"
+msgid "ア"
+msgstr ""
+
+#: .36816
+msgctxt ".36816"
+msgid "ABC"
+msgstr ""
+
+#: .36824
+msgctxt ".36824"
+msgid "゜"
+msgstr ""
+
+#: .36832
+msgctxt ".36832"
+msgid "゜"
+msgstr ""
+
+#: .36840
+msgctxt ".36840"
+msgid "ABC"
+msgstr ""
+
+#: .36848
+msgctxt ".36848"
+".36848"
+".36848"
+msgid "Done"
+msgstr ""
+
+#: .36860
+msgctxt ".36860"
+msgid "Done"
+msgstr ""
+
+#: .36872
+msgctxt ".36872"
+msgid "Done"
+msgstr ""
+
+#: .36884
+msgid "eCDP"
+msgstr ""
+
+#: .36896
+msgctxt ".36896"
+msgid "Done"
+msgstr ""
+
+#: .36908
+msgctxt ".36908"
+".36908"
+".36908"
+msgid "Delete"
+msgstr ""
+
+#: .36920
+msgctxt ".36920"
+msgid "Delete"
+msgstr ""
+
+#: .36932
+msgctxt ".36932"
+msgid "Delete"
+msgstr ""
+
+#: .36944
+msgctxt ".36944"
+msgid "Delete"
+msgstr ""
+
+#: .36956
+msgctxt ".36956"
+".36956"
+".36956"
+msgid "Space"
+msgstr ""
+
+#: .36972
+msgctxt ".36972"
+msgid "Space"
+msgstr ""
+
+#: .36988
+msgctxt ".36988"
+msgid "Space"
+msgstr ""
+
+#: .37004
+msgctxt ".37004"
+msgid "Space"
+msgstr ""
+
+#: .37020
+msgctxt ".37020"
+msgid "Enter Password"
+msgstr ""
+
+#: .37036
+msgctxt ".37036"
+msgid "Change Password"
+msgstr ""
+
+#: .37604
+msgctxt ".37604"
+msgid "Input was saved"
+msgstr ""
+
+#: .37628
+msgctxt ".37628"
+msgid "Input was saved"
+msgstr ""
+
+#: .37652
+msgid "Want to register?"
+msgstr ""
+
+#: .37680
+msgid "Check registration details"
+msgstr ""
+
+#: .37708
+msgid "New crew was registered"
+msgstr ""
+
+#: .37736
+msgid "Please enter store number"
+msgstr ""
+
+#: .37768
+msgid "Please select crew to erase"
+msgstr ""
+
+#: .37800
+msgid "Please enter the crew member's age"
+msgstr ""
+
+#: .37832
+msgid "Selected crew member erased"
+msgstr ""
+
+#: .37868
+msgid "Please enter serial code"
+msgstr ""
+
+#: .37904
+msgid ""
+"Please choose\n"
+"your avatar"
+msgstr ""
+
+#: .37940
+msgctxt ".37940"
+msgid "Please enter new password"
+msgstr ""
+
+#: .37976
+msgctxt ".37976"
+msgid "Please enter new password"
+msgstr ""
+
+#: .38012
+msgid "Please enter your password"
+msgstr ""
+
+#: .38052
+msgid "Please enter your old password"
+msgstr ""
+
+#: .38092
+msgctxt ".38092"
+msgid ""
+"Please enter your\n"
+"Crew ID／Number"
+msgstr ""
+
+#: .38132
+msgctxt ".38132"
+msgid ""
+"Please enter your\n"
+"Crew ID／Number"
+msgstr ""
+
+#: .38172
+msgid ""
+"Please enter your\n"
+"Manager Number"
+msgstr ""
+
+#: .38216
+msgid ""
+"Please enter\n"
+"your new password"
+msgstr ""
+
+#: .38260
+msgid ""
+"This ID is already registered.\n"
+"Please enter a new ID."
+msgstr ""
+
+#: .38308
+msgid ""
+"Please enter the name\n"
+"of the crew (6 letters max)"
+msgstr ""
+
+#: .38356
+msgid ""
+"Data deletion is permanent.\n"
+"Do you want to continue?"
+msgstr ""
+
+#: .38408
+msgctxt ".38408"
+".38408"
+".38408"
+msgid ""
+"Please enter password\n"
+"to enter MGR Mode"
+msgstr ""
+
+#: .38460
+msgctxt ".38460"
+msgid ""
+"Please enter password\n"
+"to enter MGR Mode"
+msgstr ""
+
+#: .38512
+msgctxt ".38512"
+msgid ""
+"Please enter password\n"
+"to enter MGR Mode"
+msgstr ""
+
+#: .38564
+msgctxt ".38564"
+msgid ""
+"Please enter password\n"
+"to enter MGR Mode"
+msgstr ""
+
+#: .38616
+msgctxt ".38616"
+msgid ""
+"Please enter the 6-digit password\n"
+"that you created."
+msgstr ""
+
+#: .38668
+msgctxt ".38668"
+msgid ""
+"Please enter the 6-digit password\n"
+"that you created."
+msgstr ""
+
+#: .38720
+msgid "Please enter the Store ID No."
+msgstr ""
+
+#: .38772
+msgctxt ".38772"
+".38772"
+".38772"
+msgid ""
+"The input was incorrect.\n"
+"Please enter correctly."
+msgstr ""
+
+#: .38828
+msgctxt ".38828"
+msgid ""
+"The input was incorrect.\n"
+"Please enter correctly."
+msgstr ""
+
+#: .38884
+msgctxt ".38884"
+msgid ""
+"The input was incorrect.\n"
+"Please enter correctly."
+msgstr ""
+
+#: .38940
+msgctxt ".38940"
+msgid ""
+"The input was incorrect.\n"
+"Please enter correctly."
+msgstr ""
+
+#: .38996
+msgid ""
+"Please enter DS Card Store No.\n"
+"(Ex: 000001)"
+msgstr ""
+
+#: .39052
+msgid ""
+"Registering new crew member\n"
+"Please enter Crew ID"
+msgstr ""
+
+#: .39108
+msgid ""
+"Register a new crew member\n"
+"or delete an existing one"
+msgstr ""
+
+#: .39172
+msgctxt ".39172"
+".39172"
+msgid ""
+"Incorrect or duplicate input.\n"
+"Please enter it correctly"
+msgstr ""
+
+#: .39244
+msgctxt ".39244"
+msgid ""
+"Incorrect or duplicate input.\n"
+"Please enter it correctly"
+msgstr ""
+
+#: .39316
+msgctxt ".39316"
+msgid ""
+"Incorrect or duplicate input.\n"
+"Please enter it correctly"
+msgstr ""
+
+#: .41404
+msgid "Registration"
+msgstr ""
+
+#: .41416
+msgid "Crew ID"
+msgstr ""
+
+#: .41428
+msgid "Name"
+msgstr ""
+
+#: .41436
+msgid "Age"
+msgstr ""
+
+#: .41444
+msgid "Shop No."
+msgstr ""
+
+#: .41456
+msgid "Register New Member"
+msgstr ""
+
+#: .41476
+msgid "Delete Crew Member"
+msgstr ""
+
+#: .41492
+msgid "%d/10 crews"
+msgstr ""
+
+#: .41508
+msgid "Confirm"
+msgstr ""
+
+#: .41516
+msgctxt ".41516"
+msgid "OK"
+msgstr ""
+
+#: .41524
+msgctxt ".41524"
+msgid "No"
+msgstr ""
+
+#: .41532
+msgctxt ".41532"
+msgid "OK"
+msgstr ""
+
+#: .41540
+msgctxt ".41540"
+msgid "No"
+msgstr ""
+
+#: .41552
+msgctxt ".41552"
+".41552"
+msgid "００００００"
+msgstr ""
+
+#: .41568
+msgid ""
+"Password incorrect.\n"
+"Please try to\n"
+"enter it again."
+msgstr ""
+
+#: .41632
+msgctxt ".41632"
+msgid "００００００"
+msgstr ""
+
+#: .41648
+msgctxt ".41648"
+msgid "００００００"
+msgstr ""
+
+#: .41680
+msgid ""
+"When you start the\n"
+"serial code is: %s"
+msgstr ""
+
+#: .41732
+msgid "M"
+msgstr ""
+
+#: .41740
+msgid "F"
+msgstr ""
+
+#: .41748
+msgid "Complete"
+msgstr ""
+
+#: .41764
+msgid "lower"
+msgstr ""
+
+#: .41772
+msgid "UPPER"
+msgstr ""
+
+#: .42560
+msgid "Start the crew training."
+msgstr ""
+
+#: .42588
+msgctxt ".42588"
+msgid "Mode for managers only."
+msgstr ""
+
+#: .42620
+msgctxt ".42620"
+msgid "Mode for managers only."
+msgstr ""
+
+#: .42652
+msgid "Practice the eCDP contents."
+msgstr ""
+
+#: .42688
+msgid "McDonald's quiz challenge."
+msgstr ""
+
+#: .43088
+msgid "SOC Guide"
+msgstr ""
+
+#: .43104
+msgid "Self-Check"
+msgstr ""
+
+#: .43120
+msgid "Self-Study"
+msgstr ""
+
+#: .43408
+msgid ""
+"Read about the basics\n"
+"of McDonald's operations."
+msgstr ""
+
+#: .43452
+msgid ""
+"Use the stylus to\n"
+"practice McDonald's operations."
+msgstr ""
+
+#: .43512
+msgid ""
+"Test your knowledge with\n"
+"a 10-question quiz."
+msgstr ""
+
+#: .43916
+msgid "Crew not registered"
+msgstr ""
+
+#: .43944
+msgid "Register/unregister crew members."
+msgstr ""
+
+#: .43984
+msgid "Connect to the Wi-Fi network."
+msgstr ""
+
+#: .44028
+msgid "Change the store's eqiupment setup."
+msgstr ""
+
+#: .44080
+msgid "Check crew progress and verify them."
+msgstr ""
+
+#: .44508
+msgid ""
+"Data could not be read.\n"
+"Turn off power and reinsert game card."
+msgstr ""
+
+#: .44584
+msgid ""
+"Data could not be written.\n"
+"Turn off power and reinsert game card."
+msgstr ""
+
+#: .44768
+msgid ""
+"Unfortunately, save data is corrupted.\n"
+"To start eCDP, you must\n"
+"create new data.\n"
+"Touch the screen, then please\n"
+"re-enter the serial code."
+msgstr ""
+
+#: .45100
+msgctxt ".45100"
+msgid "Change Password"
+msgstr ""
+
+#: .45116
+msgctxt ".45116"
+msgid "Enter Password"
+msgstr ""
+
+#: .45132
+msgid "Enter Serial Code"
+msgstr ""
+
+#: .45248
+msgid "Please select an option"
+msgstr ""
+
+#: .45368
+msgid ""
+"Enter the password to\n"
+"get to the main menu"
+msgstr ""
+
+#: .45428
+msgctxt ".45428"
+".45428"
+msgid ""
+"Enter the serial code when\n"
+"loading the game for the first time."
+msgstr ""
+
+#: .45488
+msgctxt ".45488"
+msgid ""
+"Enter the serial code when\n"
+"loading the game for the first time."
+msgstr ""
+
+#: .45548
+msgctxt ".45548"
+msgid ""
+"Enter the serial code when\n"
+"loading the game for the first time."
+msgstr ""
+
+#: .45608
+msgid ""
+"Change the passwords for\n"
+"registered crew & managers"
+msgstr ""

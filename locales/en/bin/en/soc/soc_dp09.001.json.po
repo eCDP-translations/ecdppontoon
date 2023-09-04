@@ -1,0 +1,40 @@
+#. extracted from translation/bin/en/soc/soc_dp09.001.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Within 10s\n"
+"■Customers should be greeted\n"
+"with a smile within 10s of\n"
+"them approaching you."
+msgstr ""
+
+#: [1]
+msgid ""
+"Order Taker & Cashier\n"
+"■Come up with your own unique\n"
+"(but appropriate) greetings\n"
+"and change up how you greet\n"
+"customers every so often."
+msgstr ""
+
+#: [2]
+msgid ""
+"Order Taker & Cashier\n"
+"■Treat the customers in a\n"
+"friendly manner. \"May I take\n"
+"your order?\" does not count\n"
+"as a greeting."
+msgstr ""

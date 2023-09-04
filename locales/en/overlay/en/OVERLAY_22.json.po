@@ -1,0 +1,122 @@
+#. extracted from translation/overlay/en/OVERLAY_22.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .19720
+msgid "Split in half"
+msgstr ""
+
+#: .19464
+msgid "with your thumb."
+msgstr ""
+
+#: .19816
+msgid "Be sure not to"
+msgstr ""
+
+#: .19836
+msgid "twist it!"
+msgstr ""
+
+#: .19560
+msgid "Line them up"
+msgstr ""
+
+#: .19736
+msgid "with the spatula."
+msgstr ""
+
+#: .19608
+msgid "Crown in front."
+msgstr ""
+
+#: .19504
+msgid "Heel in back."
+msgstr ""
+
+#: .19528
+msgid "Put them in"
+msgstr ""
+
+#: .19472
+msgid "the toaster."
+msgstr ""
+
+#: .19576
+msgid "Please put them"
+msgstr ""
+
+#: .19688
+msgid "in the toaster."
+msgstr ""
+
+#: .19776
+msgid "Prepare the tray."
+msgstr ""
+
+#: .19516
+msgid "Prepare the"
+msgstr ""
+
+#: .19492
+msgid "UHC tray."
+msgstr ""
+
+#: .19796
+msgid "Spray them"
+msgstr ""
+
+#: .19544
+msgid "after removing."
+msgstr ""
+
+#: .19856
+msgid "Spray them 3 times."
+msgstr ""
+
+#: .19704
+msgid "Spray them evenly."
+msgstr ""
+
+#: .19756
+msgid "Put the crown"
+msgstr ""
+
+#: .19624
+msgid "on top of heel."
+msgstr ""
+
+#: .19876
+msgid "Put them so the"
+msgstr ""
+
+#: .19592
+msgid "toasted side faces up."
+msgstr ""
+
+#: .19672
+msgid "Press the timer"
+msgstr ""
+
+#: .19480
+msgid "and store them."
+msgstr ""
+
+#: .19640
+msgid "The holding"
+msgstr ""
+
+#: .19656
+msgid "time is 20m."
+msgstr ""

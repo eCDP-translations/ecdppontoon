@@ -1,0 +1,81 @@
+#. extracted from translation/bin/en/soc/soc_dp03.000.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Washed Your Hands?\n"
+"■Use McDonald's\n"
+"hand soap. Wash\n"
+"properly. Dry with\n"
+"a paper towel."
+msgstr ""
+
+#: [1]
+msgid ""
+"Prepare Wet Wipes\n"
+"■Raw egg material left on the\n"
+"shell may be contaminated and\n"
+"cause food poisoning. Pay\n"
+"attention to food safety\n"
+"procedures to prevent this."
+msgstr ""
+
+#: [2]
+msgid ""
+"Temperature Settings\n"
+"■Egg Cooker\n"
+"132°C-138°C/270°F-280°F"
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking Time Settings\n"
+"■Egg Cooker\n"
+"Standard: 2m\n"
+"Extended: 2m 30s"
+msgstr ""
+
+#: [4]
+msgid ""
+"Stock Checking\n"
+"■Determine how much\n"
+"stock you need by\n"
+"using the UHC chart."
+msgstr ""
+
+#: [5]
+msgid ""
+"Food Safety\n"
+"■Prevent cross-contamination."
+msgstr ""
+
+#: [6]
+msgid ""
+"Using the Spatula\n"
+"■The yellow Hutzler\n"
+"spatula is only for\n"
+"raw eggs. It has\n"
+"its own square pot\n"
+"to keep it separate."
+msgstr ""
+
+#: [7]
+msgid ""
+"Hot Holding\n"
+"■Store the eggs so\n"
+"that the internal\n"
+"temperature is at\n"
+"least 60°C/140°F."
+msgstr ""

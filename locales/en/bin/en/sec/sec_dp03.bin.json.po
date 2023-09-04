@@ -1,0 +1,239 @@
+#. extracted from translation/bin/en/sec/sec_dp03.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"To prevent food poisoning,\n"
+"1. Keep area clean\n"
+"2. Kill bacteria & germs\n"
+"3. ????"
+msgstr ""
+
+#: [1]
+msgid "Keep food cool"
+msgstr ""
+
+#: [2]
+msgid "Keep it out of sight"
+msgstr ""
+
+#: [3]
+msgid "Report it"
+msgstr ""
+
+#: [4]
+msgid "Don't touch anything"
+msgstr ""
+
+#: [5]
+msgid ""
+"What temperature is right\n"
+"for storing frozen food? "
+msgstr ""
+
+#: [6]
+msgid "Less than -18°C/0°F"
+msgstr ""
+
+#: [7]
+msgid "Less than -15°C/5°F"
+msgstr ""
+
+#: [8]
+msgid "Less than -10°C/14°F"
+msgstr ""
+
+#: [9]
+msgid "Less than 0°C/32°F"
+msgstr ""
+
+#: [10]
+msgid ""
+"What temperature should the\n"
+"1/10 patty be cooked to?"
+msgstr ""
+
+#: [11]
+msgid "At least 69°C/156°F"
+msgstr ""
+
+#: [12]
+msgid "At least 68°C/154°F"
+msgstr ""
+
+#: [13]
+msgid "At least 60°C/140°F"
+msgstr ""
+
+#: [14]
+msgid "At least 74°C/165°F"
+msgstr ""
+
+#: [15]
+msgid ""
+"What temperature is right\n"
+"for refrigerated food?"
+msgstr ""
+
+#: [16]
+msgid "Less than 4°C/39°F"
+msgstr ""
+
+#: [17]
+msgid "Less than 5°C/41°F"
+msgstr ""
+
+#: [18]
+msgid "Less than 10°C/50°F"
+msgstr ""
+
+#: [19]
+msgid "Less than 6°C/43°F"
+msgstr ""
+
+#: [20]
+msgid ""
+"Another term for cross\n"
+"contamination is..."
+msgstr ""
+
+#: [21]
+msgid "Secondary contamination"
+msgstr ""
+
+#: [22]
+msgid "Incoming raw ingredients"
+msgstr ""
+
+#: [23]
+msgid "Fraud accusation"
+msgstr ""
+
+#: [24]
+msgid "Equipment adjustments"
+msgstr ""
+
+#: [25]
+msgid ""
+"Which of the following is\n"
+"NOT a basic hygiene rule?"
+msgstr ""
+
+#: [26]
+msgid "Call when you are late"
+msgstr ""
+
+#: [27]
+msgid "Call when you are sick"
+msgstr ""
+
+#: [28]
+msgctxt "[28]"
+msgid "Trim your nails"
+msgstr ""
+
+#: [29]
+msgid "Tie back long hair"
+msgstr ""
+
+#: [30]
+msgid ""
+"What is the minimum height\n"
+"from the floor to keep food?"
+msgstr ""
+
+#: [31]
+msgid "At least 15 cm/6 in"
+msgstr ""
+
+#: [32]
+msgid "At least 10 cm/4 in"
+msgstr ""
+
+#: [33]
+msgid "At least 5 cm/2 in"
+msgstr ""
+
+#: [34]
+msgid "There is no minimum height"
+msgstr ""
+
+#: [35]
+msgid ""
+"What thing in the store can\n"
+"be a food safety hazard?"
+msgstr ""
+
+#: [36]
+msgid "All the display items"
+msgstr ""
+
+#: [37]
+msgid "Viruses"
+msgstr ""
+
+#: [38]
+msgid "Mixing metals"
+msgstr ""
+
+#: [39]
+msgid "Misusing chemicals"
+msgstr ""
+
+#: [40]
+msgid ""
+"Which is NOT required\n"
+"when you wash your hands?"
+msgstr ""
+
+#: [41]
+msgid "Scrub your whole arms"
+msgstr ""
+
+#: [42]
+msgid "Scrub between your fingers"
+msgstr ""
+
+#: [43]
+msgid "Scrub up to the elbow"
+msgstr ""
+
+#: [44]
+msgid "Scrub under your nails"
+msgstr ""
+
+#: [45]
+msgid ""
+"Which of the following is\n"
+"not a step to prevent cross\n"
+"contamination?"
+msgstr ""
+
+#: [46]
+msgid "Confirm your schedule"
+msgstr ""
+
+#: [47]
+msgid "Wash your hands"
+msgstr ""
+
+#: [48]
+msgid "Use antibacterial wipes"
+msgstr ""
+
+#: [49]
+msgctxt "[49]"
+msgid "Trim your nails"
+msgstr ""

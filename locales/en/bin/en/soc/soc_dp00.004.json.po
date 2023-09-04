@@ -1,0 +1,70 @@
+#. extracted from translation/bin/en/soc/soc_dp00.004.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Low Volume Sales\n"
+"■Put Basket 1 in\n"
+"the cooking oil."
+msgstr ""
+
+#: [1]
+msgid ""
+"Low Volume Sales\n"
+"■When the timer\n"
+"rings, pull up\n"
+"the basket to\n"
+"turn off the oil\n"
+"and press the HT\n"
+"timer."
+msgstr ""
+
+#: [2]
+msgid ""
+"Low Volume Sales\n"
+"■After putting in\n"
+"Basket 2, take\n"
+"Basket 1 to the\n"
+"bagging tray."
+msgstr ""
+
+#: [3]
+msgid ""
+"Peak Time\n"
+"■Put in Basket 1.\n"
+"After 30s, lift\n"
+"it up and shake\n"
+"it. Then put in\n"
+"Basket 2."
+msgstr ""
+
+#: [4]
+msgid ""
+"Peak Time\n"
+"■Put Basket 3 in\n"
+"30s after Basket\n"
+"2 and Basket 4\n"
+"30s after Basket\n"
+"3."
+msgstr ""
+
+#: [5]
+msgid ""
+"Peak Time\n"
+"■When the timer\n"
+"rings, pull out\n"
+"the baskets in\n"
+"order from 1."
+msgstr ""

@@ -1,0 +1,94 @@
+#. extracted from translation/bin/en/soc/soc_dp07.005.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Big Mac\n"
+"■This shows the\n"
+"correctly made\n"
+"Big Mac."
+msgstr ""
+
+#: [1]
+msgid ""
+"Procedure\n"
+"■Place the toasted Big Mac buns\n"
+"in the special box."
+msgstr ""
+
+#: [2]
+msgid ""
+"Procedure\n"
+"■Hit both the\n"
+"club and heel\n"
+"with a shot of\n"
+"Big Mac sauce."
+msgstr ""
+
+#: [3]
+msgid ""
+"Procedure\n"
+"■Put the onions\n"
+"on top of both\n"
+"heel and club."
+msgstr ""
+
+#: [4]
+msgid ""
+"Procedure\n"
+"■Top each bun\n"
+"with a slice\n"
+"of lettuce."
+msgstr ""
+
+#: [5]
+msgid ""
+"Procedure\n"
+"■Put two\n"
+"pickles on top\n"
+"of the heel."
+msgstr ""
+
+#: [6]
+msgid ""
+"Procedure\n"
+"■Put a slice\n"
+"of cheese on\n"
+"the club."
+msgstr ""
+
+#: [7]
+msgid ""
+"Procedure\n"
+"■Put a 1/10th\n"
+"patty from\n"
+"the UHC on\n"
+"each bun."
+msgstr ""
+
+#: [8]
+msgid ""
+"Procedure\n"
+"■Finally, put the assembled club\n"
+"on top of the assembled heel. Put\n"
+"the crown on top of it all."
+msgstr ""
+
+#: [9]
+msgid ""
+"Procedure\n"
+"■Close the lid of the box and\n"
+"slide it down the HLZ."
+msgstr ""

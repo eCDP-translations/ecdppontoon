@@ -1,0 +1,257 @@
+#. extracted from translation/bin/en/sec/sec_dp05.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"When cooking sausage\n"
+"patties, what do you\n"
+"use to wipe your hands\n"
+"with after pushing the\n"
+"platen switch?"
+msgstr ""
+
+#: [1]
+msgid "Antibacterial Wet Wipes"
+msgstr ""
+
+#: [2]
+msgid "Counter Cloth"
+msgstr ""
+
+#: [3]
+msgid "Grill Cloth"
+msgstr ""
+
+#: [4]
+msgid "Paper Towels"
+msgstr ""
+
+#: [5]
+msgid ""
+"How many sausage patties\n"
+"can be cooked at a time?"
+msgstr ""
+
+#: [6]
+msgctxt "[6]"
+msgid "8"
+msgstr ""
+
+#: [7]
+msgctxt "[7]"
+msgid "6"
+msgstr ""
+
+#: [8]
+msgid "9"
+msgstr ""
+
+#: [9]
+msgid "12"
+msgstr ""
+
+#: [10]
+msgid ""
+"The maximum holding time\n"
+"for sausage patties is..."
+msgstr ""
+
+#: [11]
+msgctxt "[11]"
+msgid "60m"
+msgstr ""
+
+#: [12]
+msgctxt "[12]"
+msgid "15m"
+msgstr ""
+
+#: [13]
+msgctxt "[13]"
+msgid "20m"
+msgstr ""
+
+#: [14]
+msgctxt "[14]"
+msgid "30m"
+msgstr ""
+
+#: [15]
+msgid ""
+"How many sausage patties\n"
+"can you fit on the UHC?"
+msgstr ""
+
+#: [16]
+msgid "4"
+msgstr ""
+
+#: [17]
+msgid "3"
+msgstr ""
+
+#: [18]
+msgctxt "[18]"
+msgid "6"
+msgstr ""
+
+#: [19]
+msgctxt "[19]"
+msgid "8"
+msgstr ""
+
+#: [20]
+msgid ""
+"Roughly how long does it\n"
+"take to cook one side of\n"
+"Canadian bacon on the egg\n"
+"cooker?"
+msgstr ""
+
+#: [21]
+msgid "4s"
+msgstr ""
+
+#: [22]
+msgid "3s"
+msgstr ""
+
+#: [23]
+msgid "5s"
+msgstr ""
+
+#: [24]
+msgid "6s"
+msgstr ""
+
+#: [25]
+msgid ""
+"How many pieces of Canadian\n"
+"bacon can you cook in one\n"
+"run?"
+msgstr ""
+
+#: [26]
+msgid "6 pieces"
+msgstr ""
+
+#: [27]
+msgid "4 pieces"
+msgstr ""
+
+#: [28]
+msgid "8 pieces"
+msgstr ""
+
+#: [29]
+msgid "9 pieces"
+msgstr ""
+
+#: [30]
+msgid ""
+"What is the maximum holding\n"
+"time of the Canadian bacon?"
+msgstr ""
+
+#: [31]
+msgctxt "[31]"
+msgid "30m"
+msgstr ""
+
+#: [32]
+msgctxt "[32]"
+msgid "20m"
+msgstr ""
+
+#: [33]
+msgctxt "[33]"
+msgid "15m"
+msgstr ""
+
+#: [34]
+msgctxt "[34]"
+msgid "60m"
+msgstr ""
+
+#: [35]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"Raw stock should follow\n"
+"the [      ] rule."
+msgstr ""
+
+#: [36]
+msgid "24/2"
+msgstr ""
+
+#: [37]
+msgid "2/24"
+msgstr ""
+
+#: [38]
+msgid "Takeout"
+msgstr ""
+
+#: [39]
+msgid "Cleanliness"
+msgstr ""
+
+#: [40]
+msgid ""
+"What is the temperautre of\n"
+"the slot in the UHC where\n"
+"the sausage patties are kept?"
+msgstr ""
+
+#: [41]
+msgid "79°C/174°F"
+msgstr ""
+
+#: [42]
+msgid "85°C/200°F"
+msgstr ""
+
+#: [43]
+msgid "93°C/216°F"
+msgstr ""
+
+#: [44]
+msgid "60°C/150°F"
+msgstr ""
+
+#: [45]
+msgid ""
+"How many times during \n"
+"business should you check\n"
+"the spatula and scraper?"
+msgstr ""
+
+#: [46]
+msgid "Five times"
+msgstr ""
+
+#: [47]
+msgid "Two times"
+msgstr ""
+
+#: [48]
+msgid "Three times"
+msgstr ""
+
+#: [49]
+msgid "Four times"
+msgstr ""

@@ -1,0 +1,222 @@
+#. extracted from translation/overlay/ja/OVERLAY_7.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .22736
+msgid "HLZ"
+msgstr ""
+
+#: .22740
+msgid "バンカート"
+msgstr ""
+
+#: .22752
+msgid "ブレンダー"
+msgstr ""
+
+#: .22764
+msgid "ワークテーブル"
+msgstr ""
+
+#: .22780
+msgid "キャッシャーPOS"
+msgstr ""
+
+#: .22796
+msgid "プレップテーブル"
+msgstr ""
+
+#: .22816
+msgid "ポテトフリーザー"
+msgstr ""
+
+#: .22836
+msgid "リーチイン冷凍庫"
+msgstr ""
+
+#: .22856
+msgid "クラムシェルグリル"
+msgstr ""
+
+#: .22876
+msgid "UHC（UHCテーブル）"
+msgstr ""
+
+#: .22896
+msgid "センターアイランド"
+msgstr ""
+
+#: .22916
+msgid "マフィントースター"
+msgstr ""
+
+#: .22936
+msgid "バギングステーション"
+msgstr ""
+
+#: .22960
+msgid "グリルサイドフリーザー"
+msgstr ""
+
+#: .22984
+msgid "シェイクマシーン（C602）"
+msgstr ""
+
+#: .23012
+msgid ""
+"フライヤー１\n"
+"（ポテト用）"
+msgstr ""
+
+#: .23040
+msgid ""
+"フライヤー２\n"
+"（ナゲット用）"
+msgstr ""
+
+#: .23068
+msgid ""
+"アーチフライ\n"
+"ディスペンサー"
+msgstr ""
+
+#: .23096
+msgid ""
+"エッグクッカー\n"
+"（エッグテーブル）"
+msgstr ""
+
+#: .23132
+msgid ""
+"ラピッドトースター\n"
+"（ラピッドスチーマー）"
+msgstr ""
+
+#: .23496
+msgid "本バージョンでは変更は反映されません"
+msgstr ""
+
+#: .23536
+msgid ""
+"選択した機材を\n"
+"配置 ・ 回転 ・ 削除\n"
+"してください。"
+msgstr ""
+
+#: .23716
+msgid "ロードしました。"
+msgstr ""
+
+#: .23736
+msgid "ロードに失敗しました。"
+msgstr ""
+
+#: .23760
+msgid "セーブしました。"
+msgstr ""
+
+#: .23780
+msgid "セーブに失敗しました。"
+msgstr ""
+
+#: .23804
+msgid "クリアしました。"
+msgstr ""
+
+#: .23824
+msgid "クリアに失敗しました。"
+msgstr ""
+
+#: .23848
+msgid "デフォルトに戻しました。"
+msgstr ""
+
+#: .23876
+msgid "デフォルトに戻すのに失敗しました。"
+msgstr ""
+
+#: .23912
+msgid "セーブが完了しました。"
+msgstr ""
+
+#: .23936
+msgid ""
+"セーブに失敗しました。\n"
+"再度セーブを行いますか？"
+msgstr ""
+
+#: .23984
+msgid "項目を選択してください。"
+msgstr ""
+
+#: .24012
+msgid ""
+"機材の配置に変更がありました。\n"
+"現在の配置をセーブしますか？"
+msgstr ""
+
+#: .24072
+msgid ""
+"データのセーブ ・ ロード\n"
+"配置した機材を全て消去 ・ \n"
+"機材の配置を初期状態に戻します。"
+msgstr ""
+
+#: .24160
+msgid "機材配置をロードする"
+msgstr ""
+
+#: .24184
+msgid "機材配置をセーブする"
+msgstr ""
+
+#: .24208
+msgid "機材配置をクリアする"
+msgstr ""
+
+#: .24232
+msgid "デフォルトに戻す"
+msgstr ""
+
+#: .24252
+msgid "はい"
+msgstr ""
+
+#: .24260
+msgid "いいえ"
+msgstr ""
+
+#: .24600
+msgid "設定を保存しました。"
+msgstr ""
+
+#: .24624
+msgid ""
+"「プレップの進行方向」\n"
+"「バギングステーションの向き」\n"
+"「アーチフライディスペンサーの有無」\n"
+"を設定してください"
+msgstr ""
+
+#: .24736
+msgid "プレップの進行方向"
+msgstr ""
+
+#: .24756
+msgid "バギングステーションの向き"
+msgstr ""
+
+#: .24784
+msgid "アーチフライディスペンサー"
+msgstr ""

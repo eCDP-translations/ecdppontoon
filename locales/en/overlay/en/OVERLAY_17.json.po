@@ -1,0 +1,1137 @@
+#. extracted from translation/overlay/en/OVERLAY_17.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .7588
+msgctxt ".7588"
+".7588"
+".7588"
+".7588"
+".7588"
+".7588"
+msgid "Safe"
+msgstr ""
+
+#: .7596
+msgctxt ".7596"
+msgid "Safe"
+msgstr ""
+
+#: .7604
+msgctxt ".7604"
+msgid "Safe"
+msgstr ""
+
+#: .7612
+msgctxt ".7612"
+msgid "Safe"
+msgstr ""
+
+#: .7620
+msgctxt ".7620"
+msgid "Safe"
+msgstr ""
+
+#: .7628
+msgctxt ".7628"
+msgid "Safe"
+msgstr ""
+
+#: .7636
+msgctxt ".7636"
+msgid "Safe"
+msgstr ""
+
+#: .7652
+msgctxt ".7652"
+".7652"
+".7652"
+".7652"
+".7652"
+".7652"
+msgid "Fresh"
+msgstr ""
+
+#: .7660
+msgctxt ".7660"
+".7660"
+".7660"
+".7660"
+".7660"
+".7660"
+msgid "Warm"
+msgstr ""
+
+#: .7668
+msgctxt ".7668"
+msgid "Fresh"
+msgstr ""
+
+#: .7676
+msgctxt ".7676"
+msgid "Fresh"
+msgstr ""
+
+#: .7684
+msgctxt ".7684"
+msgid "Warm"
+msgstr ""
+
+#: .7692
+msgctxt ".7692"
+msgid "Warm"
+msgstr ""
+
+#: .7700
+msgctxt ".7700"
+msgid "Fresh"
+msgstr ""
+
+#: .7708
+msgctxt ".7708"
+msgid "Warm"
+msgstr ""
+
+#: .7716
+msgctxt ".7716"
+msgid "Warm"
+msgstr ""
+
+#: .7724
+msgctxt ".7724"
+msgid "Fresh"
+msgstr ""
+
+#: .7732
+msgctxt ".7732"
+msgid "Fresh"
+msgstr ""
+
+#: .7740
+msgctxt ".7740"
+msgid "Fresh"
+msgstr ""
+
+#: .7748
+msgctxt ".7748"
+msgid "Warm"
+msgstr ""
+
+#: .7756
+msgctxt ".7756"
+msgid "Warm"
+msgstr ""
+
+#: .7764
+msgid "Egg"
+msgstr ""
+
+#: .8464
+msgctxt ".8464"
+".8464"
+".8464"
+msgid "177°C   (351°F)"
+msgstr ""
+
+#: .8476
+msgctxt ".8476"
+msgid "177°C   (351°F)"
+msgstr ""
+
+#: .8488
+msgctxt ".8488"
+msgid "177°C   (351°F)"
+msgstr ""
+
+#: .8500
+msgctxt ".8500"
+".8500"
+".8500"
+msgid "218°C   (425°F)"
+msgstr ""
+
+#: .8512
+msgctxt ".8512"
+msgid "218°C   (425°F)"
+msgstr ""
+
+#: .8524
+msgctxt ".8524"
+msgid "177°C   (351°F)"
+msgstr ""
+
+#: .8536
+msgid "168°C   (334°F)"
+msgstr ""
+
+#: .8548
+msgctxt ".8548"
+".8548"
+".8548"
+".8548"
+msgid "Piping Hot"
+msgstr ""
+
+#: .8560
+msgctxt ".8560"
+msgid "Piping Hot"
+msgstr ""
+
+#: .8572
+msgctxt ".8572"
+".8572"
+msgid "(Est.)"
+msgstr ""
+
+#: .8584
+msgid "135°C   (275°F)"
+msgstr ""
+
+#: .8620
+msgctxt ".8620"
+msgid "(Est.)"
+msgstr ""
+
+#: .8632
+msgctxt ".8632"
+msgid "(Est.)"
+msgstr ""
+
+#: .8644
+msgctxt ".8644"
+msgid "Piping Hot"
+msgstr ""
+
+#: .8656
+msgctxt ".8656"
+msgid "Piping Hot"
+msgstr ""
+
+#: .8668
+msgctxt ".8668"
+msgid "218°C   (425°F)"
+msgstr ""
+
+#: .8680
+msgid "166°C   (331°F)"
+msgstr ""
+
+#: .8692
+msgid "182°C   (360°F)"
+msgstr ""
+
+#: .8704
+msgctxt ".8704"
+msgid "Piping Hot"
+msgstr ""
+
+#: .8716
+msgctxt ".8716"
+msgid "218°C   (425°F)"
+msgstr ""
+
+#: .8728
+msgctxt ".8728"
+".8728"
+".8728"
+msgid "Grill Temperature"
+msgstr ""
+
+#: .8740
+msgctxt ".8740"
+".8740"
+".8740"
+msgid "Juicy"
+msgstr ""
+
+#: .8752
+msgctxt ".8752"
+".8752"
+".8752"
+".8752"
+".8752"
+msgid "Correctly Baked"
+msgstr ""
+
+#: .8764
+msgctxt ".8764"
+msgid "Correct Cooking"
+msgstr ""
+
+#: .8776
+msgctxt ".8776"
+msgid "Juicy"
+msgstr ""
+
+#: .8788
+msgid "Full Bag"
+msgstr ""
+
+#: .8800
+msgctxt ".8800"
+msgid "Correct Cooking"
+msgstr ""
+
+#: .8812
+msgctxt ".8812"
+msgid "Correctly Baked"
+msgstr ""
+
+#: .8824
+msgctxt ".8824"
+msgid "Correctly Baked"
+msgstr ""
+
+#: .8836
+msgctxt ".8836"
+msgid "Juicy"
+msgstr ""
+
+#: .8848
+msgctxt ".8848"
+msgid "Correctly Baked"
+msgstr ""
+
+#: .8860
+msgctxt ".8860"
+msgid "Juicy"
+msgstr ""
+
+#: .8872
+msgctxt ".8872"
+msgid "Grill Temperature"
+msgstr ""
+
+#: .8884
+msgctxt ".8884"
+msgid "Correctly Baked"
+msgstr ""
+
+#: .8896
+msgctxt ".8896"
+msgid "Grill Temperature"
+msgstr ""
+
+#: .8908
+msgctxt ".8908"
+msgid "Correctly Baked"
+msgstr ""
+
+#: .8920
+msgctxt ".8920"
+msgid "Grill Temperature"
+msgstr ""
+
+#: .8932
+msgid "Salted Just Right"
+msgstr ""
+
+#: .8948
+msgctxt ".8948"
+".8948"
+msgid "4:1 Patty"
+msgstr ""
+
+#: .8964
+msgctxt ".8964"
+".8964"
+".8964"
+msgid "Platen Temperature"
+msgstr ""
+
+#: .8980
+msgctxt ".8980"
+msgid "4:1 Patty"
+msgstr ""
+
+#: .8996
+msgid "Standard"
+msgstr ""
+
+#: .9012
+msgctxt ".9012"
+msgid "Speedy"
+msgstr ""
+
+#: .9028
+msgid "Extended"
+msgstr ""
+
+#: .9044
+msgid ""
+"Are the eggs\n"
+"room temperature?"
+msgstr ""
+
+#: .9060
+msgctxt ".9060"
+msgid "Speedy"
+msgstr ""
+
+#: .9076
+msgctxt ".9076"
+msgid "Platen Temperature"
+msgstr ""
+
+#: .9092
+msgctxt ".9092"
+msgid "Platen Temperature"
+msgstr ""
+
+#: .9108
+msgid "Crispy on the Outside"
+msgstr ""
+
+#: .9124
+msgid "Big Mac"
+msgstr ""
+
+#: .9140
+msgctxt ".9140"
+msgid "4:1 Patty"
+msgstr ""
+
+#: .9156
+msgctxt ".9156"
+msgid "Platen Temperature"
+msgstr ""
+
+#: .9172
+msgctxt ".9172"
+".9172"
+msgid "Frier Temperature"
+msgstr ""
+
+#: .9188
+msgid "Drive-Thru"
+msgstr ""
+
+#: .9204
+msgctxt ".9204"
+".9204"
+".9204"
+".9204"
+".9204"
+".9204"
+msgid "Good Looking"
+msgstr ""
+
+#: .9220
+msgctxt ".9220"
+".9220"
+".9220"
+".9220"
+".9220"
+".9220"
+msgid "Prep Time"
+msgstr ""
+
+#: .9236
+msgctxt ".9236"
+msgid "Hashbrowns"
+msgstr ""
+
+#: .9252
+msgctxt ".9252"
+msgid "Good Looking"
+msgstr ""
+
+#: .9268
+msgctxt ".9268"
+msgid "Made Correctly"
+msgstr ""
+
+#: .9284
+msgctxt ".9284"
+msgid "Good Looking"
+msgstr ""
+
+#: .9300
+msgctxt ".9300"
+msgid "Hashbrowns"
+msgstr ""
+
+#: .9316
+msgctxt ".9316"
+msgid "Prep Time"
+msgstr ""
+
+#: .9332
+msgctxt ".9332"
+msgid "Made Correctly"
+msgstr ""
+
+#: .9348
+msgctxt ".9348"
+msgid "Courtesy to Customers"
+msgstr ""
+
+#: .9364
+msgctxt ".9364"
+msgid "Prep Time"
+msgstr ""
+
+#: .9380
+msgid "Lot & Lobby"
+msgstr ""
+
+#: .9396
+msgctxt ".9396"
+msgid "Good Looking"
+msgstr ""
+
+#: .9412
+msgid "Mildly Uneven"
+msgstr ""
+
+#: .9428
+msgctxt ".9428"
+msgid "Prep Time"
+msgstr ""
+
+#: .9444
+msgctxt ".9444"
+msgid "Good Looking"
+msgstr ""
+
+#: .9460
+msgid "Cheeseburger"
+msgstr ""
+
+#: .9476
+msgctxt ".9476"
+msgid "Sausage"
+msgstr ""
+
+#: .9492
+msgctxt ".9492"
+msgid "Sausage"
+msgstr ""
+
+#: .9508
+msgctxt ".9508"
+msgid "Good Looking"
+msgstr ""
+
+#: .9524
+msgctxt ".9524"
+msgid "Prep Time"
+msgstr ""
+
+#: .9540
+msgctxt ".9540"
+msgid "Prep Time"
+msgstr ""
+
+#: .9556
+msgctxt ".9556"
+msgid "Frier Temperature"
+msgstr ""
+
+#: .9572
+msgctxt ".9572"
+msgid "Frier Temperature"
+msgstr ""
+
+#: .9588
+msgid "Teriyaki Patty"
+msgstr ""
+
+#: .9604
+msgid "10:1 Patty"
+msgstr ""
+
+#: .9620
+msgctxt ".9620"
+msgid "Courtesy to Customers"
+msgstr ""
+
+#: .9636
+msgctxt ".9636"
+msgid "REG/MAC"
+msgstr ""
+
+#: .9652
+msgctxt ".9652"
+msgid "Good Looking"
+msgstr ""
+
+#: .9668
+msgctxt ".9668"
+msgid "REG/MAC"
+msgstr ""
+
+#: .9684
+msgctxt ".9684"
+msgid "Prep Time"
+msgstr ""
+
+#: .9700
+msgctxt ".9700"
+".9700"
+".9700"
+".9700"
+".9700"
+".9700"
+".9700"
+".9700"
+msgid "Cooking Time"
+msgstr ""
+
+#: .9720
+msgctxt ".9720"
+msgid "Cooking Time"
+msgstr ""
+
+#: .9740
+msgctxt ".9740"
+msgid "Cooking Time"
+msgstr ""
+
+#: .9760
+msgctxt ".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+".9760"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .9780
+msgctxt ".9780"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .9800
+msgctxt ".9800"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .9820
+msgctxt ".9820"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .9840
+msgctxt ".9840"
+msgid "Teriyaki"
+msgstr ""
+
+#: .9860
+msgctxt ".9860"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .9880
+msgctxt ".9880"
+msgid "Teriyaki"
+msgstr ""
+
+#: .9900
+msgctxt ".9900"
+msgid "Cooking Time"
+msgstr ""
+
+#: .9920
+msgctxt ".9920"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .9940
+msgctxt ".9940"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .9960
+msgctxt ".9960"
+msgid "Cooking Time"
+msgstr ""
+
+#: .9980
+msgctxt ".9980"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10000
+msgctxt ".10000"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10020
+msgctxt ".10020"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10040
+msgctxt ".10040"
+msgid "Cooking Time"
+msgstr ""
+
+#: .10060
+msgctxt ".10060"
+msgid "Cooking Time"
+msgstr ""
+
+#: .10080
+msgctxt ".10080"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10100
+msgid "Crispy Texture"
+msgstr ""
+
+#: .10120
+msgctxt ".10120"
+msgid "Cooking Time"
+msgstr ""
+
+#: .10140
+msgctxt ".10140"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10160
+msgctxt ".10160"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10180
+msgctxt ".10180"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10200
+msgctxt ".10200"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10220
+msgctxt ".10220"
+msgid "Cooking Time"
+msgstr ""
+
+#: .10240
+msgctxt ".10240"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10260
+msgid "Sausage Patty"
+msgstr ""
+
+#: .10280
+msgctxt ".10280"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10300
+msgctxt ".10300"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10320
+msgctxt ".10320"
+msgid "Wash your hands!"
+msgstr ""
+
+#: .10340
+msgctxt ".10340"
+msgid "Filet-O-Fish"
+msgstr ""
+
+#: .10360
+msgid "Consult Your Manager"
+msgstr ""
+
+#: .10380
+msgid "Front Counter"
+msgstr ""
+
+#: .10400
+msgctxt ".10400"
+msgid "French Fries"
+msgstr ""
+
+#: .10420
+msgid "Potato Size & Weight"
+msgstr ""
+
+#: .10440
+msgctxt ".10440"
+msgid "French Fries"
+msgstr ""
+
+#: .10460
+msgid "Golden Brown"
+msgstr ""
+
+#: .10480
+msgid "Holds its shape"
+msgstr ""
+
+#: .10500
+msgctxt ".10500"
+msgid "Friendly Conversation"
+msgstr ""
+
+#: .10520
+msgctxt ".10520"
+msgid "Friendly Conversation"
+msgstr ""
+
+#: .10540
+msgid "Egg Cooker Temperature"
+msgstr ""
+
+#: .10560
+msgctxt ".10560"
+msgid "Filet-O-Fish"
+msgstr ""
+
+#: .10580
+msgid "Quarter-Pounder"
+msgstr ""
+
+#: .10604
+msgctxt ".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+".10604"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10628
+msgctxt ".10628"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10652
+msgctxt ".10652"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10676
+msgctxt ".10676"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10700
+msgctxt ".10700"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10724
+msgctxt ".10724"
+msgid "Fresh & Piping Hot"
+msgstr ""
+
+#: .10748
+msgid "(Using a full vat)"
+msgstr ""
+
+#: .10772
+msgid "Fish Portion"
+msgstr ""
+
+#: .10796
+msgctxt ".10796"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10820
+msgctxt ".10820"
+msgid "Fresh & Piping Hot"
+msgstr ""
+
+#: .10844
+msgctxt ".10844"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10868
+msgctxt ".10868"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10892
+msgctxt ".10892"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10916
+msgid "Egg McMuffin"
+msgstr ""
+
+#: .10940
+msgctxt ".10940"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10964
+msgctxt ".10964"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .10988
+msgctxt ".10988"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .11012
+msgctxt ".11012"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .11036
+msgctxt ".11036"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .11060
+msgctxt ".11060"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .11084
+msgctxt ".11084"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .11108
+msgid "Canadian Bacon"
+msgstr ""
+
+#: .11132
+msgctxt ".11132"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .11156
+msgctxt ".11156"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .11180
+msgctxt ".11180"
+msgid "Customer's Expectations"
+msgstr ""
+
+#: .11204
+msgid "Piping Hot, Fresh Flavour"
+msgstr ""
+
+#: .11588
+msgid ""
+"Teriyaki\n"
+"Burger"
+msgstr ""
+
+#: .11612
+msgid ""
+"English\n"
+"Muffin"
+msgstr ""
+
+#: .11636
+msgctxt ".11636"
+".11636"
+".11636"
+msgid "Basic Order Taking"
+msgstr ""
+
+#: .11664
+msgid "Warm & Moist"
+msgstr ""
+
+#: .11692
+msgctxt ".11692"
+msgid "Basic Order Taking"
+msgstr ""
+
+#: .11720
+msgctxt ".11720"
+msgid "Basic Order Taking"
+msgstr ""
+
+#: .11748
+msgctxt ".11748"
+msgid "Basic Order Taking"
+msgstr ""
+
+#: .11832
+msgid ""
+"Double\n"
+"Quarter-Pounder"
+msgstr ""
+
+#: .11860
+msgid ""
+"Find what the\n"
+"customer needs."
+msgstr ""
+
+#: .11892
+msgid ""
+"Crunchy Outside,\n"
+"Soft Inside"
+msgstr ""
+
+#: .11924
+msgid ""
+"Have you observed\n"
+"the shelf life?"
+msgstr ""
+
+#: .11960
+msgctxt ".11960"
+msgid ""
+"Repeat if the\n"
+"order is unclear."
+msgstr ""
+
+#: .11996
+msgctxt ".11996"
+msgid ""
+"Repeat if the\n"
+"order is unclear."
+msgstr ""
+
+#: .12032
+msgctxt ".12032"
+msgid ""
+"Always smile\n"
+"and make eye contact."
+msgstr ""
+
+#: .12076
+msgctxt ".12076"
+msgid ""
+"Always smile\n"
+"and make eye contact."
+msgstr ""
+
+#: .12120
+msgctxt ".12120"
+".12120"
+".12120"
+".12120"
+".12120"
+".12120"
+msgid ""
+"Are you observing the\n"
+"raw food's holding time?"
+msgstr ""
+
+#: .12168
+msgctxt ".12168"
+msgid ""
+"Are you observing the\n"
+"raw food's holding time?"
+msgstr ""
+
+#: .12216
+msgctxt ".12216"
+msgid ""
+"Are you observing the\n"
+"raw food's holding time?"
+msgstr ""
+
+#: .12264
+msgctxt ".12264"
+msgid ""
+"Are you observing the\n"
+"raw food's holding time?"
+msgstr ""
+
+#: .12312
+msgctxt ".12312"
+msgid ""
+"Are you observing the\n"
+"raw food's holding time?"
+msgstr ""
+
+#: .12360
+msgctxt ".12360"
+msgid ""
+"Are you observing the\n"
+"raw food's holding time?"
+msgstr ""
+
+#: .12408
+msgctxt ".12408"
+msgid ""
+"Are you observing the\n"
+"raw food's holding time?"
+msgstr ""
+
+#: .12456
+msgid ""
+"The prices of the\n"
+"food are thoughtfully\n"
+"decided upon."
+msgstr ""
+
+#: .12512
+msgctxt ".12512"
+msgid ""
+"Listen until the\n"
+"customer is done\n"
+"and don't interrupt."
+msgstr ""
+
+#: .12568
+msgctxt ".12568"
+msgid ""
+"Listen until the\n"
+"customer is done\n"
+"and don't interrupt."
+msgstr ""
+
+#: .22072
+msgid "Tap the check box to proceed."
+msgstr ""
+
+#: .22104
+msgid ""
+"Before starting, let's\n"
+"review the procedure."
+msgstr ""

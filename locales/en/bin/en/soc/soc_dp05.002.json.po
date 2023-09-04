@@ -1,0 +1,123 @@
+#. extracted from translation/bin/en/soc/soc_dp05.002.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Grill Settings\n"
+"■Platen: 218°C/424°F\n"
+"■Grill: 177°C/351°F\n"
+"■Cooking Time:\n"
+"Roughly 38s"
+msgstr ""
+
+#: [1]
+msgid ""
+"Getting Ready\n"
+"■Prepare wet\n"
+"wipes.\n"
+"■Ask a manager\n"
+"about hygiene\n"
+"procedures."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cooking\n"
+"■Open the platen\n"
+"and take out the\n"
+"1/10th patties\n"
+"from the grill-\n"
+"side freezer."
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking\n"
+"■Put the patties\n"
+"on the grill from\n"
+"front to back,\n"
+"left to right."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cooking\n"
+"■Close the platen\n"
+"and wipe your\n"
+"hands with a wet\n"
+"wipe."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cooking\n"
+"■Prepare a UHC tray\n"
+"with a clean liner."
+msgstr ""
+
+#: [6]
+msgid ""
+"Cooking\n"
+"■When the platen\n"
+"opens, sprinkle\n"
+"seasoning on the\n"
+"patties."
+msgstr ""
+
+#: [7]
+msgid ""
+"Cooking\n"
+"■Remove patties\n"
+"from front to\n"
+"back, and put\n"
+"them onto the\n"
+"UHC tray."
+msgstr ""
+
+#: [8]
+msgid ""
+"Cooking\n"
+"■Do your part\n"
+"to prevent\n"
+"secondary\n"
+"contamination."
+msgstr ""
+
+#: [9]
+msgid ""
+"Cooking\n"
+"■Put them in the\n"
+"UHC and push the\n"
+"timer."
+msgstr ""
+
+#: [10]
+msgid ""
+"Cooking\n"
+"■Store the patties\n"
+"so that the\n"
+"temperature is at\n"
+"least 60°C/140°F."
+msgstr ""
+
+#: [11]
+msgid ""
+"Cooking\n"
+"■After you clean\n"
+"the grill and push\n"
+"the standby switch,\n"
+"wipe your hands\n"
+"with a wet wipe."
+msgstr ""

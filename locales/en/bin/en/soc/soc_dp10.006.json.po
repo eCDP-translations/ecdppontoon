@@ -1,0 +1,93 @@
+#. extracted from translation/bin/en/soc/soc_dp10.006.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Within 10-15s\n"
+"■From the time the customer\n"
+"arrives at the pick-up booth\n"
+"to the time you hand over\n"
+"the order, it should be\n"
+"10-15s."
+msgstr ""
+
+#: [1]
+msgid ""
+"Presenter\n"
+"■Check the order of assembly\n"
+"on the drive-thru monitor."
+msgstr ""
+
+#: [2]
+msgid ""
+"Presenter\n"
+"■Indicate the type of drink\n"
+"by pressing the right button\n"
+"on the lid."
+msgstr ""
+
+#: [3]
+msgid ""
+"Presenter\n"
+"■Hold the drinks in the middle\n"
+"of the cup instead of the lid."
+msgstr ""
+
+#: [4]
+msgid ""
+"Presenter\n"
+"■Greet the customer with a\n"
+"smile and hand over the orders."
+msgstr ""
+
+#: [5]
+msgid ""
+"Presenter\n"
+"■When handing\n"
+"over the bag,\n"
+"fold the top\n"
+"in half as\n"
+"shown."
+msgstr ""
+
+#: [6]
+msgid ""
+"Presenter\n"
+"■Hand the food over to the\n"
+"customer first, then give them\n"
+"the drinks when they are ready."
+msgstr ""
+
+#: [7]
+msgid ""
+"Presenter\n"
+"■When the order is completed,\n"
+"refresh the monitor."
+msgstr ""
+
+#: [8]
+msgid ""
+"Presenter\n"
+"■Organise your station and\n"
+"refill any stock you need."
+msgstr ""
+
+#: [9]
+msgid ""
+"Presenter\n"
+"■If an order is returned, even\n"
+"if it is fully wrapped/unopened,\n"
+"it cannot be reused or resold."
+msgstr ""

@@ -1,0 +1,87 @@
+#. extracted from translation/bin/en/soc/soc_dp05.006.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Grill Settings\n"
+"■Platen: 218°C/424°F\n"
+"■Grill: 177°C/351°F\n"
+"■Cooking Time:\n"
+"Roughly 80s"
+msgstr ""
+
+#: [1]
+msgid ""
+"Cooking\n"
+"■Open the platen\n"
+"and take out the\n"
+"teriyaki patties\n"
+"from the grill-\n"
+"side freezer."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cooking\n"
+"■Put the patties\n"
+"on the grill from\n"
+"front to back,\n"
+"left to right."
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking\n"
+"■Close the platen\n"
+"and prepare a\n"
+"UHC tray with a\n"
+"clean liner."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cooking\n"
+"■When the platen\n"
+"opens, remove the\n"
+"patties from\n"
+"front to back and\n"
+"put them on tray."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cooking\n"
+"■Put them in the\n"
+"UHC and press\n"
+"the timer.            "
+msgstr ""
+
+#: [6]
+msgid ""
+"Cooking\n"
+"■Store the patties\n"
+"so that the\n"
+"temperature is at\n"
+"least 60°C/140°F."
+msgstr ""
+
+#: [7]
+msgid ""
+"Cooking\n"
+"■Clean the grill\n"
+"and press the\n"
+"standby switch to\n"
+"close the platen."
+msgstr ""

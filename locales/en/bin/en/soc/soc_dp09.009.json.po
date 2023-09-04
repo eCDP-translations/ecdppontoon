@@ -1,0 +1,80 @@
+#. extracted from translation/bin/en/soc/soc_dp09.009.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Soft-Serve\n"
+"■It takes practice to be able\n"
+"to make soft-serve well.\n"
+"■Have experienced crew members\n"
+"show you how to make a soft-\n"
+"serve and get practice."
+msgstr ""
+
+#: [1]
+msgid ""
+"Disinfect Your Hands\n"
+"■Sterilise your hands with\n"
+"the McDonald's hand sanitiser."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cone Preparation\n"
+"■Remove the cone from the\n"
+"cone dispenser."
+msgstr ""
+
+#: [3]
+msgid ""
+"Bring The Cone Under Spout\n"
+"■Hold the cone with your\n"
+"fingers only. It makes it\n"
+"easier to turn the cone.                "
+msgstr ""
+
+#: [4]
+msgid ""
+"Pull Handle Forward All The Way\n"
+"■Idling time is over after the\n"
+"melted mix in the draw gate is\n"
+"removed from the spindle cup."
+msgstr ""
+
+#: [5]
+msgid ""
+"Put The Mix In The Cone\n"
+"■Wrap the ice cream along the\n"
+"edge of the cone."
+msgstr ""
+
+#: [6]
+msgid ""
+"Turn The Cone\n"
+"■Pour the mix into the rim of\n"
+"the cone in a circle that is\n"
+"roughly the same size as the\n"
+"circumference of the cone."
+msgstr ""
+
+#: [7]
+msgid ""
+"Raise The Handle & Serve\n"
+"■While lowering the hand with\n"
+"the cone, raise the handle\n"
+"with your other hand. This\n"
+"create the tall spiral above\n"
+"the cone."
+msgstr ""

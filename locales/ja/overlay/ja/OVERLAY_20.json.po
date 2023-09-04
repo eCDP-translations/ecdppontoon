@@ -1,0 +1,138 @@
+#. extracted from translation/overlay/ja/OVERLAY_20.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .19424
+msgid "並べる"
+msgstr ""
+
+#: .19432
+msgid "油をきる"
+msgstr ""
+
+#: .19444
+msgid "しましょう"
+msgstr ""
+
+#: .19456
+msgid "リムーブする"
+msgstr ""
+
+#: .19472
+msgid "バスケットを"
+msgstr ""
+
+#: .19488
+msgid "トレーに移す"
+msgstr ""
+
+#: .19504
+msgid "バスケットに"
+msgstr ""
+
+#: .19520
+msgid "５〜１０秒、"
+msgstr ""
+
+#: .19536
+msgid "バットに入れ"
+msgstr ""
+
+#: .19552
+msgid "ガードをする"
+msgstr ""
+
+#: .19568
+msgid "取り出します"
+msgstr ""
+
+#: .19584
+msgid "押してください"
+msgstr ""
+
+#: .19600
+msgid "バッグに入れる"
+msgstr ""
+
+#: .19616
+msgid "スイッチを押す"
+msgstr ""
+
+#: .19632
+msgid "パッケージング"
+msgstr ""
+
+#: .19648
+msgid "ＨＴタイマーを"
+msgstr ""
+
+#: .19664
+msgid "タイマーを押し"
+msgstr ""
+
+#: .19680
+msgid "ハッシュポテトを"
+msgstr ""
+
+#: .19700
+msgid "オイルに入れます"
+msgstr ""
+
+#: .19720
+msgid "ブザーが鳴ったら"
+msgstr ""
+
+#: .19740
+msgid "１枚ずつ入れます"
+msgstr ""
+
+#: .19760
+msgid "バスケットに入れ"
+msgstr ""
+
+#: .19780
+msgid "タイマーが鳴ったら"
+msgstr ""
+
+#: .19800
+msgid "１０分以内にサーブ"
+msgstr ""
+
+#: .19820
+msgid "油をきってください"
+msgstr ""
+
+#: .19864
+msgid "「早送り」を押して下さい"
+msgstr ""
+
+#: .19892
+msgid "十字キー左ボタンを押して下さい"
+msgstr ""
+
+#: .19924
+msgid "十字キー右ボタンを押して下さい"
+msgstr ""
+
+#: .19956
+msgid "バスケットを右にスライドして下さい"
+msgstr ""
+
+#: .19992
+msgid "バスケットを左にスライドして下さい"
+msgstr ""
+
+#: .20068
+msgid "バスケットをタッチしたまま、５〜１０秒間待つ"
+msgstr ""

@@ -1,0 +1,99 @@
+#. extracted from translation/bin/en/soc/soc_dp02.005.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Secondary Contamination\n"
+"■This happens when harmful\n"
+"micro-organisms move from raw\n"
+"to cooked food."
+msgstr ""
+
+#: [1]
+msgid ""
+"Secondary Contamination\n"
+"■This also occurs when harmful\n"
+"micro-organisms move to food\n"
+"that doesn't need to be\n"
+"cooked."
+msgstr ""
+
+#: [2]
+msgid ""
+"Secondary Contamination\n"
+"■This picture\n"
+"shows how it\n"
+"happens."
+msgstr ""
+
+#: [3]
+msgid ""
+"Secondary Contamination\n"
+"■Wipe your hands with wet wipes\n"
+"or wash your hands with soap\n"
+"immediately after handling\n"
+"raw food."
+msgstr ""
+
+#: [4]
+msgid ""
+"Chemical Contamination\n"
+"■If food is contaminated\n"
+"by chemicals, it makes\n"
+"it unsafe."
+msgstr ""
+
+#: [5]
+msgid ""
+"Chemical Contamination\n"
+"■Improper usage and storage\n"
+"of chemicals can cause food\n"
+"contamination."
+msgstr ""
+
+#: [6]
+msgid ""
+"Chemical Contamination\n"
+"■Don't use sprays\n"
+"other than the\n"
+"McDonald's\n"
+"alcohol around\n"
+"food,"
+msgstr ""
+
+#: [7]
+msgid ""
+"Foreign-Matter Contamination\n"
+"■It is very dangerous if metal\n"
+"or plastic piece get mixed in\n"
+"with food."
+msgstr ""
+
+#: [8]
+msgid ""
+"Foreign-Matter Contamination\n"
+"■Don't create a scenario\n"
+"where foreign materials can\n"
+"enter the food."
+msgstr ""
+
+#: [9]
+msgid ""
+"What is Secondary Shelf Life?\n"
+"■This is the amount of time from\n"
+"when an ingredient is taken out\n"
+"of the freezer or refrigerator\n"
+"to when it is actually used."
+msgstr ""

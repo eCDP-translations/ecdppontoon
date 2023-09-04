@@ -1,0 +1,170 @@
+#. extracted from translation/bin/en/soc/soc_dp09.004.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Within 12-16s\n"
+"■From the time the last\n"
+"sandwich is placed on the HLZ,\n"
+"it should be within 12-16s to\n"
+"when they are all served."
+msgstr ""
+
+#: [1]
+msgid ""
+"Runner\n"
+"■The runner should check the\n"
+"order by looking at the\n"
+"monitor."
+msgstr ""
+
+#: [2]
+msgid ""
+"Runner\n"
+"■Assemble the order according\n"
+"to the instructions.\n"
+"■Assemble drinks first, then\n"
+"assemble the food."
+msgstr ""
+
+#: [3]
+msgid ""
+"Runner\n"
+"■When adding ice to a drink,\n"
+"only use the scoop.\n"
+"■Don't touch ice with your\n"
+"bare hands."
+msgstr ""
+
+#: [4]
+msgid ""
+"Runner\n"
+"■Put ice in\n"
+"the iced-tea\n"
+"cup up to the\n"
+"2nd line from\n"
+"the bottom."
+msgstr ""
+
+#: [5]
+msgid ""
+"Runner\n"
+"■Put ice in\n"
+"the soda cup\n"
+"up to the 1st\n"
+"line from\n"
+"the bottom."
+msgstr ""
+
+#: [6]
+msgid ""
+"Runner\n"
+"■Cover all the\n"
+"drinks with\n"
+"lids and make\n"
+"sure they are\n"
+"stored safely."
+msgstr ""
+
+#: [7]
+msgid ""
+"Runner\n"
+"■Don't use cold drinks who have\n"
+"damp cups, as this means they\n"
+"have been out too long."
+msgstr ""
+
+#: [8]
+msgid ""
+"Runner\n"
+"■Make sure that the french fries\n"
+"are crispy, salty, golden brown,\n"
+"and served within 7m of being\n"
+"made."
+msgstr ""
+
+#: [9]
+msgid ""
+"Runner\n"
+"■Only assemble orders if all of\n"
+"their components are ready at\n"
+"the same time."
+msgstr ""
+
+#: [10]
+msgid ""
+"Runner\n"
+"■Soft serve is\n"
+"always served\n"
+"with the paper\n"
+"on the cone."
+msgstr ""
+
+#: [11]
+msgid ""
+"Runner\n"
+"■Arrange the\n"
+"items on the\n"
+"tray like so,\n"
+"or choose the\n"
+"right size bag."
+msgstr ""
+
+#: [12]
+msgid ""
+"Runner\n"
+"■If using bags,\n"
+"fold the top\n"
+"in half life\n"
+"shown before\n"
+"giving it."
+msgstr ""
+
+#: [13]
+msgid ""
+"Runner\n"
+"■For takeaway,\n"
+"arrange like\n"
+"shown."
+msgstr ""
+
+#: [14]
+msgid ""
+"Runner\n"
+"■If there is one\n"
+"sundae, put it in\n"
+"the bag with a\n"
+"spoon. Use a tray\n"
+"for 3+ sundaes."
+msgstr ""
+
+#: [15]
+msgid ""
+"Runner\n"
+"■If the order gets cancelled\n"
+"or a wrong item is set, you\n"
+"can't reuse those items even\n"
+"if they haven't been opened."
+msgstr ""
+
+#: [16]
+msgid ""
+"Runner\n"
+"■Arrange all the items neatly.\n"
+"Put fries between sandwiches\n"
+"and pies. This keeps them hot\n"
+"and prevents them from falling\n"
+"out of the bag."
+msgstr ""

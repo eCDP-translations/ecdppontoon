@@ -1,0 +1,32 @@
+#. extracted from translation/bin/en/soc/soc_ap050406.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■Do not touch the platen.\n"
+"■Apply seasoning in a reverse\n"
+"S shape (zigzag) from front\n"
+"to back."
+msgstr ""
+
+#: [1]
+msgid ""
+"■Make sure the seasoning is not\n"
+"below the refill line in the\n"
+"dispenser.\n"
+"■If the amount is below the\n"
+"refill line, it may use double\n"
+"the amount it should."
+msgstr ""

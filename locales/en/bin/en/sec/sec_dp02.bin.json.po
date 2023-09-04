@@ -1,0 +1,244 @@
+#. extracted from translation/bin/en/sec/sec_dp02.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"If a customer spills a drink\n"
+"we replace it [      ]."
+msgstr ""
+
+#: [1]
+msgid "For free"
+msgstr ""
+
+#: [2]
+msgid "At full price"
+msgstr ""
+
+#: [3]
+msgid "At half price "
+msgstr ""
+
+#: [4]
+msgid "Next time they come"
+msgstr ""
+
+#: [5]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"The [      ] are created\n"
+"with politeness and\n"
+"consideration."
+msgstr ""
+
+#: [6]
+msgid "Food Prices"
+msgstr ""
+
+#: [7]
+msgid "Broken Equipment"
+msgstr ""
+
+#: [8]
+msgid "Oil Build-Up"
+msgstr ""
+
+#: [9]
+msgid "Sales Taxes"
+msgstr ""
+
+#: [10]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"We change out the tray bins\n"
+"by the guest seating [　　　]."
+msgstr ""
+
+#: [11]
+msgid "Every 30m"
+msgstr ""
+
+#: [12]
+msgid "Every 60m"
+msgstr ""
+
+#: [13]
+msgid "Morning & Afternoon"
+msgstr ""
+
+#: [14]
+msgid "At least once a day"
+msgstr ""
+
+#: [15]
+msgid ""
+"When mopping the floor,\n"
+"what do you use?"
+msgstr ""
+
+#: [16]
+msgid "Wet Floor Sign"
+msgstr ""
+
+#: [17]
+msgid "Antibacterial Wet Wipes"
+msgstr ""
+
+#: [18]
+msgid "Face Shield"
+msgstr ""
+
+#: [19]
+msgid "Pack Liner"
+msgstr ""
+
+#: [20]
+msgid ""
+"What colour is the cloth\n"
+"used to wipe the chairs?"
+msgstr ""
+
+#: [21]
+msgid "Green"
+msgstr ""
+
+#: [22]
+msgid "Pink"
+msgstr ""
+
+#: [23]
+msgid "White"
+msgstr ""
+
+#: [24]
+msgid "It doesn't matter"
+msgstr ""
+
+#: [25]
+msgid ""
+"How often do you check the\n"
+"bathroom at peak time?"
+msgstr ""
+
+#: [26]
+msgid "Every １５m"
+msgstr ""
+
+#: [27]
+msgid "Every ３０m"
+msgstr ""
+
+#: [28]
+msgid "Every ６０m"
+msgstr ""
+
+#: [29]
+msgid "Every ９０m"
+msgstr ""
+
+#: [30]
+msgid ""
+"When taking out the trash,\n"
+"what should you do?"
+msgstr ""
+
+#: [31]
+msgid "Don't drag it"
+msgstr ""
+
+#: [32]
+msgid "Wear a face shield"
+msgstr ""
+
+#: [33]
+msgid "Make the rookies do it"
+msgstr ""
+
+#: [34]
+msgid "Handle it roughly"
+msgstr ""
+
+#: [35]
+msgid ""
+"Which of the following are\n"
+"NOT checked in bathrooms?"
+msgstr ""
+
+#: [36]
+msgid "The Ledges"
+msgstr ""
+
+#: [37]
+msgid "McDonald's Wet Wipes"
+msgstr ""
+
+#: [38]
+msgid "Toilet Paper"
+msgstr ""
+
+#: [39]
+msgid "The Smell"
+msgstr ""
+
+#: [40]
+msgid ""
+"What must be done when you\n"
+"clean the store's outside?"
+msgstr ""
+
+#: [41]
+msgid "Pick up trash you see"
+msgstr ""
+
+#: [42]
+msgid "Clean the toilets"
+msgstr ""
+
+#: [43]
+msgid "Refill the hand soap"
+msgstr ""
+
+#: [44]
+msgid "Adjust the temperature"
+msgstr ""
+
+#: [45]
+msgid ""
+"Which of the following do\n"
+"you do when mopping floors?"
+msgstr ""
+
+#: [46]
+msgid "Separate kitchen & lobby"
+msgstr ""
+
+#: [47]
+msgid "Separate morning & afternoon"
+msgstr ""
+
+#: [48]
+msgid "Store it in disinfectant"
+msgstr ""
+
+#: [49]
+msgid "Use it to clean windows"
+msgstr ""

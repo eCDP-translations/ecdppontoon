@@ -1,0 +1,368 @@
+#. extracted from translation/overlay/en/OVERLAY_6.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .174436
+msgid "Connecting..."
+msgstr ""
+
+#: .174488
+msgid "Begin log-in"
+msgstr ""
+
+#: .174504
+msgid "Initialising download..."
+msgstr ""
+
+#: .174532
+msgid "Getting file number..."
+msgstr ""
+
+#: .174568
+msgid "Getting file list..."
+msgstr ""
+
+#: .174596
+msgid "Download %d %"
+msgstr ""
+
+#: .174616
+msgid "Download finishing..."
+msgstr ""
+
+#: .174640
+msgid "Disconnecting..."
+msgstr ""
+
+#: .174656
+msgid "Disconnected"
+msgstr ""
+
+#: .174684
+msgid "Please turn off the power."
+msgstr ""
+
+#: .174712
+msgid "Exit Error"
+msgstr ""
+
+#: .174724
+msgid "Yes"
+msgstr ""
+
+#: .174732
+msgid "No"
+msgstr ""
+
+#: .174972
+msgid "Connection Settings"
+msgstr ""
+
+#: .174984
+msgid "Send Progress Data"
+msgstr ""
+
+#: .175124
+msgid "Change the Wi-Fi connection options."
+msgstr ""
+
+#: .175220
+msgid "Send the crew progress data."
+msgstr ""
+
+#: .175248
+msgid "Are you sure you want to update?"
+msgstr ""
+
+#: .175284
+msgid ""
+"This will send progress data of the crews.\n"
+"Connect to the Wi-Fi network?"
+msgstr ""
+
+#: .175352
+msgid ""
+"This will update the SOC guides.\n"
+"Connect to the Wi-Fi network?"
+msgstr ""
+
+#: .175420
+msgid ""
+"Wi-Fi connection treats card\n"
+"and the DS as a set.\n"
+"Want to save the Wi-Fi user\n"
+"information of the DS to card\n"
+"and connect?"
+msgstr ""
+
+#: .175588
+msgid ""
+"Wi-Fi connection failed because\n"
+"user information on DS\n"
+"and card are different.\n"
+"　\n"
+"Would you like to update\n"
+"the user information?\n"
+"Updating user information\n"
+"will erase any previos data\n"
+"used over Wi-Fi connection."
+msgstr ""
+
+#: .175872
+msgid ""
+"Last sent at:\n"
+"%04d/%02d/%02d %02d:%02d"
+msgstr ""
+
+#: .175920
+msgid "Finished sending."
+msgstr ""
+
+#: .176036
+msgid "Logging in..."
+msgstr ""
+
+#: .176252
+msgid "Sending rankings..."
+msgstr ""
+
+#: .176284
+msgid "Receiving rankings..."
+msgstr ""
+
+#: .176316
+msgid "Getting top list..."
+msgstr ""
+
+#: .176348
+msgid "Disconnected from Wi-Fi."
+msgstr ""
+
+#: .176392
+msgid "Disconnecting from Wi-Fi..."
+msgstr ""
+
+#: .176436
+msgid ""
+"Connected to Wi-Fi.\n"
+"Please wait..."
+msgstr ""
+
+#: .176504
+msgid ""
+"Saved Wi-Fi user information\n"
+"to this DS and card.\n"
+"From now on, use this\n"
+"DS for Wi-Fi connection."
+msgstr ""
+
+#: .176668
+msgid "McDonald"
+msgstr ""
+
+#: .176684
+msgid ""
+"An error occurred.\n"
+"Wi-Fi connection failed.\n"
+"Please turn off power and try again."
+msgstr ""
+
+#: .176792
+msgid "Error Code (%d)"
+msgstr ""
+
+#: .176812
+msgctxt ".176812"
+".176812"
+".176812"
+".176812"
+".176812"
+msgid "Communication error."
+msgstr ""
+
+#: .176840
+msgid ""
+"No response from other party.\n"
+"They may not be connected\n"
+"or the registration may\n"
+"not be in their friend list."
+msgstr ""
+
+#: .176976
+msgctxt ".176976"
+msgid "Communication error."
+msgstr ""
+
+#: .177004
+msgid "Download failed."
+msgstr ""
+
+#: .177036
+msgctxt ".177036"
+msgid "Communication error."
+msgstr ""
+
+#: .177064
+msgid ""
+"Connection failed\n"
+"because Wi-Fi connection\n"
+"is busy or service is down.\n"
+"Please wait and try again."
+msgstr ""
+
+#: .177184
+msgid ""
+"Your Wi-Fi Connection ID was\n"
+"removed due to inactivity.\n"
+"Please see guidebook for more."
+msgstr ""
+
+#: .177296
+msgid ""
+"The Wi-Fi connection\n"
+"service for this\n"
+"software has ended.\n"
+"Thank you for using it."
+msgstr ""
+
+#: .177384
+msgid ""
+"Unable to make connection.\n"
+"Refer to guidebook for details."
+msgstr ""
+
+#: .177460
+msgctxt ".177460"
+msgid "Communication error."
+msgstr ""
+
+#: .177488
+msgctxt ".177488"
+msgid "Communication error."
+msgstr ""
+
+#: .177516
+msgid ""
+"Access point not found.\n"
+"Please move closer\n"
+"and try again."
+msgstr ""
+
+#: .177608
+msgid ""
+"You must agree to terms of use.\n"
+"Agree to terms of use\n"
+"in the device settings."
+msgstr ""
+
+#: .177684
+msgid ""
+"Wireless communication is off.\n"
+"Turn on wireless communication\n"
+"in the device settings."
+msgstr ""
+
+#: .177768
+msgid ""
+"Could not connect to\n"
+"Nintendo Wi-Fi USB connector.\n"
+"Check the USB connector\n"
+"and check the connection in\n"
+"the Wi-Fi connection settings."
+msgstr ""
+
+#: .177896
+msgid ""
+"No connectable access\n"
+"point was found.\n"
+"Check the connection destination\n"
+"in the Wi-Fi connection settings."
+msgstr ""
+
+#: .178000
+msgid ""
+"Cannot connect because\n"
+"access points are crowded.\n"
+"Please wait and try again."
+msgstr ""
+
+#: .178092
+msgid ""
+"Wi-Fi connection failed.\n"
+"Check the connection destination\n"
+"in the Wi-Fi connection settings."
+msgstr ""
+
+#: .178184
+msgid ""
+"Wi-Fi connection failed.\n"
+"Check the guidebook\n"
+"for details."
+msgstr ""
+
+#: .178260
+msgctxt ".178260"
+msgid "Communication error."
+msgstr ""
+
+#: .178536
+msgid "1st"
+msgstr ""
+
+#: .178548
+msgid ""
+"Top 10 Crews\n"
+"& Your Ranking"
+msgstr ""
+
+#: .178584
+msgid "Top 10 Crews"
+msgstr ""
+
+#: .178608
+msgid "Your place out of %d:"
+msgstr ""
+
+#: .178628
+msgid "Score: %4d"
+msgstr ""
+
+#: .178644
+msgctxt ".178644"
+msgid ""
+msgstr ""
+
+#: .178648
+msgid "Data of %04d/%02d/%02d %02d:%02d"
+msgstr ""
+
+#: .178688
+msgid "No ranking data received."
+msgstr ""
+
+#: .178736
+msgid "Settings saved."
+msgstr ""
+
+#: .179024
+msgid ""
+"The game will only connect\n"
+"in a Nintendo zone."
+msgstr ""
+
+#: .179072
+msgid ""
+"The game will connect in\n"
+"any access points."
+msgstr ""

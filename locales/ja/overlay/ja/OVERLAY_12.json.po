@@ -1,0 +1,43 @@
+#. extracted from translation/overlay/ja/OVERLAY_12.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .6980
+msgid "１０問のテストに挑戦 ！"
+msgstr ""
+
+#: .7080
+msgid "第　　　問"
+msgstr ""
+
+#: .7096
+msgid ""
+"さあ、次のステージに\n"
+"チャレンジしよう ！"
+msgstr ""
+
+#: .7140
+msgid ""
+"うーん、残念・・\n"
+"eCDP を見直して\n"
+"再チャレンジしよう ！"
+msgstr ""
+
+#: .7196
+msgid "もう一度受ける"
+msgstr ""
+
+#: .7212
+msgid "終了"
+msgstr ""

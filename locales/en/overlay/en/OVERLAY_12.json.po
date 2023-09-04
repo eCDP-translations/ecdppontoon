@@ -1,0 +1,42 @@
+#. extracted from translation/overlay/en/OVERLAY_12.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .6980
+msgid "Challenge the 10-Question Test!"
+msgstr ""
+
+#: .7080
+msgid "Q　　　"
+msgstr ""
+
+#: .7096
+msgid ""
+"Here we go!\n"
+"Let's challenge the next stage!"
+msgstr ""
+
+#: .7140
+msgid ""
+"Hmmm, sorry...\n"
+"Let's study more and then try again!"
+msgstr ""
+
+#: .7196
+msgid "Try Again"
+msgstr ""
+
+#: .7212
+msgid "Finish"
+msgstr ""

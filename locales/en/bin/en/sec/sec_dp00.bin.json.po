@@ -1,0 +1,248 @@
+#. extracted from translation/bin/en/sec/sec_dp00.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Where do the uncooked\n"
+"french fries go?"
+msgstr ""
+
+#: [1]
+msgid "Potato Freezer"
+msgstr ""
+
+#: [2]
+msgid "Refrigerator"
+msgstr ""
+
+#: [3]
+msgid "Warehouse"
+msgstr ""
+
+#: [4]
+msgid "Meat Freezer"
+msgstr ""
+
+#: [5]
+msgid ""
+"During high sales, how is\n"
+"1 bag of potatoes divided?"
+msgstr ""
+
+#: [6]
+msgid "Into 4's"
+msgstr ""
+
+#: [7]
+msgid "Into 3's"
+msgstr ""
+
+#: [8]
+msgid "Into 6's"
+msgstr ""
+
+#: [9]
+msgid "Into 8's"
+msgstr ""
+
+#: [10]
+msgid ""
+"What temperature is the\n"
+"frier when cooking potatoes?"
+msgstr ""
+
+#: [11]
+msgid "168°C/334°F"
+msgstr ""
+
+#: [12]
+msgid "166°C/331°F"
+msgstr ""
+
+#: [13]
+msgid "178°C/352°F"
+msgstr ""
+
+#: [14]
+msgid "182°C/360°F"
+msgstr ""
+
+#: [15]
+msgid ""
+"How long does it take to\n"
+"cook the potatoes in a\n"
+"full vat?"
+msgstr ""
+
+#: [16]
+msgid "2m 55s ± 5s"
+msgstr ""
+
+#: [17]
+msgid "2m 45s ± 5s"
+msgstr ""
+
+#: [18]
+msgid "3m ± 5s"
+msgstr ""
+
+#: [19]
+msgid "3m 15s ± 5s"
+msgstr ""
+
+#: [20]
+msgid ""
+"When you put more potatoes\n"
+"into the same vat, how\n"
+"long should you wait in\n"
+"between baskets?"
+msgstr ""
+
+#: [21]
+msgid "More than 30s"
+msgstr ""
+
+#: [22]
+msgid "More than 10s"
+msgstr ""
+
+#: [23]
+msgid "More than 20s"
+msgstr ""
+
+#: [24]
+msgid "You don't have to wait"
+msgstr ""
+
+#: [25]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"If a potato falls, use\n"
+"[      ] to pick it up."
+msgstr ""
+
+#: [26]
+msgid "Big Tongs"
+msgstr ""
+
+#: [27]
+msgid "Bagging Scoop"
+msgstr ""
+
+#: [28]
+msgid "Your hands"
+msgstr ""
+
+#: [29]
+msgid "Potato Bag"
+msgstr ""
+
+#: [30]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"When putting on salt, make\n"
+"a [      ] when shaking."
+msgstr ""
+
+#: [31]
+msgid "Triple Arch"
+msgstr ""
+
+#: [32]
+msgid "McDonald's M"
+msgstr ""
+
+#: [33]
+msgid "Single Arch"
+msgstr ""
+
+#: [34]
+msgid "Circle"
+msgstr ""
+
+#: [35]
+msgid ""
+"What do customers NOT\n"
+"expect their french fries\n"
+"to be?"
+msgstr ""
+
+#: [36]
+msgid "Cold when eaten"
+msgstr ""
+
+#: [37]
+msgid "Fresh and piping hot"
+msgstr ""
+
+#: [38]
+msgid "Salted just right"
+msgstr ""
+
+#: [39]
+msgid "In full bags"
+msgstr ""
+
+#: [40]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"When filtering oil,\n"
+"be sure to wear an\n"
+"apron, gloves and [      ]."
+msgstr ""
+
+#: [41]
+msgid "Face Shield"
+msgstr ""
+
+#: [42]
+msgid "Stopwatch"
+msgstr ""
+
+#: [43]
+msgid "Visor"
+msgstr ""
+
+#: [44]
+msgid "Sweater"
+msgstr ""
+
+#: [45]
+msgid ""
+"Which is NOT one of the\n"
+"six enemies of oil?"
+msgstr ""
+
+#: [46]
+msgid "Nutrients"
+msgstr ""
+
+#: [47]
+msgid "Carbon build-up"
+msgstr ""
+
+#: [48]
+msgid "Heat"
+msgstr ""
+
+#: [49]
+msgid "Salt"
+msgstr ""

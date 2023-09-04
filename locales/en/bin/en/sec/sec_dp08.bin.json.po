@@ -1,0 +1,246 @@
+#. extracted from translation/bin/en/sec/sec_dp08.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"How long is the prep time\n"
+"for one order?"
+msgstr ""
+
+#: [1]
+msgid "35s - 50s"
+msgstr ""
+
+#: [2]
+msgid "Within 60s"
+msgstr ""
+
+#: [3]
+msgid "At least 50s"
+msgstr ""
+
+#: [4]
+msgid "60s - 90s"
+msgstr ""
+
+#: [5]
+msgid ""
+"How many items can one\n"
+"person assemble?"
+msgstr ""
+
+#: [6]
+msgid "Up to 2"
+msgstr ""
+
+#: [7]
+msgid "Up to 3"
+msgstr ""
+
+#: [8]
+msgid "Up to 4"
+msgstr ""
+
+#: [9]
+msgid "Only 1"
+msgstr ""
+
+#: [10]
+msgid ""
+"What do the customers\n"
+"NOT expect their\n"
+"sandwiches to be?"
+msgstr ""
+
+#: [11]
+msgid "Dry"
+msgstr ""
+
+#: [12]
+msgid "Warm"
+msgstr ""
+
+#: [13]
+msgid "Safe"
+msgstr ""
+
+#: [14]
+msgid "Fresh"
+msgstr ""
+
+#: [15]
+msgid ""
+"Which of the following is\n"
+"NOT important for sandwich\n"
+"operations?"
+msgstr ""
+
+#: [16]
+msgid "Forcefulness"
+msgstr ""
+
+#: [17]
+msgid "Speed"
+msgstr ""
+
+#: [18]
+msgid "Beauty"
+msgstr ""
+
+#: [19]
+msgid "Politeness"
+msgstr ""
+
+#: [20]
+msgid ""
+"After the initiator puts\n"
+"the buns in the toaster,\n"
+"what happens next?"
+msgstr ""
+
+#: [21]
+msgid "Prepare wraps & boxes"
+msgstr ""
+
+#: [22]
+msgid "Put in another bun"
+msgstr ""
+
+#: [23]
+msgid "Clean up"
+msgstr ""
+
+#: [24]
+msgid "Press the bump key"
+msgstr ""
+
+#: [25]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"The prep table should\n"
+"always be [      ]."
+msgstr ""
+
+#: [26]
+msgid "Hygienic"
+msgstr ""
+
+#: [27]
+msgid "Sturdy"
+msgstr ""
+
+#: [28]
+msgid "Healthy"
+msgstr ""
+
+#: [29]
+msgid "Powerful"
+msgstr ""
+
+#: [30]
+msgid ""
+"Which of the following\n"
+"is important for all\n"
+"positions?"
+msgstr ""
+
+#: [31]
+msgid "Don't leave without asking"
+msgstr ""
+
+#: [32]
+msgid "Leave whenever you want"
+msgstr ""
+
+#: [33]
+msgid "Politeness is optional"
+msgstr ""
+
+#: [34]
+msgid "Only speed is important"
+msgstr ""
+
+#: [35]
+msgid ""
+"What is the\n"
+"name of the\n"
+"machine\n"
+"that stores\n"
+"raw stock?"
+msgstr ""
+
+#: [36]
+msgid "UHC"
+msgstr ""
+
+#: [37]
+msgid "Stocker"
+msgstr ""
+
+#: [38]
+msgid "KVS"
+msgstr ""
+
+#: [39]
+msgid "POS"
+msgstr ""
+
+#: [40]
+msgid ""
+"What is the secondary\n"
+"shelf life of lettuce\n"
+"on the prep table?"
+msgstr ""
+
+#: [41]
+msgid "2h"
+msgstr ""
+
+#: [42]
+msgid "30m"
+msgstr ""
+
+#: [43]
+msgid "60m"
+msgstr ""
+
+#: [44]
+msgid "90m"
+msgstr ""
+
+#: [45]
+msgid ""
+"What is the holding time\n"
+"of the 10:1 patties in\n"
+"the UHC?"
+msgstr ""
+
+#: [46]
+msgid "15m"
+msgstr ""
+
+#: [47]
+msgid "20m"
+msgstr ""
+
+#: [48]
+msgid "25m"
+msgstr ""
+
+#: [49]
+msgid "10m"
+msgstr ""

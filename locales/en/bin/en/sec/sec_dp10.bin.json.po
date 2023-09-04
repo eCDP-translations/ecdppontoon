@@ -1,0 +1,264 @@
+#. extracted from translation/bin/en/sec/sec_dp10.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"How long should it take\n"
+"to greet the customer\n"
+"at the counter and\n"
+"give them the order?"
+msgstr ""
+
+#: [1]
+msgctxt "[1]"
+msgid "Within 90s"
+msgstr ""
+
+#: [2]
+msgctxt "[2]"
+msgid "Within 120s"
+msgstr ""
+
+#: [3]
+msgctxt "[3]"
+msgid "Within 3m"
+msgstr ""
+
+#: [4]
+msgid "Within 3m 30s"
+msgstr ""
+
+#: [5]
+msgid ""
+"How long should it take\n"
+"to hand over the order\n"
+"after telling the\n"
+"customer its price?"
+msgstr ""
+
+#: [6]
+msgctxt "[6]"
+msgid "Within 60s"
+msgstr ""
+
+#: [7]
+msgctxt "[7]"
+msgid "Within 90s"
+msgstr ""
+
+#: [8]
+msgctxt "[8]"
+msgid "Within 120s"
+msgstr ""
+
+#: [9]
+msgctxt "[9]"
+msgid "Within 3m"
+msgstr ""
+
+#: [10]
+msgid ""
+"What do you do first\n"
+"when serving customers?"
+msgstr ""
+
+#: [11]
+msgid "Greet them"
+msgstr ""
+
+#: [12]
+msgid "Take their order"
+msgstr ""
+
+#: [13]
+msgid "Make their order"
+msgstr ""
+
+#: [14]
+msgid "Take their payment"
+msgstr ""
+
+#: [15]
+msgid ""
+"How much time should it\n"
+"take to get the order\n"
+"and then say the price?"
+msgstr ""
+
+#: [16]
+msgid "20s - 25s"
+msgstr ""
+
+#: [17]
+msgctxt "[17]"
+msgid "Within 60s"
+msgstr ""
+
+#: [18]
+msgid "Within 30s"
+msgstr ""
+
+#: [19]
+msgid "Within 45s"
+msgstr ""
+
+#: [20]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"When making soft drinks,\n"
+"add the ice [　　　　]."
+msgstr ""
+
+#: [21]
+msgid "From bottom to line 1"
+msgstr ""
+
+#: [22]
+msgid "From bottom to line 2"
+msgstr ""
+
+#: [23]
+msgid "From bottom to line 3"
+msgstr ""
+
+#: [24]
+msgid "To wherever you want"
+msgstr ""
+
+#: [25]
+msgid ""
+"\"Taking payment\" is which\n"
+"step in the six-step\n"
+"counter procedure?"
+msgstr ""
+
+#: [26]
+msgctxt "[26]"
+msgid "Step 3"
+msgstr ""
+
+#: [27]
+msgctxt "[27]"
+msgid "Step 4"
+msgstr ""
+
+#: [28]
+msgctxt "[28]"
+msgid "Step 2"
+msgstr ""
+
+#: [29]
+msgctxt "[29]"
+msgid "Step 5"
+msgstr ""
+
+#: [30]
+msgid ""
+"What should you NOT do\n"
+"when serving customers?"
+msgstr ""
+
+#: [31]
+msgid "Talk too quickly"
+msgstr ""
+
+#: [32]
+msgid "Greet with a smile"
+msgstr ""
+
+#: [33]
+msgid "Be friendly"
+msgstr ""
+
+#: [34]
+msgid "Make eye contact"
+msgstr ""
+
+#: [35]
+msgid ""
+"\"Making the order\" is\n"
+"which step in the six-\n"
+"step counter procedure?"
+msgstr ""
+
+#: [36]
+msgctxt "[36]"
+msgid "Step 4"
+msgstr ""
+
+#: [37]
+msgctxt "[37]"
+msgid "Step 3"
+msgstr ""
+
+#: [38]
+msgctxt "[38]"
+msgid "Step 2"
+msgstr ""
+
+#: [39]
+msgctxt "[39]"
+msgid "Step 5"
+msgstr ""
+
+#: [40]
+msgid ""
+"What do the customers\n"
+"NOT expect the cold\n"
+"desserts to be?"
+msgstr ""
+
+#: [41]
+msgid "Piping Hot"
+msgstr ""
+
+#: [42]
+msgid "Safe"
+msgstr ""
+
+#: [43]
+msgid "Creamy & Unmelted"
+msgstr ""
+
+#: [44]
+msgid "Good-Looking"
+msgstr ""
+
+#: [45]
+msgid ""
+"Choose the word that best\n"
+"fits in the [      ].\n"
+"\n"
+"Takeaway fries are put\n"
+"into the bag [      ]."
+msgstr ""
+
+#: [46]
+msgid "Upright"
+msgstr ""
+
+#: [47]
+msgid "Sideways"
+msgstr ""
+
+#: [48]
+msgid "Packed tightly"
+msgstr ""
+
+#: [49]
+msgid "Forcibly"
+msgstr ""

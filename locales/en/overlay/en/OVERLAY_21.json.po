@@ -1,0 +1,126 @@
+#. extracted from translation/overlay/en/OVERLAY_21.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .21896
+msgid "Spray on"
+msgstr ""
+
+#: .21536
+msgid "the oil."
+msgstr ""
+
+#: .21804
+msgid "Spray 2-3 shots"
+msgstr ""
+
+#: .21772
+msgid "of the oil."
+msgstr ""
+
+#: .21552
+msgid "Break the eggs."
+msgstr ""
+
+#: .21692
+msgid "Don't get empty"
+msgstr ""
+
+#: .21956
+msgid "shell pieces in it."
+msgstr ""
+
+#: .21836
+msgid "Don't forget to"
+msgstr ""
+
+#: .21660
+msgid "wipe your hands!"
+msgstr ""
+
+#: .21612
+msgid "Wipe your hands!"
+msgstr ""
+
+#: .21588
+msgid "Twist the yolk."
+msgstr ""
+
+#: .21544
+msgid "Twist yolk with"
+msgstr ""
+
+#: .21708
+msgid "the yellow spatula."
+msgstr ""
+
+#: .21724
+msgid "Add hot water"
+msgstr ""
+
+#: .21740
+msgid "& press switch."
+msgstr ""
+
+#: .21576
+msgid "Are you using"
+msgstr ""
+
+#: .21856
+msgid "lukewarm water?"
+msgstr ""
+
+#: .21876
+msgid "Prepare the tray."
+msgstr ""
+
+#: .21756
+msgid "Prepare the"
+msgstr ""
+
+#: .21600
+msgid "UHC tray."
+msgstr ""
+
+#: .21644
+msgid "Remove the"
+msgstr ""
+
+#: .21628
+msgid "top ring."
+msgstr ""
+
+#: .21936
+msgid "Is the yolk cooked"
+msgstr ""
+
+#: .21820
+msgid "and not all runny?"
+msgstr ""
+
+#: .21788
+msgid "Press the timer"
+msgstr ""
+
+#: .21564
+msgid "and store it."
+msgstr ""
+
+#: .21676
+msgid "Put in the UHC"
+msgstr ""
+
+#: .21916
+msgid "and push the timer."
+msgstr ""

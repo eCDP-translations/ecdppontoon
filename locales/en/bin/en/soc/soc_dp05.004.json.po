@@ -1,0 +1,134 @@
+#. extracted from translation/bin/en/soc/soc_dp05.004.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Grill Settings\n"
+"■Platen: 218°C/424°F\n"
+"■Grill: 177°C/351°F\n"
+"■Cooking Time:\n"
+"Ask the manager"
+msgstr ""
+
+#: [1]
+msgid ""
+"Getting Ready\n"
+"■Prepare wet\n"
+"wipes.\n"
+"■Ask manager\n"
+"about hygiene\n"
+"procedures."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cooking\n"
+"■Open the platen\n"
+"and take out the\n"
+"1/4th patties from\n"
+"the grill-side\n"
+"freezer."
+msgstr ""
+
+#: [3]
+msgid ""
+"Cooking\n"
+"■Put the 1/4th\n"
+"patty in the\n"
+"grill from front\n"
+"to back."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cooking\n"
+"■Close the platen\n"
+"and wipe off your\n"
+"hands with wet\n"
+"wipes."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cooking\n"
+"■Place the UHC liner\n"
+"on the 1/3 tray in\n"
+"the UHC and hang it\n"
+"on the grill clip."
+msgstr ""
+
+#: [6]
+msgid ""
+"Cooking\n"
+"■When the platen\n"
+"opens, sprinkle\n"
+"seasoning on the\n"
+"1/4th patties as\n"
+"shown."
+msgstr ""
+
+#: [7]
+msgid ""
+"Cooking\n"
+"■Remove the 1/4th patties from\n"
+"front to back and put them on\n"
+"the UHC tray."
+msgstr ""
+
+#: [8]
+msgid ""
+"Cooking\n"
+"■Do your part\n"
+"to prevent\n"
+"secondary\n"
+"contamination."
+msgstr ""
+
+#: [9]
+msgid ""
+"Cooking\n"
+"■Put the patties in the UHC\n"
+"and press the timer."
+msgstr ""
+
+#: [10]
+msgid ""
+"Cooking\n"
+"■Store the 1/4th\n"
+"patties so the\n"
+"temperature is\n"
+"at least 60°C/\n"
+"140°F."
+msgstr ""
+
+#: [11]
+msgid ""
+"Cooking\n"
+"■After cleaning the\n"
+"grill and pressing\n"
+"the standby switch,\n"
+"wipe your hands\n"
+"with a wet wipe."
+msgstr ""
+
+#: [12]
+msgid ""
+"Caution!\n"
+"■Cut the edge of the patty. Since\n"
+"the 1/4th patties are thick,\n"
+"they may still be red after\n"
+"cooking. Check the inside to be\n"
+"sure they are not raw."
+msgstr ""

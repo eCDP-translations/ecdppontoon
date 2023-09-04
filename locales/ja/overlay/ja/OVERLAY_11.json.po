@@ -1,0 +1,122 @@
+#. extracted from translation/overlay/ja/OVERLAY_11.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .9064
+msgid "これから一緒に頑張りましょう！"
+msgstr ""
+
+#: .9096
+msgid ""
+"オリエンテーション終了、おめでとう\n"
+"あなたもマクドナルドの仲間です\n"
+"\n"
+msgstr ""
+
+#: .9396
+msgid "[テイクオフ]"
+msgstr ""
+
+#: .9420
+msgid "GoodJob!"
+msgstr ""
+
+#: .9432
+msgctxt ".9432"
+".9432"
+msgid "SOCチェック合格"
+msgstr ""
+
+#: .9448
+msgid "SOCチェック待ち"
+msgstr ""
+
+#: .9468
+msgctxt ".9468"
+msgid "eCDPランキング"
+msgstr ""
+
+#: .9484
+msgctxt ".9484"
+msgid "eCDPランキング"
+msgstr ""
+
+#: .9500
+msgctxt ".9500"
+msgid "テイクオフメッセージ"
+msgstr ""
+
+#: .9524
+msgctxt ".9524"
+msgid "SOCチェック合格"
+msgstr ""
+
+#: .9540
+msgctxt ".9540"
+msgid "テイクオフメッセージ"
+msgstr ""
+
+#: .9564
+msgctxt ".9564"
+msgid "SOCチェック合格"
+msgstr ""
+
+#: .9580
+msgid ""
+"Get Ready？\n"
+"準備はいいですか？"
+msgstr ""
+
+#: .9612
+msgid "送信済"
+msgstr ""
+
+#: .9620
+msgid "送信可能"
+msgstr ""
+
+#: .9632
+msgid ""
+"店舗でのオリエンテーションが終了\n"
+"したら、チームへの仲間入りを歓迎\n"
+"しましょう。\n"
+"スタンプを押して、クルーに励ましの\n"
+"メッセージを送ることができます。\n"
+"\n"
+"現在の設定 ： %s"
+msgstr ""
+
+#: .9800
+msgid "テイクオフを実行しますか？"
+msgstr ""
+
+#: .9828
+msgctxt ".9828"
+msgid "はい"
+msgstr ""
+
+#: .9836
+msgctxt ".9836"
+msgid "はい"
+msgstr ""
+
+#: .9844
+msgctxt ".9844"
+msgid "いいえ"
+msgstr ""
+
+#: .9852
+msgctxt ".9852"
+msgid "いいえ"
+msgstr ""

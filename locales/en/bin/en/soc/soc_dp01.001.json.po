@@ -1,0 +1,76 @@
+#. extracted from translation/bin/en/soc/soc_dp01.001.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Courtesy to Customers\n"
+"■Try your best to find what\n"
+"the customer needs."
+msgstr ""
+
+#: [1]
+msgid ""
+"Courtesy to Customers\n"
+"■The prices of the food are\n"
+"created with consideration\n"
+"for the customer."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cleaning the Store\n"
+"■For details on the\n"
+"cleaning tools, \n"
+"refer to the \"C&S\n"
+"Guide\"."
+msgstr ""
+
+#: [3]
+msgid ""
+"Cleaning the Store\n"
+"■Check the trash can in the\n"
+"tray bin and compress or\n"
+"empty it if needed."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cleaning the Store\n"
+"■When you mop the floor, put\n"
+"the wet floor sign out to let\n"
+"customers know to be careful."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cleaning the Store\n"
+"■Stock up the napkins and the\n"
+"ashtrays."
+msgstr ""
+
+#: [6]
+msgid ""
+"Cleaning the Store\n"
+"■Clean up the seats."
+msgstr ""
+
+#: [7]
+msgid ""
+"Cleaning Windows & Doors\n"
+"■For details on\n"
+"cleaning the doors\n"
+"and windows, refer\n"
+"to the \"C&S Guide\"."
+msgstr ""

@@ -1,0 +1,56 @@
+#. extracted from translation/bin/en/soc/soc_dp01.002.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Cleaning Procedures\n"
+"■Clean the bathrooms every 30m."
+msgstr ""
+
+#: [1]
+msgid ""
+"Cleaning Procedures\n"
+"■Use disposable gloves when\n"
+"cleaning."
+msgstr ""
+
+#: [2]
+msgid ""
+"Cleaning Procedures\n"
+"■Clean around the\n"
+"mirrors and sinks."
+msgstr ""
+
+#: [3]
+msgid ""
+"Cleaning Procedures\n"
+"■Clean the walls, partitions,\n"
+"doors and equipment."
+msgstr ""
+
+#: [4]
+msgid ""
+"Cleaning Procedures\n"
+"■Clean the toilets\n"
+"(big, small and\n"
+"the tanks)."
+msgstr ""
+
+#: [5]
+msgid ""
+"Cleaning Procedures\n"
+"■Clean the floors and doors\n"
+"to eliminate odours."
+msgstr ""

@@ -1,0 +1,96 @@
+#. extracted from translation/bin/en/soc/soc_dp07.001.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"Rotation\n"
+"■Follow rotation\n"
+"procedures when\n"
+"storing raw\n"
+"ingredients."
+msgstr ""
+
+#: [1]
+msgid ""
+"The Prep Table\n"
+"■Make sure the prep table is\n"
+"turned on."
+msgstr ""
+
+#: [2]
+msgid ""
+"Secondary Shelf Life\n"
+"■What is the secondary shelf\n"
+"life of each ingredient?"
+msgstr ""
+
+#: [3]
+msgid ""
+"Tempering Sauces\n"
+"■This means to return hot sauce\n"
+"to room temperature. It is\n"
+"important to temper the sauce\n"
+"correctly to maintain a high\n"
+"quality sandwich."
+msgstr ""
+
+#: [4]
+msgid ""
+"Tempering Sauces\n"
+"■Put a day-of-\n"
+"the-week\n"
+"sticker inside\n"
+"the dotted line."
+msgstr ""
+
+#: [5]
+msgid ""
+"Shelf Life\n"
+"■Keep track of\n"
+"secondary shelf\n"
+"lives of food\n"
+"items."
+msgstr ""
+
+#: [6]
+msgid ""
+"Rotation\n"
+"■How are the prep\n"
+"table ingredients\n"
+"rotated?"
+msgstr ""
+
+#: [7]
+msgid ""
+"UHC Holding Time\n"
+"■Why can I only use the raw\n"
+"ingredients within their\n"
+"holding time?"
+msgstr ""
+
+#: [8]
+msgid ""
+"UHC Holding Time\n"
+"■What is the holding time in\n"
+"the UHC for each ingredient?"
+msgstr ""
+
+#: [9]
+msgid ""
+"UHC Holding Time\n"
+"■Store meat, fried food, and\n"
+"eggs at temperatures of at\n"
+"least 60°C/140°F."
+msgstr ""

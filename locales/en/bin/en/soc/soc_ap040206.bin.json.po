@@ -1,0 +1,58 @@
+#. extracted from translation/bin/en/soc/soc_ap040206.bin.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: [0]
+msgid ""
+"■The maximum time for removal\n"
+"is 18s.\n"
+"■The maximum number that can\n"
+"be arranged on the UHC tray\n"
+"is 24 (4 columns and 6 rows)."
+msgstr ""
+
+#: [1]
+msgid ""
+"■Insert the spatula under the\n"
+"patty and hold it down with\n"
+"the grey Hutzler spatula so\n"
+"that it doesn't fall off.\n"
+"■Remove one layer at a time\n"
+"and stack four of them."
+msgstr ""
+
+#: [2]
+msgid ""
+"■If the blade of the spatula\n"
+"is not sharp enough, the\n"
+"patties may break when you\n"
+"remove them. They will then\n"
+"dry out during holding."
+msgstr ""
+
+#: [3]
+msgid ""
+"■Tilt the spatula to cut the\n"
+"meat juices. Press the patties\n"
+"with a grey Hutzler spatula,\n"
+"then tranfser them to a UHC\n"
+"tray lined with a liner."
+msgstr ""
+
+#: [4]
+msgid ""
+"■Do not put freshly baked\n"
+"sausage patties in the same\n"
+"tray as old sausage patties."
+msgstr ""

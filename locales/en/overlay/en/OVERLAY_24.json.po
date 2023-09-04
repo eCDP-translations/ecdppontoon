@@ -1,0 +1,346 @@
+#. extracted from translation/overlay/en/OVERLAY_24.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 15:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.6.0\n"
+
+#: .23680
+msgctxt ".23680"
+".23680"
+msgid "Open the platen."
+msgstr ""
+
+#: .22972
+msgctxt ".22972"
+".22972"
+msgid "Please press"
+msgstr ""
+
+#: .23152
+msgctxt ".23152"
+".23152"
+msgid "the switch."
+msgstr ""
+
+#: .23780
+msgctxt ".23780"
+msgid "Open the platen."
+msgstr ""
+
+#: .22960
+msgctxt ".22960"
+msgid "Please press"
+msgstr ""
+
+#: .23200
+msgctxt ".23200"
+msgid "the switch."
+msgstr ""
+
+#: .23660
+msgctxt ".23660"
+msgid "Open the platen."
+msgstr ""
+
+#: .22984
+msgctxt ".22984"
+msgid "Please press"
+msgstr ""
+
+#: .23072
+msgctxt ".23072"
+msgid "the switch."
+msgstr ""
+
+#: .23088
+msgctxt ".23088"
+".23088"
+msgid "Place patties"
+msgstr ""
+
+#: .23720
+msgctxt ".23720"
+".23720"
+msgid "and close platen."
+msgstr ""
+
+#: .23700
+msgctxt ".23700"
+".23700"
+msgid "Arrange from"
+msgstr ""
+
+#: .22848
+msgctxt ".22848"
+".22848"
+msgid "front to back."
+msgstr ""
+
+#: .23168
+msgctxt ".23168"
+msgid "Place patties"
+msgstr ""
+
+#: .23840
+msgctxt ".23840"
+msgid "and close platen."
+msgstr ""
+
+#: .23800
+msgctxt ".23800"
+msgid "Arrange from"
+msgstr ""
+
+#: .22856
+msgctxt ".22856"
+msgid "front to back."
+msgstr ""
+
+#: .23136
+msgctxt ".23136"
+msgid "Place patties"
+msgstr ""
+
+#: .23760
+msgctxt ".23760"
+msgid "and close platen."
+msgstr ""
+
+#: .23740
+msgctxt ".23740"
+msgid "Arrange from"
+msgstr ""
+
+#: .22864
+msgctxt ".22864"
+msgid "front to back."
+msgstr ""
+
+#: .23860
+msgctxt ".23860"
+msgid "Don't forget to"
+msgstr ""
+
+#: .23232
+msgctxt ".23232"
+msgid "wipe your hands!"
+msgstr ""
+
+#: .23488
+msgctxt ".23488"
+msgid "Try to prevent"
+msgstr ""
+
+#: .23820
+msgctxt ".23820"
+msgid "cross-contamination."
+msgstr ""
+
+#: .23620
+msgctxt ".23620"
+msgid "Don't forget to"
+msgstr ""
+
+#: .23504
+msgctxt ".23504"
+msgid "wipe your hands!"
+msgstr ""
+
+#: .23552
+msgctxt ".23552"
+msgid "Try to prevent"
+msgstr ""
+
+#: .23600
+msgctxt ".23600"
+msgid "cross-contamination."
+msgstr ""
+
+#: .23392
+msgid "Front to back."
+msgstr ""
+
+#: .22996
+msgid "Left to right."
+msgstr ""
+
+#: .23900
+msgctxt ".23900"
+msgid "Sprinkle on the"
+msgstr ""
+
+#: .23024
+msgctxt ".23024"
+msgid "seasoning."
+msgstr ""
+
+#: .23640
+msgid "Check you have"
+msgstr ""
+
+#: .23184
+msgid "the right amount."
+msgstr ""
+
+#: .23880
+msgctxt ".23880"
+msgid "Sprinkle on the"
+msgstr ""
+
+#: .23104
+msgctxt ".23104"
+msgid "seasoning."
+msgstr ""
+
+#: .23360
+msgctxt ".23360"
+msgid "Prepare a tray"
+msgstr ""
+
+#: .23040
+msgid "for removal"
+msgstr ""
+
+#: .23248
+msgctxt ".23248"
+".23248"
+msgid "Stack 4 at a"
+msgstr ""
+
+#: .23328
+msgctxt ".23328"
+".23328"
+".23328"
+msgid "time and remove."
+msgstr ""
+
+#: .23520
+msgctxt ".23520"
+msgid "Prepare a tray"
+msgstr ""
+
+#: .23120
+msgid "for removal."
+msgstr ""
+
+#: .23280
+msgctxt ".23280"
+msgid "Stack 4 at a"
+msgstr ""
+
+#: .23536
+msgctxt ".23536"
+msgid "time and remove."
+msgstr ""
+
+#: .23008
+msgctxt ".23008"
+msgid "Removal"
+msgstr ""
+
+#: .23216
+msgctxt ".23216"
+msgid "Stack 4 at a"
+msgstr ""
+
+#: .23296
+msgctxt ".23296"
+msgid "time and remove."
+msgstr ""
+
+#: .23056
+msgctxt ".23056"
+msgid "Removal"
+msgstr ""
+
+#: .23408
+msgid "Stack 3 at a"
+msgstr ""
+
+#: .23424
+msgctxt ".23424"
+msgid "time and remove."
+msgstr ""
+
+#: .23568
+msgctxt ".23568"
+".23568"
+msgid "Press the timer"
+msgstr ""
+
+#: .22948
+msgctxt ".22948"
+".22948"
+msgid "and store it."
+msgstr ""
+
+#: .23440
+msgctxt ".23440"
+".23440"
+msgid "The holding"
+msgstr ""
+
+#: .23472
+msgctxt ".23472"
+msgid "time is 60m."
+msgstr ""
+
+#: .23344
+msgctxt ".23344"
+msgid "Press the timer"
+msgstr ""
+
+#: .22936
+msgctxt ".22936"
+msgid "and store it."
+msgstr ""
+
+#: .23376
+msgctxt ".23376"
+msgid "The holding"
+msgstr ""
+
+#: .23312
+msgid "time is 15m."
+msgstr ""
+
+#: .23264
+msgctxt ".23264"
+msgid "Press the timer"
+msgstr ""
+
+#: .22924
+msgctxt ".22924"
+msgid "and store it."
+msgstr ""
+
+#: .23584
+msgctxt ".23584"
+msgid "The holding"
+msgstr ""
+
+#: .23456
+msgctxt ".23456"
+msgid "time is 60m."
+msgstr ""
+
+#: .23920
+msgid "Press right on the D-pad."
+msgstr ""
+
+#: .23952
+msgid "Drag the basket to the left."
+msgstr ""
+
+#: .23988
+msgid "Drag the basket to the right."
+msgstr ""
